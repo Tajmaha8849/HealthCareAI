@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Disclaimer</title>
+    <link rel="stylesheet" href="styles.css">
+
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f5f5f5;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        
+        nav {
+            background-color: #007bff;
+            padding: 1rem;
+        }
+        
+        nav ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: space-around;
+        }
+        
+        nav ul li {
+            margin: 0;
+        }
+        
+        nav ul li a {
+            color: white;
+            text-decoration: none;
+            padding: 0.5rem 1rem;
+            display: block;
+            transition: background-color 0.3s;
+        }
+        
+        nav ul li a:hover {
+            background-color: #0056b3;
+        }
+        
+        section {
+            margin: 2rem auto;
+            max-width: 800px;
+            padding: 1rem;
+            background-color: white;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+        }
+        
+        footer {
+            text-align: center;
+            padding: 1rem 0;
+            background-color: #007bff;
+            color: white;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+        
+        footer p {
+            margin: 0;
+            font-size: 0.9rem;
+        }
+        
+        /* Responsive Design */
+        @media (max-width: 600px) {
+            nav ul {
+                flex-direction: column;
+                gap: 0;
+            }
+        
+            nav ul li a {
+                display: block;
+                width: 100%;
+                text-align: center;
+            }
+        }
+        
+      
+    
+        </style>
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="/about">About</a></li>
+            <li><a href="/contactus">Contact Us</a></li>
+            <li><a href="/disclaimer">Disclaimer</a></li>
+            <li><a href="/terms">Terms & Conditions</a></li>
+        </ul>
+    </nav>
+
+    <section id="disclaimer">
+        <h2>Disclaimer</h2>
+        <p>The information provided by AI Healthcare Optimization is for informational purposes only and is not intended as a substitute for professional medical advice, diagnosis, or treatment.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 AI Healthcare Optimization. All rights reserved.</p>
+    </footer>
+</body>
+</html>

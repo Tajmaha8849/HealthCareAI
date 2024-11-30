@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Healthcare Optimization</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f5f5f5;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+
+        nav {
+            background-color: #007bff;
+            padding: 1rem;
+        }
+
+        nav ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: space-around;
+        }
+
+        nav ul li {
+            margin: 0;
+        }
+
+        nav ul li a {
+            color: white;
+            text-decoration: none;
+            padding: 0.5rem 1rem;
+            display: block;
+            transition: background-color 0.3s;
+        }
+
+        nav ul li a:hover {
+            background-color: #0056b3;
+        }
+
+        section {
+            margin: 2rem auto;
+            max-width: 800px;
+            padding: 1rem;
+            background-color: white;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+        }
+
+        footer {
+            text-align: center;
+            padding: 1rem 0;
+            background-color: #007bff;
+            color: white;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+
+        form label {
+            margin-bottom: 0.5rem;
+            font-weight: bold;
+        }
+
+        form select, form input[type="number"], form button {
+            padding: 0.5rem;
+            margin-bottom: 1rem;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            font-size: 1rem;
+        }
+
+        form button {
+            background-color: #007bff;
+            color: white;
+            border: none;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+
+        form button:hover {
+            background-color: #0056b3;
+        }
+
+        footer p {
+            margin: 0;
+            font-size: 0.9rem;
+        }
+
+        /* Responsive Design */
+        @media (max-width: 600px) {
+            nav ul {
+                flex-direction: column;
+                gap: 0;
+            }
+
+            nav ul li a {
+                display: block;
+                width: 100%;
+                text-align: center;
+            }
+        }
+    </style>
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="/about">About</a></li>
+            <li><a href="/contactus">Contact Us</a></li>
+            <li><a href="/disclaimer">Disclaimer</a></li>
+            <li><a href="/terms">Terms & Conditions</a></li>
+        </ul>
+    </nav>
+
+    <div class="container mt-5">
+        <h1 style="margin-top: 0; font-weight: 300; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); border-radius: 8px; margin: 2rem auto; max-width: 800px; padding: 1rem; background-color: white; text-align: center;">AI Healthcare Optimization</h1>
+        <div class="mt-3">
+            <button onclick="location.href='/1Objective'" class="btn btn-primary btn-lg btn-block">Hospital Workflow Status</button>
+        </div>
+        <div class="mt-3">
+            <button onclick="location.href='/4Objective'" class="btn btn-secondary btn-lg btn-block">Remote Patient Monitoring</button>
+        </div>
+        <div class="mt-3">
+            <button onclick="location.href='/5Objective'" class="btn btn-success btn-lg btn-block">Medical Image Analysis</button>
+        </div>
+        <div class="mt-3">
+            <button onclick="location.href='/6Objective'" class="btn btn-danger btn-lg btn-block">Health Outcome Predictor</button>
+        </div>
+        <div class="mt-3">
+            <button onclick="location.href='/7Objective'" class="btn btn-warning btn-lg btn-block">WellGuard AI</button>
+        </div>
+        <div class="mt-3">
+            <button onclick="location.href='/11Objective'" class="btn btn-info btn-lg btn-block">Disease Recommendations</button>
+        </div>
+        <div class="mt-3">
+            <button onclick="location.href='/9Objective'" class="btn btn-dark btn-lg btn-block">MOOD TRACKER USING IMAGE</button>
+        </div>
+    </div>
+    
+    <section id="home">
+        <h2>Welcome to AI Healthcare Optimization</h2>
+        <p>Your companion for better healthcare outcomes through AI technology.</p>
+    </section>
+
+    <section id="mood-tracker">
+        <h2>Mood Tracker</h2>
+        <form action="/predicts" method="post">
+            <label for="activity_level">Select your activity level:</label>
+            <select id="activity_level" name="activity_level">
+                <option value="1">Very low activity (e.g., sedentary or resting)</option>
+                <option value="5">Moderate activity (e.g., walking or light physical work)</option>
+                <option value="10">Very high activity (e.g., intense exercise or physically demanding work)</option>
+            </select>
+            <br><br>
+            <label for="sleep_quality">Enter your sleep quality (1-10):</label>
+            <input type="number" id="sleep_quality" name="sleep_quality" min="1" max="10" required>
+            <br><br>
+            <button type="submit">Predict Mood</button>
+        </form>
+    </section>
+
+    <section id="tips">
+        <h2>Mental Health Tips</h2>
+        <ul>
+            <li>Take deep breaths and relax.</li>
+            <li>Practice mindfulness and meditation.</li>
+            <li>Stay connected with loved ones.</li>
+            <li>Exercise regularly.</li>
+            <li>Get enough sleep.</li>
+        </ul>
+    </section>
+
+    <!-- <section id="about">
+        <h2>About Us</h2>
+        <p>We are dedicated to improving healthcare outcomes through the use of AI technology. Our team works tirelessly to provide innovative solutions for healthcare optimization.</p>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>If you have any questions or need further information, please reach out to us at contact@aihealthcare.com.</p>
+    </section>
+
+    <section id="disclaimer">
+        <h2>Disclaimer</h2>
+        <p>The information provided by AI Healthcare Optimization is for informational purposes only and is not intended as a substitute for professional medical advice, diagnosis, or treatment.</p>
+    </section>
+
+    <section id="terms">
+        <h2>Terms & Conditions</h2>
+        <p>By using our services, you agree to our terms and conditions. Please read them carefully.</p>
+    </section> -->
+
+    <footer>
+        <p>&copy; 2024 AI Healthcare Optimization. All rights reserved.</p>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Prediction Results</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style4.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Prediction Results</h1>
+        <p><strong>Heart Rate:</strong> {{ heart_rate }}</p>
+        <p><strong>Blood Pressure:</strong> {{ blood_pressure }}</p>
+        <p><strong>Temperature:</strong> {{ temperature }}</p>
+        <h2>Prediction:</h2>
+        <p><strong>{{ result.risk_status }}</strong>: {{ result.risk_value }}</p>
+        <h3>Probability Estimates:</h3>
+        <p><strong>Not at Risk:</strong> {{ result.probability.not_at_risk }}</p>
+        <p><strong>At Risk:</strong> {{ result.probability.at_risk }}</p>
+        <a href="/">Go Back</a>
+    </div>
+</body>
+</html>

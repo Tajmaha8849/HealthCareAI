@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personalized Medicine Prediction</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        form {
+            max-width: 500px;
+            margin: auto;
+            padding: 20px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+        label {
+            font-weight: bold;
+        }
+        input[type="text"], select {
+            width: 100%;
+            padding: 8px;
+            margin: 5px 0 15px;
+            display: inline-block;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            box-sizing: border-box;
+        }
+        button {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            float: right;
+        }
+        button:hover {
+            background-color: #45a049;
+        }
+        .result {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h2>WellnessGuard AI</h2>
+    <form id="predictionForm">
+        <label for="age">Age:</label>
+        <input type="text" id="age" name="age" required>
+
+        <label for="gender">Gender:</label>
+        <select id="gender" name="gender" required>
+            <option value="M">Male</option>
+            <option value="F">Female</option>
+        </select>
+
+        <label for="ethnicity">Ethnicity:</label>
+        <input type="text" id="ethnicity" name="ethnicity" required>
+
+        <label for="weight">Weight (kg):</label>
+        <input type="text" id="weight" name="weight" required>
+
+        <label for="height">Height (cm):</label>
+        <input type="text" id="height" name="height" required>
+
+        <label for="previous_diagnoses">Previous Diagnoses:</label>
+        <input type="text" id="previous_diagnoses" name="previous_diagnoses" required>
+
+        <label for="family_history">Family History:</label>
+        <input type="text" id="family_history" name="family_history" required>
+
+        <label for="genetic_markers">Genetic Markers:</label>
+        <input type="text" id="genetic_markers" name="genetic_markers" required>
+
+        <label for="current_diagnosis">Current Diagnosis:</label>
+        <input type="text" id="current_diagnosis" name="current_diagnosis" required>
+
+        <label for="vital_signs">Vital Signs:</label>
+        <input type="text" id="vital_signs" name="vital_signs" required>
+
+        <label for="lab_results">Lab Results:</label>
+        <input type="text" id="lab_results" name="lab_results" required>
+
+        <label for="treatment_type">Treatment Type:</label>
+        <input type="text" id="treatment_type" name="treatment_type" required>
+
+        <label for="dosage">Dosage:</label>
+        <input type="text" id="dosage" name="dosage" required>
+
+        <label for="frequency">Frequency:</label>
+        <input type="text" id="frequency" name="frequency" required>
+
+        <label for="duration">Duration:</label>
+        <input type="text" id="duration" name="duration" required>
+
+        <label for="adherence">Adherence:</label>
+        <select id="adherence" name="adherence" required>
+            <option value="Yes">Yes</option>
+            <option value="No">No</option>
+        </select>
+
+        <label for="lifestyle_factors">Lifestyle Factors:</label>
+        <select id="lifestyle_factors" name="lifestyle_factors" required>
+            <option value="Non-smoker">Non-smoker</option>
+            <option value="Smoker">Smoker</option>
+        </select>
+
+        <button type="submit">Predict</button>
+    </form>
+
+    <div class="result" id="resultDiv" style="display: none;">
+        <h3>Prediction Result:</h3>
+        <p id="predictionResult"></p>
+    </div>
+
+    <script>
+        document.getElementById("predictionForm").addEventListener("submit", function(event) {
+            event.preventDefault();
+            var formData = new FormData(this);
+            fetch('/predict7', {
+                method: 'POST',
+                body: JSON.stringify(Object.fromEntries(formData)),
+                headers: {
+                    'Content-Type': 'application/json'
+                }
+            })
+            .then(response => response.json())
+            .then(data => {
+                document.getElementById("predictionResult").textContent = data.prediction;
+                document.getElementById("resultDiv").style.display = "block";
+            })
+            .catch(error => console.error('Error:', error));
+        });
+    </script>
+</body>
+</html>

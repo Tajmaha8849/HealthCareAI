@@ -1,0 +1,9 @@
+PatientID,Age,Gender,Ethnicity,ChronicCondition1,ChronicCondition2,BP_Systolic,BP_Diastolic,Glucose,BMI,Medication1,Medication2,HospitalAdmissions,Outcome
+1,65,M,White,Diabetes,Hypertension,140.0,90.0,120,30,Metformin,Statins,2,Survived
+2,45,F,Hispanic,Hypertension,,,,110,28,Beta-blockers,ACE inhibitors,1,Improved
+3,70,M,Black,Heart disease,,,,130,26,Aspirin,Warfarin,3,Died
+4,55,F,Asian,,,130.0,85.0,140,32,Insulin,Diuretics,2,Stable
+5,60,M,White,Diabetes,,145.0,95.0,160,29,Insulin,Statins,1,Improved
+6,50,F,Hispanic,Heart disease,,,,120,25,Aspirin,,1,Stable
+7,62,F,White,Diabetes,,150.0,92.0,130,31,Metformin,,2,Survived
+8,48,M,Asian,Hypertension,,135.0,88.0,115,27,Beta-blockers,ACE inhibitors,1,Improved

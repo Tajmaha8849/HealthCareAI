@@ -1,0 +1,1001 @@
+Age,Gender,Ethnicity,Weight,Height,Previous Diagnoses,Family History,Genetic Markers,Current Diagnosis,Vital Signs,Lab Results,Treatment Type,Dosage,Frequency,Duration,Adherence,Lifestyle Factors,Treatment Outcome
+60,M,Asian,71,165,Diabetes,Cancer,Marker2,Cancer,"BP, HR, Temp",Glucose,Chemotherapy,50mg,,1 year,No,Smoker,Worsened
+41,F,Asian,73,187,Diabetes,Heart Disease,Marker3,Cancer,"BP, HR, Temp",CBC,Medication,,Weekly,3 months,Yes,Smoker,Worsened
+43,F,Asian,58,156,Arthritis,None,Marker3,Cancer,"BP, HR, Temp",Glucose,Surgery,100mg,Weekly,3 months,No,Smoker,Improved
+38,M,Hispanic,98,189,None,None,Marker3,Diabetes,"BP, HR, Temp",Cholesterol,Surgery,100mg,Weekly,3 months,No,Smoker,Worsened
+21,F,African American,56,188,None,Heart Disease,Marker3,Cancer,"BP, HR",Cholesterol,Chemotherapy,100mg,Weekly,6 months,Yes,Non-smoker,Improved
+73,M,African American,79,196,Diabetes,Cancer,Marker2,Diabetes,"BP, HR, Temp",Cholesterol,Chemotherapy,50mg,,6 months,No,Smoker,Improved
+71,M,Hispanic,85,196,Hypertension,None,Marker1,Hypertension,"BP, HR",CBC,Medication,50mg,Weekly,3 months,Yes,Smoker,Improved
+62,M,African American,65,159,None,None,Marker2,Hypertension,"BP, HR, Temp",Glucose,Surgery,,Daily,3 months,Yes,Smoker,No Change
+51,M,Asian,81,194,None,Cancer,Marker3,Diabetes,"BP, HR",Cholesterol,Chemotherapy,100mg,,6 months,No,Smoker,No Change
+51,M,Hispanic,83,185,Hypertension,None,Marker1,Hypertension,"BP, HR, Temp",Glucose,Surgery,,Weekly,6 months,Yes,Non-smoker,No Change
+28,M,Hispanic,61,160,Diabetes,Cancer,Marker3,Cancer,"BP, HR, Temp",Glucose,Chemotherapy,,,6 months,No,Non-smoker,Improved
+46,M,Hispanic,66,180,Diabetes,None,Marker1,Cancer,"BP, HR, Temp",Glucose,Medication,50mg,Weekly,1 year,No,Non-smoker,Worsened
+52,F,Asian,96,168,Arthritis,Cancer,Marker3,Hypertension,"BP, HR",Glucose,Medication,,,1 year,No,Smoker,Worsened
+67,M,Hispanic,64,160,None,Cancer,Marker2,Hypertension,"BP, HR, Temp",CBC,Surgery,50mg,,6 months,No,Non-smoker,Improved
+27,F,Hispanic,62,190,None,None,Marker1,Hypertension,"BP, HR",Cholesterol,Medication,50mg,,1 year,Yes,Non-smoker,No Change
+54,M,Asian,65,197,Arthritis,Cancer,Marker3,Diabetes,"BP, HR, Temp",CBC,Medication,,,3 months,Yes,Non-smoker,No Change
+40,F,Hispanic,62,168,Diabetes,Cancer,Marker3,Hypertension,"BP, HR, Temp",Glucose,Chemotherapy,,,1 year,No,Smoker,Improved
+46,M,Caucasian,53,169,Diabetes,Cancer,Marker2,Diabetes,"BP, HR, Temp",CBC,Chemotherapy,50mg,Weekly,3 months,Yes,Non-smoker,No Change
+37,M,African American,71,174,Arthritis,Cancer,Marker1,Hypertension,"BP, HR, Temp",Cholesterol,Surgery,50mg,Daily,6 months,No,Non-smoker,Improved
+44,M,Caucasian,63,184,None,Heart Disease,Marker3,Cancer,"BP, HR",Cholesterol,Medication,,Weekly,1 year,Yes,Smoker,Improved
+59,M,Caucasian,61,152,Diabetes,Heart Disease,Marker3,Cancer,"BP, HR, Temp",CBC,Surgery,,,1 year,Yes,Smoker,Worsened
+75,M,Caucasian,51,181,Diabetes,None,Marker2,Hypertension,"BP, HR, Temp",Cholesterol,Surgery,,,1 year,Yes,Smoker,No Change
+53,M,African American,63,189,Hypertension,None,Marker3,Diabetes,"BP, HR",CBC,Chemotherapy,50mg,Weekly,1 year,No,Smoker,Worsened
+71,F,Caucasian,74,159,None,None,Marker2,Cancer,"BP, HR, Temp",Glucose,Medication,,,3 months,No,Smoker,Worsened
+64,M,African American,83,172,Hypertension,None,Marker2,Hypertension,"BP, HR, Temp",Cholesterol,Medication,100mg,Weekly,6 months,Yes,Non-smoker,Worsened
+33,M,Hispanic,67,164,Diabetes,None,Marker3,Cancer,"BP, HR, Temp",CBC,Chemotherapy,50mg,,3 months,No,Non-smoker,Improved
+45,F,African American,69,160,None,Heart Disease,Marker1,Diabetes,"BP, HR, Temp",CBC,Medication,100mg,,6 months,No,Smoker,No Change
+41,M,African American,50,179,Arthritis,Heart Disease,Marker2,Cancer,"BP, HR, Temp",Cholesterol,Surgery,100mg,Daily,6 months,Yes,Non-smoker,No Change
+74,M,African American,56,159,None,Cancer,Marker1,Hypertension,"BP, HR",Cholesterol,Medication,50mg,Daily,3 months,Yes,Non-smoker,Improved
+50,F,Caucasian,85,183,Arthritis,Cancer,Marker1,Hypertension,"BP, HR",CBC,Chemotherapy,,,6 months,No,Non-smoker,Improved
+63,M,Hispanic,54,153,Arthritis,Cancer,Marker2,Diabetes,"BP, HR, Temp",Cholesterol,Medication,,Weekly,1 year,Yes,Smoker,Improved
+34,F,Asian,69,169,Hypertension,Cancer,Marker3,Diabetes,"BP, HR, Temp",Cholesterol,Chemotherapy,,Weekly,1 year,Yes,Non-smoker,Worsened
+42,F,African American,64,163,None,Heart Disease,Marker2,Hypertension,"BP, HR, Temp",CBC,Chemotherapy,50mg,Weekly,3 months,Yes,Smoker,No Change
+62,M,Hispanic,56,172,Hypertension,Heart Disease,Marker3,Hypertension,"BP, HR, Temp",Cholesterol,Medication,50mg,,3 months,No,Smoker,Improved
+29,M,Hispanic,75,170,Diabetes,Heart Disease,Marker3,Hypertension,"BP, HR",Glucose,Surgery,50mg,Daily,3 months,Yes,Smoker,No Change
+51,F,Hispanic,54,184,Diabetes,Heart Disease,Marker3,Cancer,"BP, HR, Temp",CBC,Medication,50mg,,6 months,Yes,Smoker,No Change
+73,F,African American,96,170,Arthritis,Cancer,Marker1,Diabetes,"BP, HR",Glucose,Medication,50mg,Daily,6 months,No,Non-smoker,Worsened
+72,M,Hispanic,61,172,Hypertension,Heart Disease,Marker1,Cancer,"BP, HR",Cholesterol,Chemotherapy,100mg,Daily,1 year,No,Non-smoker,Worsened
+41,M,African American,72,185,Arthritis,Cancer,Marker1,Hypertension,"BP, HR",Glucose,Surgery,50mg,Weekly,1 year,Yes,Non-smoker,Improved
+57,M,Asian,88,155,Arthritis,Heart Disease,Marker1,Cancer,"BP, HR, Temp",Cholesterol,Medication,100mg,,1 year,Yes,Smoker,Improved
+20,M,Caucasian,71,151,None,Heart Disease,Marker1,Diabetes,"BP, HR, Temp",Cholesterol,Chemotherapy,,Daily,1 year,No,Smoker,Worsened
+79,M,Asian,96,167,Arthritis,Cancer,Marker2,Cancer,"BP, HR",CBC,Medication,50mg,Weekly,3 months,No,Smoker,No Change
+75,F,African American,66,151,Hypertension,Heart Disease,Marker2,Diabetes,"BP, HR, Temp",Glucose,Medication,,Weekly,3 months,Yes,Non-smoker,Improved
+68,F,African American,80,199,Hypertension,Heart Disease,Marker3,Diabetes,"BP, HR, Temp",Glucose,Surgery,100mg,Weekly,3 months,No,Smoker,Worsened
+79,F,Hispanic,73,169,None,Cancer,Marker3,Cancer,"BP, HR, Temp",CBC,Medication,,,3 months,Yes,Smoker,No Change
+56,M,Asian,75,197,Hypertension,None,Marker3,Hypertension,"BP, HR, Temp",Glucose,Medication,50mg,Weekly,3 months,No,Smoker,No Change
+44,F,Caucasian,79,154,None,Heart Disease,Marker3,Hypertension,"BP, HR, Temp",CBC,Medication,,,1 year,Yes,Smoker,No Change
+51,F,African American,50,183,Diabetes,None,Marker3,Hypertension,"BP, HR",Glucose,Medication,100mg,,3 months,No,Non-smoker,No Change
+69,M,African American,80,191,None,None,Marker3,Diabetes,"BP, HR, Temp",Cholesterol,Medication,50mg,,3 months,No,Smoker,No Change
+26,M,Hispanic,64,161,Arthritis,None,Marker1,Cancer,"BP, HR",Glucose,Medication,50mg,,3 months,Yes,Non-smoker,Worsened
+20,F,African American,78,170,None,Cancer,Marker1,Cancer,"BP, HR",Cholesterol,Chemotherapy,100mg,Daily,1 year,No,Non-smoker,Improved
+51,F,Hispanic,61,181,Hypertension,Cancer,Marker3,Diabetes,"BP, HR, Temp",CBC,Chemotherapy,50mg,,3 months,No,Smoker,No Change
+19,F,Asian,92,160,None,Heart Disease,Marker3,Cancer,"BP, HR",Cholesterol,Medication,50mg,Daily,1 year,Yes,Smoker,No Change
+24,M,Asian,79,188,Hypertension,None,Marker1,Diabetes,"BP, HR, Temp",Glucose,Surgery,50mg,Weekly,1 year,No,Non-smoker,Improved
+68,M,Hispanic,92,156,Arthritis,Cancer,Marker2,Cancer,"BP, HR, Temp",Cholesterol,Chemotherapy,,,1 year,Yes,Non-smoker,No Change
+72,M,Caucasian,70,182,Arthritis,Heart Disease,Marker2,Cancer,"BP, HR",Cholesterol,Surgery,50mg,Weekly,3 months,Yes,Non-smoker,No Change
+51,M,African American,63,193,Arthritis,Heart Disease,Marker1,Hypertension,"BP, HR",Glucose,Chemotherapy,50mg,Weekly,1 year,No,Non-smoker,Worsened
+20,F,Hispanic,54,160,Diabetes,Cancer,Marker3,Diabetes,"BP, HR",Glucose,Medication,50mg,,3 months,Yes,Smoker,No Change
+18,F,Caucasian,98,170,None,Cancer,Marker1,Diabetes,"BP, HR, Temp",CBC,Chemotherapy,50mg,Weekly,1 year,No,Non-smoker,No Change
+18,F,Caucasian,57,190,Arthritis,Heart Disease,Marker1,Hypertension,"BP, HR, Temp",CBC,Surgery,100mg,Daily,1 year,No,Non-smoker,No Change
+33,M,African American,74,158,None,Heart Disease,Marker1,Diabetes,"BP, HR, Temp",Glucose,Surgery,,Weekly,6 months,No,Smoker,No Change
+21,M,African American,71,189,Diabetes,Heart Disease,Marker1,Cancer,"BP, HR, Temp",Glucose,Chemotherapy,,Weekly,1 year,Yes,Smoker,Worsened
+27,F,African American,97,153,Hypertension,Cancer,Marker1,Cancer,"BP, HR",Cholesterol,Surgery,50mg,,3 months,No,Smoker,Worsened
+25,F,Asian,63,160,Arthritis,Cancer,Marker2,Cancer,"BP, HR",Cholesterol,Medication,50mg,,3 months,No,Non-smoker,No Change
+28,M,African American,75,164,Diabetes,Heart Disease,Marker2,Diabetes,"BP, HR, Temp",Glucose,Medication,50mg,Weekly,6 months,No,Non-smoker,No Change
+26,M,Caucasian,58,182,Arthritis,Heart Disease,Marker2,Cancer,"BP, HR",CBC,Surgery,100mg,,6 months,No,Non-smoker,Worsened
+57,M,African American,79,190,None,None,Marker2,Hypertension,"BP, HR",Cholesterol,Surgery,50mg,,3 months,No,Smoker,Worsened
+44,F,Asian,99,179,Hypertension,None,Marker2,Hypertension,"BP, HR, Temp",Cholesterol,Surgery,50mg,,3 months,No,Non-smoker,No Change
+35,M,Asian,59,161,Diabetes,None,Marker3,Hypertension,"BP, HR",CBC,Chemotherapy,,Daily,3 months,Yes,Smoker,No Change
+70,M,Hispanic,98,171,None,None,Marker1,Hypertension,"BP, HR, Temp",Cholesterol,Surgery,,,6 months,Yes,Non-smoker,Improved
+79,F,Caucasian,85,186,Diabetes,Cancer,Marker3,Hypertension,"BP, HR",Glucose,Surgery,50mg,Daily,3 months,Yes,Non-smoker,Improved
+61,F,African American,89,169,Hypertension,Heart Disease,Marker1,Hypertension,"BP, HR, Temp",CBC,Medication,100mg,,3 months,No,Non-smoker,Improved
+72,F,Caucasian,59,168,Arthritis,None,Marker2,Diabetes,"BP, HR",Glucose,Surgery,50mg,,6 months,No,Smoker,Worsened
+27,M,Caucasian,84,178,Arthritis,Cancer,Marker3,Diabetes,"BP, HR, Temp",CBC,Medication,100mg,Daily,6 months,Yes,Non-smoker,No Change
+19,F,Hispanic,86,168,Diabetes,Heart Disease,Marker3,Hypertension,"BP, HR",Glucose,Medication,,,6 months,No,Non-smoker,Worsened
+31,F,African American,81,169,None,None,Marker3,Diabetes,"BP, HR, Temp",CBC,Surgery,,Weekly,3 months,No,Non-smoker,Worsened
+52,F,Caucasian,80,163,Hypertension,Heart Disease,Marker2,Hypertension,"BP, HR",CBC,Medication,100mg,Weekly,3 months,Yes,Smoker,No Change
+56,F,Hispanic,53,159,Hypertension,None,Marker2,Cancer,"BP, HR",CBC,Medication,100mg,,3 months,No,Smoker,Worsened
+44,F,Asian,82,196,Arthritis,Heart Disease,Marker2,Cancer,"BP, HR",Cholesterol,Medication,100mg,Daily,6 months,Yes,Smoker,No Change
+53,F,Hispanic,90,162,Arthritis,Heart Disease,Marker2,Hypertension,"BP, HR, Temp",CBC,Chemotherapy,,,3 months,No,Smoker,Improved
+22,M,Hispanic,51,197,Diabetes,Heart Disease,Marker2,Cancer,"BP, HR, Temp",Cholesterol,Chemotherapy,100mg,Weekly,6 months,Yes,Non-smoker,Worsened
+54,M,African American,61,170,Hypertension,Heart Disease,Marker3,Diabetes,"BP, HR",Glucose,Medication,100mg,Weekly,1 year,No,Smoker,Improved
+75,F,Asian,99,172,Arthritis,Heart Disease,Marker3,Hypertension,"BP, HR",CBC,Surgery,,Weekly,1 year,No,Smoker,No Change
+76,M,Asian,97,183,Diabetes,Heart Disease,Marker3,Cancer,"BP, HR, Temp",Glucose,Chemotherapy,,Weekly,6 months,Yes,Non-smoker,Improved
+62,F,Caucasian,85,175,Diabetes,None,Marker3,Cancer,"BP, HR, Temp",Cholesterol,Medication,,Weekly,3 months,No,Smoker,No Change
+65,F,African American,93,171,Hypertension,Cancer,Marker3,Hypertension,"BP, HR",Glucose,Chemotherapy,100mg,Daily,1 year,Yes,Non-smoker,Worsened
+34,M,Asian,59,172,Arthritis,Heart Disease,Marker3,Diabetes,"BP, HR",Cholesterol,Medication,100mg,,6 months,No,Non-smoker,Improved
+53,F,Asian,96,152,None,None,Marker3,Cancer,"BP, HR, Temp",Cholesterol,Surgery,50mg,Weekly,6 months,No,Smoker,No Change
+33,F,Hispanic,54,163,Hypertension,Heart Disease,Marker1,Diabetes,"BP, HR, Temp",CBC,Surgery,,Daily,6 months,Yes,Non-smoker,Improved
+31,F,African American,83,159,Arthritis,Heart Disease,Marker1,Hypertension,"BP, HR, Temp",CBC,Medication,,,1 year,Yes,Non-smoker,Worsened
+60,M,Hispanic,54,178,Diabetes,Heart Disease,Marker2,Cancer,"BP, HR, Temp",Cholesterol,Surgery,50mg,,6 months,Yes,Smoker,No Change
+78,F,Asian,89,181,Diabetes,Heart Disease,Marker3,Cancer,"BP, HR, Temp",Cholesterol,Medication,50mg,,3 months,Yes,Smoker,Worsened
+34,M,Caucasian,91,188,Arthritis,Cancer,Marker1,Hypertension,"BP, HR",Cholesterol,Chemotherapy,50mg,Daily,3 months,Yes,Non-smoker,Worsened
+42,M,Caucasian,61,176,Hypertension,None,Marker2,Cancer,"BP, HR",CBC,Chemotherapy,50mg,Daily,6 months,No,Non-smoker,Improved
+58,M,Asian,73,163,Hypertension,Heart Disease,Marker1,Hypertension,"BP, HR",CBC,Chemotherapy,,Weekly,6 months,Yes,Non-smoker,Improved
+46,F,Caucasian,60,159,Diabetes,Cancer,Marker1,Hypertension,"BP, HR",CBC,Medication,100mg,Weekly,6 months,No,Non-smoker,Worsened
+40,F,Asian,85,162,Hypertension,Heart Disease,Marker2,Diabetes,"BP, HR",Cholesterol,Chemotherapy,100mg,,6 months,Yes,Non-smoker,No Change
+55,M,Caucasian,79,155,None,Heart Disease,Marker1,Hypertension,"BP, HR, Temp",CBC,Chemotherapy,,,6 months,Yes,Non-smoker,No Change
+37,M,Hispanic,82,193,Diabetes,Cancer,Marker3,Hypertension,"BP, HR, Temp",CBC,Surgery,,Daily,6 months,No,Smoker,Improved
+66,F,Asian,69,196,None,None,Marker2,Cancer,"BP, HR",CBC,Surgery,100mg,Weekly,6 months,Yes,Non-smoker,Improved
+48,F,Caucasian,82,175,Hypertension,None,Marker1,Diabetes,"BP, HR, Temp",Cholesterol,Medication,50mg,Weekly,1 year,No,Smoker,No Change
+46,F,Asian,58,164,Arthritis,None,Marker1,Cancer,"BP, HR",CBC,Chemotherapy,,Daily,3 months,No,Non-smoker,Improved
+19,M,Hispanic,66,191,Diabetes,Heart Disease,Marker2,Hypertension,"BP, HR, Temp",CBC,Medication,50mg,,1 year,Yes,Smoker,Improved
+30,M,Hispanic,99,152,Diabetes,None,Marker3,Cancer,"BP, HR, Temp",CBC,Chemotherapy,100mg,Daily,6 months,Yes,Non-smoker,Improved
+34,F,Asian,56,174,Arthritis,None,Marker2,Cancer,"BP, HR, Temp",Glucose,Surgery,50mg,Weekly,3 months,Yes,Non-smoker,Improved
+50,M,Hispanic,75,197,Arthritis,Heart Disease,Marker1,Hypertension,"BP, HR",CBC,Chemotherapy,50mg,,6 months,Yes,Non-smoker,No Change
+21,M,Hispanic,61,199,Arthritis,None,Marker1,Diabetes,"BP, HR",Cholesterol,Medication,50mg,Daily,1 year,Yes,Non-smoker,Worsened
+74,M,African American,59,182,Arthritis,Cancer,Marker1,Diabetes,"BP, HR, Temp",Cholesterol,Chemotherapy,50mg,,6 months,No,Smoker,Improved
+75,F,Asian,69,199,None,Heart Disease,Marker1,Hypertension,"BP, HR, Temp",CBC,Surgery,100mg,Weekly,1 year,No,Non-smoker,Improved
+47,F,Caucasian,98,180,Hypertension,Cancer,Marker2,Cancer,"BP, HR",Cholesterol,Surgery,50mg,Daily,3 months,No,Non-smoker,Worsened
+69,F,African American,58,155,Diabetes,Heart Disease,Marker2,Cancer,"BP, HR",Glucose,Medication,100mg,Daily,6 months,Yes,Smoker,Improved
+47,F,Caucasian,51,191,None,Cancer,Marker2,Cancer,"BP, HR, Temp",Glucose,Medication,,Daily,1 year,No,Smoker,Worsened
+22,F,African American,52,155,Diabetes,Cancer,Marker1,Diabetes,"BP, HR",Cholesterol,Surgery,100mg,Daily,1 year,No,Smoker,Worsened
+66,M,Caucasian,78,169,None,Heart Disease,Marker1,Hypertension,"BP, HR",Cholesterol,Medication,100mg,,3 months,No,Non-smoker,Worsened
+30,M,African American,80,174,Hypertension,None,Marker3,Diabetes,"BP, HR, Temp",CBC,Chemotherapy,50mg,,3 months,Yes,Smoker,Worsened
+28,M,African American,65,152,Diabetes,Cancer,Marker3,Hypertension,"BP, HR",Glucose,Chemotherapy,100mg,Daily,1 year,No,Smoker,Improved
+60,M,Hispanic,62,183,None,Cancer,Marker2,Hypertension,"BP, HR",Cholesterol,Surgery,100mg,Weekly,3 months,No,Non-smoker,No Change
+62,F,African American,56,198,Diabetes,Cancer,Marker3,Hypertension,"BP, HR, Temp",Cholesterol,Surgery,100mg,,6 months,Yes,Non-smoker,Improved
+61,F,Hispanic,91,158,Arthritis,None,Marker3,Hypertension,"BP, HR, Temp",Cholesterol,Surgery,,,3 months,Yes,Non-smoker,Improved
+74,F,Asian,73,179,None,Heart Disease,Marker2,Cancer,"BP, HR, Temp",Cholesterol,Surgery,100mg,Daily,6 months,Yes,Smoker,No Change
+79,M,Hispanic,62,194,Hypertension,None,Marker2,Cancer,"BP, HR, Temp",Cholesterol,Chemotherapy,50mg,Daily,1 year,No,Non-smoker,Worsened
+64,F,African American,64,193,Hypertension,Heart Disease,Marker1,Diabetes,"BP, HR",CBC,Surgery,50mg,Daily,3 months,No,Non-smoker,Improved
+66,M,Hispanic,83,168,Arthritis,Cancer,Marker2,Hypertension,"BP, HR",Glucose,Medication,,Weekly,1 year,No,Smoker,Improved
+70,M,African American,70,191,Arthritis,Cancer,Marker1,Hypertension,"BP, HR",Cholesterol,Medication,100mg,,6 months,No,Smoker,Worsened
+54,M,Caucasian,62,177,None,None,Marker1,Cancer,"BP, HR",Cholesterol,Surgery,50mg,,6 months,No,Non-smoker,Worsened
+70,M,Caucasian,98,164,Diabetes,Heart Disease,Marker3,Cancer,"BP, HR, Temp",Glucose,Medication,,Daily,6 months,No,Non-smoker,Improved
+77,F,Caucasian,98,167,Arthritis,None,Marker2,Diabetes,"BP, HR",Glucose,Surgery,50mg,Weekly,6 months,No,Non-smoker,No Change
+58,M,Hispanic,65,184,Hypertension,None,Marker3,Cancer,"BP, HR, Temp",Glucose,Chemotherapy,,Weekly,1 year,No,Non-smoker,Improved
+41,M,African American,78,185,None,Heart Disease,Marker1,Diabetes,"BP, HR, Temp",CBC,Surgery,50mg,,3 months,Yes,Non-smoker,Improved
+21,F,Hispanic,97,170,Arthritis,Heart Disease,Marker3,Hypertension,"BP, HR, Temp",CBC,Medication,50mg,Daily,1 year,No,Non-smoker,Improved
+75,M,Asian,98,185,None,Cancer,Marker1,Hypertension,"BP, HR",Glucose,Surgery,50mg,Daily,3 months,No,Smoker,Worsened
+74,F,Hispanic,79,182,Hypertension,None,Marker3,Cancer,"BP, HR",Glucose,Medication,50mg,,3 months,No,Smoker,Improved
+41,F,Asian,72,160,Arthritis,Heart Disease,Marker2,Hypertension,"BP, HR",CBC,Surgery,100mg,Daily,3 months,Yes,Non-smoker,Improved
+18,M,Hispanic,80,171,Diabetes,Heart Disease,Marker2,Diabetes,"BP, HR, Temp",Glucose,Medication,100mg,,1 year,Yes,Smoker,No Change
+73,M,Asian,78,154,Hypertension,Heart Disease,Marker3,Diabetes,"BP, HR, Temp",Cholesterol,Chemotherapy,100mg,Weekly,1 year,No,Smoker,No Change
+70,M,African American,66,196,Diabetes,None,Marker1,Hypertension,"BP, HR, Temp",CBC,Chemotherapy,100mg,Daily,3 months,Yes,Non-smoker,Worsened
+63,M,Asian,76,161,Hypertension,Cancer,Marker3,Hypertension,"BP, HR",Cholesterol,Medication,100mg,Daily,1 year,Yes,Smoker,Improved
+41,F,African American,64,175,Hypertension,Cancer,Marker1,Hypertension,"BP, HR, Temp",Glucose,Medication,50mg,Weekly,6 months,No,Non-smoker,Worsened
+32,M,Caucasian,71,165,Diabetes,Heart Disease,Marker1,Diabetes,"BP, HR, Temp",CBC,Medication,,,1 year,No,Smoker,Worsened
+54,M,African American,81,183,None,Heart Disease,Marker3,Cancer,"BP, HR",Glucose,Medication,,Weekly,3 months,No,Non-smoker,Worsened
+78,F,Caucasian,83,199,Diabetes,Heart Disease,Marker2,Diabetes,"BP, HR, Temp",Glucose,Medication,100mg,Daily,3 months,No,Non-smoker,No Change
+60,F,African American,61,195,Diabetes,Cancer,Marker2,Hypertension,"BP, HR, Temp",CBC,Surgery,50mg,Weekly,1 year,No,Non-smoker,No Change
+41,F,African American,65,185,Arthritis,Heart Disease,Marker2,Diabetes,"BP, HR",CBC,Surgery,50mg,Weekly,3 months,No,Smoker,Improved
+70,F,Hispanic,51,177,Hypertension,Cancer,Marker2,Hypertension,"BP, HR",Cholesterol,Chemotherapy,,,1 year,Yes,Non-smoker,Improved
+79,M,African American,69,158,Arthritis,None,Marker1,Diabetes,"BP, HR",Cholesterol,Surgery,50mg,Daily,6 months,No,Non-smoker,Improved
+73,M,Caucasian,57,172,Arthritis,Heart Disease,Marker3,Diabetes,"BP, HR, Temp",Cholesterol,Medication,50mg,Daily,1 year,Yes,Non-smoker,No Change
+45,M,African American,84,190,Arthritis,Heart Disease,Marker1,Cancer,"BP, HR",Glucose,Medication,,,1 year,No,Non-smoker,Worsened
+79,F,Caucasian,51,155,None,Heart Disease,Marker2,Cancer,"BP, HR, Temp",Glucose,Surgery,50mg,Daily,3 months,Yes,Non-smoker,No Change
+43,F,Caucasian,68,168,Diabetes,None,Marker3,Diabetes,"BP, HR",CBC,Medication,,Weekly,6 months,Yes,Smoker,Improved
+61,F,Caucasian,54,153,None,Cancer,Marker1,Cancer,"BP, HR, Temp",Glucose,Surgery,100mg,,1 year,No,Non-smoker,No Change
+66,F,African American,68,199,None,Cancer,Marker1,Cancer,"BP, HR",CBC,Medication,,Daily,3 months,Yes,Non-smoker,Improved
+75,M,Asian,58,161,Diabetes,None,Marker3,Hypertension,"BP, HR, Temp",Glucose,Surgery,,,1 year,No,Smoker,No Change
+75,F,Caucasian,96,166,Diabetes,Cancer,Marker3,Hypertension,"BP, HR",Cholesterol,Surgery,50mg,Daily,1 year,No,Smoker,No Change
+52,M,Caucasian,53,160,Diabetes,None,Marker2,Hypertension,"BP, HR",CBC,Chemotherapy,,,1 year,Yes,Non-smoker,Worsened
+40,M,Asian,97,163,Hypertension,Heart Disease,Marker3,Cancer,"BP, HR, Temp",CBC,Chemotherapy,50mg,Daily,6 months,Yes,Smoker,Improved
+44,F,Caucasian,63,199,Arthritis,Cancer,Marker1,Diabetes,"BP, HR",Glucose,Medication,,Daily,6 months,No,Smoker,Worsened
+68,F,Caucasian,53,198,None,Cancer,Marker3,Diabetes,"BP, HR",Glucose,Surgery,,Daily,3 months,Yes,Smoker,Improved
+66,F,Caucasian,93,180,Diabetes,None,Marker3,Diabetes,"BP, HR",Cholesterol,Medication,100mg,,1 year,No,Non-smoker,No Change
+25,F,Hispanic,59,167,Hypertension,None,Marker1,Hypertension,"BP, HR",Cholesterol,Chemotherapy,,Weekly,1 year,Yes,Smoker,Worsened
+73,M,Caucasian,78,157,Diabetes,None,Marker3,Cancer,"BP, HR",Cholesterol,Surgery,100mg,Daily,1 year,Yes,Smoker,Worsened
+29,F,Hispanic,64,192,None,Heart Disease,Marker3,Hypertension,"BP, HR, Temp",Glucose,Surgery,50mg,Daily,6 months,No,Smoker,Improved
+49,M,African American,75,151,Diabetes,Heart Disease,Marker2,Cancer,"BP, HR, Temp",CBC,Surgery,100mg,Weekly,3 months,Yes,Non-smoker,No Change
+31,M,African American,58,162,Hypertension,Heart Disease,Marker2,Diabetes,"BP, HR",CBC,Surgery,50mg,Daily,1 year,No,Smoker,Worsened
+38,F,Hispanic,72,194,Diabetes,Cancer,Marker3,Cancer,"BP, HR",Cholesterol,Chemotherapy,50mg,Daily,3 months,No,Smoker,Improved
+56,M,Caucasian,97,193,Arthritis,None,Marker2,Hypertension,"BP, HR",Glucose,Surgery,50mg,Weekly,1 year,No,Non-smoker,Improved
+49,M,Caucasian,59,151,None,Cancer,Marker2,Hypertension,"BP, HR, Temp",CBC,Chemotherapy,100mg,,1 year,Yes,Non-smoker,Worsened
+40,F,African American,72,169,Arthritis,Heart Disease,Marker1,Cancer,"BP, HR",CBC,Medication,50mg,,1 year,No,Smoker,Worsened
+43,M,Asian,87,158,None,None,Marker2,Diabetes,"BP, HR",CBC,Medication,50mg,Weekly,6 months,No,Non-smoker,Worsened
+79,F,Hispanic,50,158,None,Heart Disease,Marker3,Cancer,"BP, HR",Cholesterol,Chemotherapy,,Weekly,1 year,Yes,Smoker,Improved
+63,F,Asian,95,187,Hypertension,Cancer,Marker3,Cancer,"BP, HR, Temp",Cholesterol,Chemotherapy,,Daily,1 year,No,Non-smoker,No Change
+21,M,African American,89,174,Arthritis,Cancer,Marker3,Diabetes,"BP, HR, Temp",Cholesterol,Surgery,100mg,Weekly,3 months,Yes,Non-smoker,No Change
+23,F,African American,56,157,Hypertension,Heart Disease,Marker2,Cancer,"BP, HR, Temp",Glucose,Medication,100mg,Weekly,6 months,Yes,Smoker,No Change
+43,M,Hispanic,55,188,Hypertension,None,Marker2,Diabetes,"BP, HR, Temp",CBC,Medication,,Daily,1 year,Yes,Non-smoker,Improved
+78,F,Asian,99,155,Hypertension,Heart Disease,Marker1,Cancer,"BP, HR, Temp",Cholesterol,Medication,,Weekly,1 year,No,Non-smoker,No Change
+26,F,African American,90,159,None,Cancer,Marker3,Diabetes,"BP, HR, Temp",Glucose,Surgery,50mg,,3 months,No,Smoker,Improved
+24,M,African American,61,167,Arthritis,None,Marker2,Hypertension,"BP, HR",CBC,Chemotherapy,100mg,Weekly,6 months,Yes,Non-smoker,Improved
+69,F,Caucasian,60,153,Diabetes,None,Marker2,Cancer,"BP, HR",CBC,Medication,,,1 year,Yes,Non-smoker,Worsened
+33,F,African American,63,194,Arthritis,Cancer,Marker2,Cancer,"BP, HR, Temp",Cholesterol,Medication,,Weekly,1 year,No,Non-smoker,No Change
+62,F,Caucasian,89,161,Hypertension,None,Marker3,Cancer,"BP, HR",Glucose,Medication,50mg,Daily,1 year,Yes,Smoker,No Change
+76,F,Hispanic,50,159,Hypertension,None,Marker1,Diabetes,"BP, HR",Cholesterol,Chemotherapy,50mg,,6 months,Yes,Smoker,Worsened
+19,F,Hispanic,91,176,Diabetes,None,Marker1,Hypertension,"BP, HR",Glucose,Medication,50mg,Daily,3 months,No,Non-smoker,Improved
+55,F,Caucasian,79,181,Arthritis,Cancer,Marker1,Cancer,"BP, HR",Cholesterol,Chemotherapy,,Daily,1 year,Yes,Non-smoker,No Change
+31,F,Asian,95,187,Hypertension,Heart Disease,Marker3,Diabetes,"BP, HR, Temp",Glucose,Surgery,50mg,Weekly,6 months,No,Smoker,No Change
+67,F,African American,62,182,Hypertension,Cancer,Marker2,Diabetes,"BP, HR, Temp",Glucose,Surgery,50mg,,1 year,No,Smoker,Improved
+51,F,African American,85,175,Arthritis,Cancer,Marker1,Hypertension,"BP, HR, Temp",CBC,Medication,100mg,Weekly,1 year,Yes,Non-smoker,Worsened
+59,F,Caucasian,75,160,Hypertension,None,Marker1,Diabetes,"BP, HR, Temp",CBC,Chemotherapy,50mg,Weekly,6 months,Yes,Non-smoker,Worsened
+50,F,Asian,71,163,None,Heart Disease,Marker2,Hypertension,"BP, HR, Temp",Cholesterol,Medication,,Daily,6 months,No,Non-smoker,Worsened
+55,F,Hispanic,99,154,Arthritis,None,Marker3,Cancer,"BP, HR, Temp",Cholesterol,Chemotherapy,50mg,,1 year,Yes,Smoker,No Change
+43,F,African American,85,177,Arthritis,Cancer,Marker3,Cancer,"BP, HR",Glucose,Surgery,,Weekly,3 months,Yes,Non-smoker,No Change
+27,M,African American,79,166,Arthritis,Cancer,Marker2,Diabetes,"BP, HR",Glucose,Medication,50mg,Weekly,3 months,Yes,Smoker,No Change
+32,M,African American,72,161,Arthritis,Heart Disease,Marker3,Hypertension,"BP, HR, Temp",CBC,Surgery,100mg,Weekly,6 months,No,Non-smoker,Worsened
+42,M,Hispanic,71,159,Arthritis,None,Marker1,Cancer,"BP, HR, Temp",CBC,Surgery,50mg,,1 year,No,Smoker,Worsened
+53,M,Hispanic,92,150,Diabetes,None,Marker3,Hypertension,"BP, HR, Temp",Cholesterol,Surgery,100mg,,1 year,Yes,Smoker,No Change
+49,M,African American,56,186,Hypertension,None,Marker3,Diabetes,"BP, HR, Temp",Cholesterol,Chemotherapy,50mg,,1 year,Yes,Smoker,Worsened
+26,M,Asian,69,164,None,Heart Disease,Marker1,Cancer,"BP, HR",Cholesterol,Surgery,50mg,,6 months,No,Smoker,Improved
+53,M,Asian,61,195,Arthritis,None,Marker2,Diabetes,"BP, HR, Temp",Cholesterol,Medication,100mg,,6 months,Yes,Smoker,Improved
+24,F,African American,51,164,None,None,Marker1,Hypertension,"BP, HR, Temp",Cholesterol,Surgery,50mg,,6 months,Yes,Smoker,Improved
+73,F,Asian,55,181,Diabetes,Cancer,Marker3,Diabetes,"BP, HR",Cholesterol,Medication,,Weekly,6 months,Yes,Non-smoker,Improved
+47,M,Caucasian,89,173,Diabetes,None,Marker2,Cancer,"BP, HR",Cholesterol,Chemotherapy,,,6 months,Yes,Smoker,Improved
+63,F,Caucasian,76,191,Arthritis,None,Marker1,Cancer,"BP, HR, Temp",Cholesterol,Surgery,,Daily,3 months,No,Non-smoker,Improved
+66,F,African American,73,171,None,None,Marker2,Cancer,"BP, HR",Cholesterol,Surgery,50mg,,3 months,No,Smoker,Worsened
+23,F,Hispanic,59,186,Diabetes,Cancer,Marker1,Diabetes,"BP, HR, Temp",Glucose,Surgery,50mg,,6 months,No,Non-smoker,No Change
+67,F,Caucasian,94,178,Arthritis,Cancer,Marker3,Cancer,"BP, HR, Temp",CBC,Medication,100mg,Daily,1 year,Yes,Smoker,Improved
+62,F,African American,67,152,None,Cancer,Marker2,Hypertension,"BP, HR, Temp",CBC,Chemotherapy,,Weekly,1 year,No,Non-smoker,Improved
+60,F,African American,98,176,Arthritis,Cancer,Marker1,Cancer,"BP, HR",Glucose,Medication,,Weekly,6 months,Yes,Smoker,No Change
+31,F,Hispanic,70,179,Hypertension,None,Marker1,Hypertension,"BP, HR",Cholesterol,Medication,50mg,Daily,6 months,Yes,Non-smoker,Improved
+56,F,Asian,98,169,Hypertension,Cancer,Marker2,Cancer,"BP, HR, Temp",Cholesterol,Medication,50mg,,6 months,No,Smoker,No Change
+72,F,African American,53,179,Hypertension,Cancer,Marker3,Hypertension,"BP, HR",CBC,Medication,,Weekly,1 year,Yes,Non-smoker,No Change
+46,M,Asian,89,175,Hypertension,Cancer,Marker1,Hypertension,"BP, HR, Temp",Cholesterol,Medication,100mg,Weekly,6 months,Yes,Non-smoker,Worsened
+66,F,Hispanic,81,171,Diabetes,Cancer,Marker1,Cancer,"BP, HR",Glucose,Surgery,100mg,Daily,3 months,Yes,Smoker,Worsened
+25,M,Caucasian,72,168,Arthritis,Cancer,Marker3,Hypertension,"BP, HR",Cholesterol,Medication,,Daily,3 months,Yes,Non-smoker,No Change
+79,F,African American,97,167,Arthritis,Cancer,Marker1,Cancer,"BP, HR",CBC,Medication,100mg,Daily,6 months,Yes,Smoker,Worsened
+38,F,Asian,50,172,None,Heart Disease,Marker2,Cancer,"BP, HR, Temp",Glucose,Medication,100mg,Weekly,1 year,Yes,Non-smoker,Improved
+61,M,Hispanic,75,153,Hypertension,Cancer,Marker3,Hypertension,"BP, HR",CBC,Surgery,100mg,,1 year,No,Non-smoker,Improved
+67,M,Asian,53,165,Diabetes,Heart Disease,Marker3,Diabetes,"BP, HR",Cholesterol,Surgery,,,1 year,No,Smoker,Improved
+27,F,Hispanic,89,172,Diabetes,Cancer,Marker3,Hypertension,"BP, HR",Cholesterol,Surgery,50mg,Daily,6 months,Yes,Non-smoker,No Change
+23,F,Caucasian,55,160,Arthritis,Heart Disease,Marker3,Diabetes,"BP, HR, Temp",CBC,Medication,100mg,Daily,6 months,Yes,Non-smoker,Worsened
+68,M,Asian,97,196,Hypertension,Cancer,Marker2,Hypertension,"BP, HR, Temp",Glucose,Chemotherapy,100mg,Weekly,6 months,No,Smoker,Improved
+73,M,Asian,97,154,Diabetes,None,Marker1,Hypertension,"BP, HR",Cholesterol,Chemotherapy,,Weekly,1 year,Yes,Smoker,Worsened
+35,F,Caucasian,68,176,Diabetes,Heart Disease,Marker2,Cancer,"BP, HR, Temp",Glucose,Medication,50mg,Weekly,1 year,No,Smoker,No Change
+76,F,Caucasian,81,174,Arthritis,Heart Disease,Marker1,Diabetes,"BP, HR, Temp",CBC,Surgery,100mg,Daily,3 months,No,Non-smoker,Improved
+28,F,Asian,73,173,None,Heart Disease,Marker3,Cancer,"BP, HR, Temp",Glucose,Medication,,,1 year,No,Smoker,No Change
+34,M,African American,88,169,Arthritis,None,Marker1,Diabetes,"BP, HR, Temp",Cholesterol,Surgery,50mg,,1 year,Yes,Smoker,Improved
+51,M,Asian,52,169,Diabetes,None,Marker1,Diabetes,"BP, HR, Temp",Cholesterol,Chemotherapy,,Weekly,3 months,No,Non-smoker,No Change
+29,M,Hispanic,51,177,Arthritis,None,Marker2,Diabetes,"BP, HR, Temp",Glucose,Medication,50mg,Daily,6 months,No,Smoker,Improved
+39,M,African American,77,156,Hypertension,None,Marker1,Hypertension,"BP, HR, Temp",Cholesterol,Surgery,,Daily,6 months,No,Smoker,Worsened
+34,F,Caucasian,61,191,Arthritis,Heart Disease,Marker2,Hypertension,"BP, HR",CBC,Chemotherapy,50mg,Weekly,3 months,Yes,Non-smoker,Worsened
+50,F,Caucasian,63,154,Arthritis,None,Marker2,Diabetes,"BP, HR, Temp",Cholesterol,Surgery,,Weekly,1 year,No,Non-smoker,No Change
+34,F,African American,73,173,Hypertension,Heart Disease,Marker2,Diabetes,"BP, HR, Temp",Cholesterol,Medication,100mg,Daily,1 year,Yes,Non-smoker,Worsened
+68,F,Asian,59,165,None,Heart Disease,Marker2,Hypertension,"BP, HR, Temp",CBC,Medication,,Weekly,1 year,Yes,Smoker,Worsened
+20,F,Asian,55,165,Diabetes,Cancer,Marker2,Hypertension,"BP, HR, Temp",CBC,Medication,50mg,Weekly,3 months,Yes,Non-smoker,Worsened
+77,F,Caucasian,78,153,Hypertension,Heart Disease,Marker3,Hypertension,"BP, HR",CBC,Surgery,50mg,Weekly,3 months,No,Non-smoker,Improved
+61,M,Hispanic,95,180,Diabetes,None,Marker2,Cancer,"BP, HR",CBC,Chemotherapy,100mg,,3 months,Yes,Non-smoker,Improved
+46,M,Caucasian,62,186,Diabetes,Cancer,Marker2,Hypertension,"BP, HR",Glucose,Medication,100mg,Weekly,6 months,Yes,Non-smoker,Worsened
+48,M,Hispanic,57,176,Arthritis,None,Marker3,Hypertension,"BP, HR",Cholesterol,Surgery,100mg,,6 months,No,Smoker,Improved
+69,F,African American,71,150,None,Cancer,Marker2,Hypertension,"BP, HR",Cholesterol,Medication,,,1 year,No,Smoker,No Change
+33,M,Asian,68,173,Hypertension,Heart Disease,Marker1,Hypertension,"BP, HR",CBC,Surgery,100mg,,1 year,Yes,Smoker,No Change
+32,M,Hispanic,69,180,Diabetes,Heart Disease,Marker2,Hypertension,"BP, HR, Temp",Cholesterol,Medication,100mg,Weekly,1 year,No,Smoker,Worsened
+68,F,Hispanic,78,184,Arthritis,Heart Disease,Marker2,Hypertension,"BP, HR",CBC,Surgery,100mg,Daily,3 months,No,Smoker,Improved
+32,F,Caucasian,89,186,Diabetes,Cancer,Marker1,Hypertension,"BP, HR, Temp",CBC,Chemotherapy,100mg,Daily,6 months,Yes,Smoker,Worsened
+30,M,Hispanic,88,171,Diabetes,Cancer,Marker3,Cancer,"BP, HR, Temp",Cholesterol,Surgery,,Weekly,3 months,No,Non-smoker,Improved
+76,F,Hispanic,53,199,Diabetes,Cancer,Marker3,Cancer,"BP, HR",CBC,Chemotherapy,,Daily,6 months,Yes,Non-smoker,Worsened
+34,M,Asian,82,188,Hypertension,Heart Disease,Marker3,Diabetes,"BP, HR",Glucose,Chemotherapy,50mg,Weekly,1 year,No,Non-smoker,Worsened
+62,F,Asian,85,161,Diabetes,Cancer,Marker3,Cancer,"BP, HR",CBC,Surgery,,Weekly,6 months,No,Non-smoker,No Change
+26,M,African American,55,183,Hypertension,None,Marker3,Diabetes,"BP, HR",Cholesterol,Chemotherapy,,Daily,3 months,Yes,Smoker,No Change
+66,F,Hispanic,83,187,Arthritis,Cancer,Marker2,Cancer,"BP, HR, Temp",Glucose,Surgery,100mg,Weekly,1 year,Yes,Non-smoker,No Change
+63,M,Asian,63,199,Diabetes,Cancer,Marker1,Diabetes,"BP, HR",Cholesterol,Chemotherapy,100mg,Daily,6 months,Yes,Non-smoker,Improved
+77,F,Hispanic,71,158,Arthritis,Heart Disease,Marker1,Hypertension,"BP, HR, Temp",Cholesterol,Medication,100mg,Daily,6 months,No,Non-smoker,No Change
+28,M,Hispanic,53,151,Arthritis,Heart Disease,Marker3,Hypertension,"BP, HR, Temp",CBC,Medication,100mg,Weekly,1 year,Yes,Non-smoker,Worsened
+51,F,Hispanic,64,173,None,Heart Disease,Marker1,Cancer,"BP, HR, Temp",CBC,Surgery,100mg,,3 months,Yes,Non-smoker,No Change
+57,F,Asian,66,168,Diabetes,Heart Disease,Marker1,Diabetes,"BP, HR",CBC,Surgery,,,1 year,Yes,Non-smoker,No Change
+45,M,Caucasian,57,181,Hypertension,Cancer,Marker1,Cancer,"BP, HR",Cholesterol,Chemotherapy,,,3 months,Yes,Smoker,Improved
+30,F,Asian,63,188,None,Heart Disease,Marker1,Cancer,"BP, HR, Temp",Cholesterol,Medication,50mg,Weekly,1 year,No,Non-smoker,Worsened
+23,M,Caucasian,88,168,Arthritis,Heart Disease,Marker3,Diabetes,"BP, HR",Cholesterol,Medication,,Daily,6 months,No,Smoker,Improved
+27,M,Asian,64,166,Arthritis,Heart Disease,Marker3,Diabetes,"BP, HR, Temp",Cholesterol,Medication,50mg,,1 year,No,Smoker,Worsened
+61,F,Caucasian,60,169,Hypertension,Cancer,Marker3,Cancer,"BP, HR",Glucose,Surgery,50mg,Weekly,3 months,No,Non-smoker,Improved
+70,F,Hispanic,55,165,Diabetes,None,Marker1,Cancer,"BP, HR, Temp",CBC,Surgery,100mg,Daily,6 months,Yes,Non-smoker,Improved
+19,M,African American,96,197,Hypertension,Cancer,Marker3,Cancer,"BP, HR",Cholesterol,Medication,100mg,Daily,3 months,Yes,Smoker,Improved
+24,M,African American,92,173,Arthritis,Cancer,Marker3,Diabetes,"BP, HR",Cholesterol,Medication,,Weekly,1 year,Yes,Non-smoker,Worsened
+19,F,Hispanic,67,163,None,Cancer,Marker2,Diabetes,"BP, HR",Glucose,Medication,50mg,Daily,1 year,Yes,Non-smoker,Worsened
+65,F,Caucasian,96,179,None,None,Marker1,Hypertension,"BP, HR",Cholesterol,Medication,,,3 months,No,Non-smoker,No Change
+60,M,Hispanic,78,171,Arthritis,Cancer,Marker1,Hypertension,"BP, HR",Cholesterol,Chemotherapy,50mg,Weekly,3 months,No,Smoker,No Change
+55,M,Asian,78,152,None,None,Marker2,Diabetes,"BP, HR",CBC,Medication,50mg,Weekly,6 months,No,Smoker,Improved
+48,M,African American,90,181,Arthritis,Cancer,Marker3,Cancer,"BP, HR",CBC,Surgery,,Weekly,6 months,Yes,Non-smoker,Improved
+56,F,African American,79,198,Arthritis,Cancer,Marker1,Cancer,"BP, HR, Temp",Glucose,Chemotherapy,100mg,,3 months,Yes,Non-smoker,Improved
+60,F,Asian,64,165,Diabetes,Cancer,Marker3,Hypertension,"BP, HR, Temp",Glucose,Surgery,50mg,,6 months,Yes,Non-smoker,Worsened
+57,M,Hispanic,99,190,Hypertension,Heart Disease,Marker2,Diabetes,"BP, HR, Temp",Cholesterol,Surgery,100mg,,1 year,Yes,Smoker,No Change
+33,F,Asian,82,183,Diabetes,None,Marker3,Diabetes,"BP, HR, Temp",Cholesterol,Medication,,Weekly,1 year,Yes,Non-smoker,Improved
+76,M,Caucasian,76,188,None,Heart Disease,Marker2,Hypertension,"BP, HR, Temp",Cholesterol,Surgery,100mg,Weekly,3 months,Yes,Non-smoker,Improved
+72,F,Asian,80,184,Hypertension,None,Marker2,Diabetes,"BP, HR, Temp",Glucose,Chemotherapy,,Weekly,6 months,No,Non-smoker,Worsened
+22,F,Asian,57,165,Diabetes,None,Marker2,Cancer,"BP, HR, Temp",CBC,Surgery,,,3 months,No,Smoker,Improved
+47,M,Caucasian,80,167,None,None,Marker2,Hypertension,"BP, HR, Temp",CBC,Surgery,,Daily,3 months,Yes,Smoker,No Change
+46,M,Asian,55,164,Diabetes,Heart Disease,Marker2,Hypertension,"BP, HR, Temp",Glucose,Medication,,Daily,1 year,No,Smoker,Worsened
+62,M,Asian,84,175,Hypertension,Heart Disease,Marker2,Hypertension,"BP, HR",Cholesterol,Medication,100mg,,6 months,No,Non-smoker,Worsened
+58,M,African American,73,183,Hypertension,Heart Disease,Marker3,Diabetes,"BP, HR, Temp",Cholesterol,Medication,100mg,Weekly,1 year,Yes,Smoker,No Change
+76,F,African American,62,168,Arthritis,None,Marker3,Hypertension,"BP, HR, Temp",Glucose,Surgery,100mg,,6 months,No,Smoker,Worsened
+64,F,Hispanic,69,188,Diabetes,Cancer,Marker2,Diabetes,"BP, HR, Temp",Glucose,Surgery,50mg,Daily,3 months,Yes,Non-smoker,No Change
+32,M,African American,58,166,Diabetes,None,Marker3,Diabetes,"BP, HR, Temp",CBC,Medication,100mg,,6 months,No,Smoker,Improved
+43,F,Caucasian,61,150,Hypertension,None,Marker3,Diabetes,"BP, HR, Temp",Glucose,Medication,,Daily,1 year,Yes,Non-smoker,Improved
+65,F,Hispanic,55,190,Hypertension,Cancer,Marker3,Hypertension,"BP, HR, Temp",Cholesterol,Surgery,100mg,Weekly,6 months,No,Smoker,Improved
+25,M,Hispanic,78,179,None,Heart Disease,Marker2,Diabetes,"BP, HR",Cholesterol,Medication,100mg,,3 months,No,Non-smoker,No Change
+62,M,African American,97,183,Hypertension,Cancer,Marker2,Cancer,"BP, HR, Temp",Cholesterol,Surgery,,,6 months,Yes,Smoker,Worsened
+66,M,Caucasian,78,183,Hypertension,Cancer,Marker3,Diabetes,"BP, HR",Glucose,Surgery,50mg,Weekly,1 year,Yes,Non-smoker,Improved
+67,F,Caucasian,67,189,Diabetes,None,Marker3,Cancer,"BP, HR, Temp",Glucose,Medication,50mg,Daily,6 months,No,Non-smoker,No Change
+69,F,Hispanic,67,169,Arthritis,None,Marker1,Hypertension,"BP, HR",Glucose,Chemotherapy,,,6 months,Yes,Smoker,Improved
+26,M,Asian,64,196,None,Heart Disease,Marker2,Cancer,"BP, HR, Temp",Glucose,Chemotherapy,100mg,Daily,1 year,No,Non-smoker,No Change
+38,F,Asian,66,190,Arthritis,Heart Disease,Marker2,Hypertension,"BP, HR, Temp",Glucose,Medication,50mg,Daily,6 months,Yes,Non-smoker,Improved
+61,M,African American,72,154,Arthritis,Heart Disease,Marker1,Cancer,"BP, HR",Cholesterol,Surgery,,Daily,1 year,Yes,Smoker,Worsened
+69,M,Hispanic,96,153,Diabetes,Cancer,Marker2,Cancer,"BP, HR",Glucose,Medication,,Weekly,6 months,No,Smoker,Worsened
+50,F,Hispanic,64,193,None,Cancer,Marker2,Hypertension,"BP, HR, Temp",Glucose,Medication,100mg,Daily,3 months,Yes,Smoker,Worsened
+67,F,Caucasian,62,158,None,None,Marker3,Cancer,"BP, HR",CBC,Surgery,100mg,,1 year,No,Non-smoker,Improved
+74,F,African American,57,188,Hypertension,Cancer,Marker1,Hypertension,"BP, HR, Temp",Cholesterol,Chemotherapy,,,1 year,Yes,Smoker,Worsened
+75,M,Asian,61,184,None,Cancer,Marker3,Cancer,"BP, HR, Temp",CBC,Chemotherapy,,Daily,3 months,No,Smoker,Worsened
+19,M,African American,95,176,Arthritis,None,Marker2,Hypertension,"BP, HR, Temp",Cholesterol,Medication,,Daily,6 months,Yes,Smoker,Improved
+43,F,African American,95,189,Hypertension,Cancer,Marker3,Diabetes,"BP, HR",CBC,Medication,100mg,Weekly,3 months,No,Non-smoker,No Change
+41,F,Hispanic,67,159,None,Heart Disease,Marker2,Cancer,"BP, HR",CBC,Medication,50mg,,1 year,Yes,Smoker,Improved
+58,M,Asian,96,179,None,Cancer,Marker1,Cancer,"BP, HR",Glucose,Medication,100mg,,1 year,Yes,Non-smoker,Worsened
+42,F,Asian,56,188,Arthritis,None,Marker1,Hypertension,"BP, HR, Temp",Cholesterol,Chemotherapy,50mg,Daily,1 year,Yes,Non-smoker,Worsened
+69,F,Caucasian,89,195,Arthritis,Heart Disease,Marker2,Diabetes,"BP, HR, Temp",Cholesterol,Surgery,100mg,Weekly,3 months,No,Smoker,No Change
+63,F,Caucasian,90,158,Diabetes,Heart Disease,Marker3,Hypertension,"BP, HR",Glucose,Surgery,100mg,Daily,3 months,Yes,Smoker,Worsened
+63,M,African American,99,152,Arthritis,Heart Disease,Marker1,Hypertension,"BP, HR, Temp",Cholesterol,Chemotherapy,100mg,Weekly,3 months,Yes,Non-smoker,Improved
+44,M,African American,50,183,Arthritis,None,Marker1,Cancer,"BP, HR, Temp",CBC,Medication,50mg,Weekly,3 months,No,Non-smoker,Improved
+24,M,Asian,55,172,Hypertension,None,Marker1,Cancer,"BP, HR",CBC,Surgery,50mg,Weekly,1 year,Yes,Smoker,Improved
+27,M,Caucasian,99,150,Hypertension,None,Marker2,Diabetes,"BP, HR",CBC,Medication,50mg,Weekly,6 months,No,Smoker,No Change
+53,F,Asian,81,178,Arthritis,Cancer,Marker3,Diabetes,"BP, HR",Glucose,Surgery,50mg,Daily,3 months,No,Smoker,Worsened
+28,F,Asian,62,166,None,Heart Disease,Marker1,Cancer,"BP, HR",Glucose,Medication,100mg,,1 year,Yes,Non-smoker,Improved
+40,M,Asian,75,164,None,Cancer,Marker2,Hypertension,"BP, HR, Temp",Glucose,Medication,100mg,,1 year,Yes,Smoker,Worsened
+57,F,African American,93,170,Diabetes,None,Marker2,Diabetes,"BP, HR",Cholesterol,Surgery,50mg,Daily,6 months,Yes,Non-smoker,Worsened
+47,M,Asian,93,199,Hypertension,Heart Disease,Marker1,Diabetes,"BP, HR",Cholesterol,Chemotherapy,100mg,Weekly,3 months,Yes,Non-smoker,No Change
+19,F,Asian,73,185,Diabetes,None,Marker2,Hypertension,"BP, HR",Cholesterol,Chemotherapy,100mg,,6 months,No,Non-smoker,No Change
+73,M,Hispanic,99,197,Arthritis,None,Marker2,Diabetes,"BP, HR, Temp",Cholesterol,Chemotherapy,,Weekly,1 year,Yes,Smoker,Improved
+21,F,Hispanic,81,199,Diabetes,Cancer,Marker3,Cancer,"BP, HR, Temp",Cholesterol,Chemotherapy,50mg,Weekly,6 months,Yes,Non-smoker,Improved
+77,M,Asian,65,189,Hypertension,Cancer,Marker1,Hypertension,"BP, HR, Temp",CBC,Surgery,100mg,Weekly,3 months,No,Non-smoker,Worsened
+73,F,Asian,71,173,Arthritis,None,Marker2,Cancer,"BP, HR, Temp",CBC,Chemotherapy,,,1 year,Yes,Non-smoker,No Change
+59,M,Hispanic,85,154,Hypertension,Heart Disease,Marker2,Hypertension,"BP, HR, Temp",Glucose,Surgery,100mg,Daily,3 months,No,Non-smoker,No Change
+20,M,Caucasian,94,190,Hypertension,None,Marker2,Cancer,"BP, HR, Temp",CBC,Chemotherapy,100mg,,1 year,No,Non-smoker,No Change
+49,M,Asian,62,187,None,None,Marker2,Hypertension,"BP, HR",CBC,Chemotherapy,50mg,Daily,3 months,No,Non-smoker,Worsened
+26,M,African American,95,186,Diabetes,None,Marker3,Diabetes,"BP, HR, Temp",Glucose,Medication,,,3 months,No,Non-smoker,Worsened
+66,M,African American,75,192,None,Cancer,Marker3,Hypertension,"BP, HR",Cholesterol,Surgery,100mg,Weekly,1 year,No,Non-smoker,Worsened
+39,F,African American,80,153,Diabetes,Cancer,Marker1,Diabetes,"BP, HR",CBC,Chemotherapy,100mg,Daily,1 year,Yes,Non-smoker,No Change
+39,F,Caucasian,58,193,Hypertension,None,Marker3,Hypertension,"BP, HR, Temp",CBC,Chemotherapy,100mg,Daily,6 months,No,Non-smoker,Worsened
+37,M,Caucasian,73,196,Arthritis,Cancer,Marker2,Diabetes,"BP, HR",Glucose,Surgery,,Weekly,1 year,Yes,Smoker,No Change
+33,F,Hispanic,98,198,Arthritis,Cancer,Marker3,Diabetes,"BP, HR, Temp",Cholesterol,Medication,100mg,Weekly,6 months,No,Non-smoker,No Change
+58,F,Asian,76,181,Arthritis,Heart Disease,Marker3,Diabetes,"BP, HR, Temp",CBC,Medication,100mg,,3 months,Yes,Smoker,No Change
+33,M,Asian,97,175,Arthritis,Heart Disease,Marker1,Cancer,"BP, HR, Temp",Glucose,Surgery,,Weekly,1 year,Yes,Non-smoker,Worsened
+50,M,Asian,57,156,Diabetes,None,Marker2,Cancer,"BP, HR",Cholesterol,Medication,,,3 months,Yes,Smoker,Improved
+29,M,Caucasian,60,164,None,Heart Disease,Marker1,Diabetes,"BP, HR",CBC,Chemotherapy,50mg,Weekly,1 year,Yes,Non-smoker,Worsened
+57,M,African American,54,187,None,Heart Disease,Marker1,Cancer,"BP, HR, Temp",Glucose,Chemotherapy,,Weekly,3 months,Yes,Smoker,Improved
+58,M,Caucasian,53,199,None,Cancer,Marker3,Diabetes,"BP, HR, Temp",Glucose,Medication,50mg,Weekly,3 months,Yes,Non-smoker,Worsened
+37,F,Hispanic,90,181,Hypertension,None,Marker3,Diabetes,"BP, HR",Glucose,Chemotherapy,50mg,,3 months,Yes,Smoker,No Change
+76,F,African American,98,176,Hypertension,Cancer,Marker3,Hypertension,"BP, HR, Temp",Glucose,Medication,100mg,Daily,6 months,Yes,Smoker,Improved
+24,F,Caucasian,97,165,Diabetes,Heart Disease,Marker1,Diabetes,"BP, HR",Cholesterol,Chemotherapy,50mg,Weekly,1 year,Yes,Non-smoker,Worsened
+59,F,Hispanic,50,190,Diabetes,None,Marker1,Diabetes,"BP, HR",Glucose,Medication,100mg,,3 months,No,Smoker,No Change
+28,M,Hispanic,64,157,Arthritis,Heart Disease,Marker1,Diabetes,"BP, HR",Glucose,Medication,50mg,,3 months,No,Non-smoker,No Change
+56,M,Hispanic,56,186,Arthritis,Heart Disease,Marker3,Diabetes,"BP, HR",CBC,Surgery,50mg,Weekly,6 months,Yes,Smoker,Worsened
+76,F,Caucasian,99,187,Arthritis,Heart Disease,Marker1,Cancer,"BP, HR, Temp",CBC,Medication,,,6 months,No,Non-smoker,No Change
+78,M,Asian,57,176,Diabetes,Heart Disease,Marker1,Hypertension,"BP, HR",Glucose,Surgery,50mg,Weekly,1 year,No,Smoker,Improved
+35,M,Hispanic,91,180,Arthritis,Heart Disease,Marker2,Cancer,"BP, HR",Glucose,Surgery,,Daily,3 months,Yes,Smoker,Improved
+54,F,Caucasian,65,176,Diabetes,Heart Disease,Marker3,Diabetes,"BP, HR, Temp",Glucose,Chemotherapy,100mg,Daily,6 months,No,Smoker,Improved
+18,F,Hispanic,52,152,Arthritis,None,Marker1,Hypertension,"BP, HR, Temp",CBC,Chemotherapy,50mg,,3 months,No,Smoker,No Change
+52,F,African American,66,158,Diabetes,None,Marker1,Cancer,"BP, HR, Temp",Cholesterol,Medication,50mg,,6 months,No,Non-smoker,Worsened
+65,F,Hispanic,55,190,Arthritis,None,Marker3,Hypertension,"BP, HR",Cholesterol,Medication,100mg,Weekly,1 year,Yes,Non-smoker,No Change
+21,M,African American,50,160,Hypertension,None,Marker1,Cancer,"BP, HR, Temp",Glucose,Chemotherapy,50mg,Daily,3 months,Yes,Non-smoker,Worsened
+77,M,Asian,85,174,Hypertension,Cancer,Marker2,Diabetes,"BP, HR, Temp",CBC,Chemotherapy,100mg,,1 year,Yes,Non-smoker,Worsened
+48,M,Hispanic,69,171,None,None,Marker3,Hypertension,"BP, HR",Cholesterol,Surgery,,Daily,6 months,No,Non-smoker,Improved
+32,M,Hispanic,75,196,Diabetes,Heart Disease,Marker2,Hypertension,"BP, HR",Glucose,Chemotherapy,50mg,Weekly,3 months,Yes,Non-smoker,Worsened
+19,M,Caucasian,78,168,Diabetes,Cancer,Marker3,Hypertension,"BP, HR, Temp",Glucose,Surgery,,,6 months,Yes,Smoker,Improved
+21,M,African American,58,184,None,Cancer,Marker3,Hypertension,"BP, HR",CBC,Medication,,Daily,3 months,No,Non-smoker,Worsened
+57,M,Caucasian,52,182,None,Heart Disease,Marker1,Hypertension,"BP, HR, Temp",CBC,Chemotherapy,50mg,Daily,6 months,Yes,Smoker,No Change
+48,M,Caucasian,83,184,Hypertension,None,Marker1,Cancer,"BP, HR",CBC,Chemotherapy,50mg,Daily,3 months,No,Non-smoker,No Change
+20,F,African American,60,185,None,None,Marker1,Diabetes,"BP, HR, Temp",Cholesterol,Medication,100mg,Daily,1 year,Yes,Smoker,Worsened
+74,F,Caucasian,55,164,Diabetes,Heart Disease,Marker1,Diabetes,"BP, HR, Temp",Glucose,Surgery,100mg,Weekly,3 months,No,Non-smoker,No Change
+66,M,Caucasian,55,179,Arthritis,Cancer,Marker1,Cancer,"BP, HR, Temp",CBC,Chemotherapy,100mg,,3 months,No,Smoker,No Change
+28,F,African American,96,160,None,Heart Disease,Marker2,Hypertension,"BP, HR, Temp",CBC,Surgery,50mg,,6 months,No,Non-smoker,Improved
+60,F,Asian,66,171,Hypertension,Heart Disease,Marker3,Cancer,"BP, HR",CBC,Medication,50mg,Weekly,3 months,No,Smoker,Worsened
+52,F,Asian,67,185,Diabetes,Cancer,Marker1,Diabetes,"BP, HR, Temp",Cholesterol,Medication,50mg,,6 months,Yes,Smoker,Improved
+65,M,Hispanic,68,179,Diabetes,None,Marker3,Diabetes,"BP, HR, Temp",Cholesterol,Medication,,Daily,1 year,No,Non-smoker,No Change
+47,F,Hispanic,94,154,Diabetes,None,Marker2,Hypertension,"BP, HR, Temp",CBC,Medication,100mg,Daily,3 months,No,Non-smoker,Worsened
+44,M,Hispanic,95,196,Hypertension,Heart Disease,Marker3,Cancer,"BP, HR, Temp",Glucose,Surgery,,Daily,1 year,No,Non-smoker,Worsened
+25,M,African American,85,163,Arthritis,Cancer,Marker2,Diabetes,"BP, HR, Temp",Glucose,Surgery,50mg,Weekly,3 months,No,Smoker,Worsened
+36,F,Asian,67,196,Hypertension,None,Marker2,Diabetes,"BP, HR",CBC,Surgery,50mg,Daily,1 year,No,Smoker,Improved
+27,F,Hispanic,85,193,Diabetes,Heart Disease,Marker1,Cancer,"BP, HR, Temp",Cholesterol,Chemotherapy,,Daily,3 months,No,Smoker,No Change
+53,M,Caucasian,57,178,Hypertension,Heart Disease,Marker3,Hypertension,"BP, HR, Temp",Glucose,Medication,,Daily,1 year,No,Non-smoker,Improved
+57,M,Caucasian,70,184,Hypertension,Heart Disease,Marker2,Diabetes,"BP, HR, Temp",Glucose,Chemotherapy,50mg,Daily,3 months,No,Smoker,Worsened
+28,F,African American,68,185,Arthritis,None,Marker1,Diabetes,"BP, HR",Cholesterol,Medication,100mg,,3 months,No,Smoker,Improved
+34,F,African American,50,162,Hypertension,None,Marker2,Diabetes,"BP, HR, Temp",Cholesterol,Surgery,,Daily,3 months,Yes,Smoker,No Change
+72,F,Caucasian,71,171,None,Cancer,Marker1,Cancer,"BP, HR, Temp",CBC,Surgery,50mg,,1 year,No,Smoker,Improved
+20,F,Caucasian,81,168,None,Cancer,Marker1,Diabetes,"BP, HR",Cholesterol,Surgery,,Daily,6 months,No,Smoker,No Change
+52,F,Asian,95,152,Arthritis,Cancer,Marker2,Diabetes,"BP, HR",Glucose,Medication,100mg,Daily,3 months,Yes,Non-smoker,Worsened
+62,F,Asian,56,170,Arthritis,Heart Disease,Marker3,Diabetes,"BP, HR",Glucose,Chemotherapy,100mg,,1 year,Yes,Smoker,Improved
+41,M,Caucasian,87,168,Arthritis,Cancer,Marker2,Diabetes,"BP, HR, Temp",Cholesterol,Chemotherapy,,,1 year,Yes,Non-smoker,No Change
+78,M,Caucasian,94,168,Hypertension,Heart Disease,Marker3,Cancer,"BP, HR, Temp",CBC,Surgery,,,3 months,Yes,Non-smoker,Worsened
+72,M,Asian,90,163,None,Cancer,Marker3,Diabetes,"BP, HR, Temp",Glucose,Surgery,50mg,,6 months,Yes,Smoker,Improved
+20,F,African American,73,181,Diabetes,Cancer,Marker1,Diabetes,"BP, HR",Glucose,Surgery,50mg,Weekly,6 months,No,Smoker,Improved
+72,F,Asian,78,159,Diabetes,None,Marker2,Diabetes,"BP, HR",Cholesterol,Surgery,,Weekly,6 months,Yes,Smoker,Worsened
+64,M,Hispanic,95,158,None,Cancer,Marker2,Diabetes,"BP, HR",CBC,Chemotherapy,,,6 months,Yes,Smoker,Worsened
+50,F,Asian,68,171,Hypertension,None,Marker1,Diabetes,"BP, HR, Temp",CBC,Medication,100mg,Weekly,6 months,Yes,Non-smoker,No Change
+22,F,Caucasian,79,194,Arthritis,Heart Disease,Marker1,Hypertension,"BP, HR, Temp",Glucose,Chemotherapy,,Weekly,3 months,No,Non-smoker,Worsened
+57,F,Caucasian,52,155,Hypertension,Cancer,Marker1,Cancer,"BP, HR",CBC,Medication,50mg,,3 months,No,Smoker,Worsened
+31,F,Asian,77,155,Diabetes,Cancer,Marker1,Cancer,"BP, HR",CBC,Chemotherapy,50mg,Weekly,6 months,No,Smoker,Improved
+23,F,Hispanic,51,178,Diabetes,Heart Disease,Marker1,Cancer,"BP, HR",CBC,Chemotherapy,50mg,Daily,1 year,No,Non-smoker,Improved
+23,F,Asian,88,182,None,Cancer,Marker3,Diabetes,"BP, HR",Glucose,Medication,100mg,,1 year,Yes,Non-smoker,Worsened
+55,F,African American,70,159,Arthritis,None,Marker1,Diabetes,"BP, HR, Temp",CBC,Medication,,Weekly,1 year,No,Non-smoker,Worsened
+31,F,Asian,98,169,Arthritis,Heart Disease,Marker2,Diabetes,"BP, HR",CBC,Medication,100mg,Weekly,1 year,Yes,Smoker,No Change
+75,M,African American,60,185,Diabetes,None,Marker3,Cancer,"BP, HR, Temp",Cholesterol,Surgery,,Weekly,3 months,No,Non-smoker,Worsened
+19,M,Asian,72,191,Diabetes,Cancer,Marker3,Hypertension,"BP, HR",Glucose,Surgery,,Weekly,1 year,Yes,Smoker,No Change
+68,F,Hispanic,58,150,Hypertension,None,Marker3,Diabetes,"BP, HR, Temp",CBC,Chemotherapy,50mg,,1 year,No,Smoker,Improved
+27,M,Asian,81,152,Arthritis,None,Marker3,Diabetes,"BP, HR, Temp",Cholesterol,Medication,100mg,Weekly,6 months,No,Non-smoker,Improved
+57,M,Hispanic,64,165,Diabetes,Heart Disease,Marker2,Diabetes,"BP, HR, Temp",Cholesterol,Medication,100mg,,1 year,Yes,Smoker,No Change
+60,M,Caucasian,96,192,None,Heart Disease,Marker1,Diabetes,"BP, HR",Glucose,Chemotherapy,,,1 year,Yes,Smoker,Improved
+62,F,African American,68,194,Arthritis,Cancer,Marker1,Hypertension,"BP, HR",Cholesterol,Chemotherapy,,Daily,6 months,No,Non-smoker,No Change
+40,F,Hispanic,97,188,Diabetes,Cancer,Marker1,Diabetes,"BP, HR",Glucose,Chemotherapy,,Weekly,1 year,Yes,Smoker,No Change
+48,M,Hispanic,62,158,None,None,Marker3,Hypertension,"BP, HR",Glucose,Medication,50mg,,6 months,No,Smoker,Worsened
+45,F,African American,66,177,Arthritis,None,Marker1,Diabetes,"BP, HR, Temp",CBC,Medication,50mg,,3 months,Yes,Non-smoker,No Change
+41,M,Caucasian,72,152,Arthritis,Heart Disease,Marker3,Cancer,"BP, HR",CBC,Surgery,50mg,,6 months,No,Smoker,Worsened
+65,F,Caucasian,81,152,Diabetes,Heart Disease,Marker2,Hypertension,"BP, HR",Cholesterol,Medication,,Weekly,3 months,No,Non-smoker,Worsened
+46,M,Hispanic,88,195,None,None,Marker2,Cancer,"BP, HR, Temp",CBC,Medication,50mg,Weekly,6 months,No,Non-smoker,No Change
+39,M,Caucasian,72,191,None,Cancer,Marker2,Cancer,"BP, HR",Glucose,Chemotherapy,,Weekly,3 months,Yes,Smoker,No Change
+51,M,African American,82,195,Diabetes,Heart Disease,Marker1,Hypertension,"BP, HR, Temp",Cholesterol,Medication,,Weekly,3 months,Yes,Non-smoker,Worsened
+22,F,Asian,89,181,Hypertension,Cancer,Marker3,Diabetes,"BP, HR",Cholesterol,Chemotherapy,50mg,,3 months,No,Smoker,Improved
+52,F,Hispanic,58,163,Diabetes,Cancer,Marker2,Diabetes,"BP, HR, Temp",Glucose,Surgery,100mg,Daily,6 months,No,Non-smoker,No Change
+35,F,Asian,84,153,None,Cancer,Marker1,Diabetes,"BP, HR",CBC,Chemotherapy,50mg,Weekly,3 months,Yes,Smoker,No Change
+29,M,Asian,72,186,None,Cancer,Marker3,Cancer,"BP, HR, Temp",CBC,Medication,50mg,,6 months,No,Smoker,Worsened
+23,M,Hispanic,85,174,Hypertension,Heart Disease,Marker1,Hypertension,"BP, HR, Temp",Cholesterol,Chemotherapy,,,6 months,Yes,Smoker,No Change
+28,M,Asian,69,183,Arthritis,None,Marker2,Hypertension,"BP, HR",Cholesterol,Chemotherapy,,Daily,6 months,No,Non-smoker,No Change
+60,F,Asian,75,184,Diabetes,Heart Disease,Marker3,Cancer,"BP, HR",Cholesterol,Chemotherapy,50mg,Daily,6 months,No,Non-smoker,Improved
+48,F,Asian,57,163,Diabetes,None,Marker3,Hypertension,"BP, HR",Glucose,Chemotherapy,,Daily,6 months,Yes,Non-smoker,Worsened
+29,M,Asian,55,196,None,Heart Disease,Marker1,Diabetes,"BP, HR, Temp",Cholesterol,Chemotherapy,,,6 months,No,Non-smoker,No Change
+41,F,African American,77,176,Hypertension,None,Marker1,Hypertension,"BP, HR, Temp",Glucose,Chemotherapy,100mg,Weekly,6 months,No,Non-smoker,Improved
+46,M,Caucasian,86,180,Arthritis,Heart Disease,Marker2,Cancer,"BP, HR",CBC,Chemotherapy,50mg,,3 months,No,Non-smoker,No Change
+49,F,Hispanic,83,164,Arthritis,None,Marker3,Hypertension,"BP, HR",Cholesterol,Medication,50mg,Weekly,6 months,No,Smoker,Improved
+78,M,Hispanic,50,155,Hypertension,None,Marker2,Cancer,"BP, HR, Temp",Glucose,Medication,100mg,Weekly,6 months,Yes,Non-smoker,Improved
+32,F,Caucasian,66,180,Arthritis,Cancer,Marker3,Cancer,"BP, HR",Glucose,Medication,50mg,Daily,1 year,Yes,Smoker,No Change
+68,F,Asian,95,151,Hypertension,None,Marker1,Cancer,"BP, HR, Temp",CBC,Surgery,100mg,Daily,1 year,Yes,Smoker,No Change
+59,M,Hispanic,72,162,None,Cancer,Marker3,Cancer,"BP, HR, Temp",Glucose,Chemotherapy,,Weekly,6 months,Yes,Smoker,Worsened
+62,F,Hispanic,50,182,None,Heart Disease,Marker2,Cancer,"BP, HR",Cholesterol,Surgery,,,6 months,No,Smoker,No Change
+22,F,Caucasian,66,177,Hypertension,None,Marker2,Cancer,"BP, HR",Cholesterol,Medication,100mg,Daily,3 months,Yes,Non-smoker,No Change
+69,F,Hispanic,68,157,Diabetes,Heart Disease,Marker3,Hypertension,"BP, HR",Glucose,Chemotherapy,,,1 year,No,Non-smoker,No Change
+68,F,Asian,60,153,None,Heart Disease,Marker1,Hypertension,"BP, HR",Glucose,Medication,,Weekly,3 months,No,Smoker,No Change
+59,F,Asian,57,170,Hypertension,Heart Disease,Marker1,Hypertension,"BP, HR",CBC,Surgery,,Daily,3 months,Yes,Smoker,Worsened
+71,M,Caucasian,94,155,None,Heart Disease,Marker3,Cancer,"BP, HR",CBC,Medication,50mg,Daily,1 year,Yes,Non-smoker,Improved
+49,F,Asian,82,188,Diabetes,Cancer,Marker2,Diabetes,"BP, HR, Temp",Cholesterol,Chemotherapy,50mg,Weekly,3 months,Yes,Smoker,Improved
+32,F,African American,59,156,Diabetes,Heart Disease,Marker2,Cancer,"BP, HR",CBC,Chemotherapy,100mg,Weekly,3 months,Yes,Non-smoker,Improved
+40,F,Hispanic,71,172,None,None,Marker1,Diabetes,"BP, HR",Cholesterol,Medication,100mg,Daily,6 months,No,Smoker,No Change
+60,M,African American,80,166,Hypertension,None,Marker2,Cancer,"BP, HR",CBC,Surgery,,,3 months,No,Non-smoker,Improved
+41,F,African American,65,168,Arthritis,Heart Disease,Marker3,Diabetes,"BP, HR, Temp",Glucose,Surgery,100mg,,1 year,No,Non-smoker,Improved
+76,M,Asian,83,158,Diabetes,Heart Disease,Marker1,Diabetes,"BP, HR, Temp",Glucose,Surgery,100mg,Weekly,3 months,Yes,Non-smoker,Improved
+39,F,Caucasian,55,173,Hypertension,None,Marker1,Hypertension,"BP, HR, Temp",Glucose,Surgery,100mg,,1 year,No,Smoker,No Change
+52,F,Caucasian,74,191,Arthritis,None,Marker3,Cancer,"BP, HR, Temp",Cholesterol,Chemotherapy,,Daily,1 year,No,Smoker,Improved
+60,M,Caucasian,84,156,None,Cancer,Marker2,Diabetes,"BP, HR",Cholesterol,Medication,,Daily,3 months,No,Smoker,Improved
+70,F,African American,90,169,None,Cancer,Marker3,Hypertension,"BP, HR",CBC,Chemotherapy,100mg,Weekly,6 months,No,Smoker,No Change
+51,M,Hispanic,79,199,Hypertension,Cancer,Marker1,Hypertension,"BP, HR, Temp",CBC,Surgery,,,3 months,No,Non-smoker,Improved
+78,F,Asian,86,158,Diabetes,None,Marker3,Diabetes,"BP, HR, Temp",Glucose,Medication,,Weekly,1 year,Yes,Non-smoker,Worsened
+41,M,Asian,69,197,Diabetes,Heart Disease,Marker1,Hypertension,"BP, HR",Cholesterol,Chemotherapy,100mg,Weekly,1 year,No,Non-smoker,Improved
+58,F,African American,71,186,None,Heart Disease,Marker3,Cancer,"BP, HR, Temp",Glucose,Surgery,,Daily,1 year,No,Smoker,Improved
+64,M,Hispanic,73,153,Diabetes,None,Marker2,Diabetes,"BP, HR",CBC,Medication,100mg,Daily,6 months,Yes,Non-smoker,Improved
+47,F,Caucasian,56,188,Arthritis,Cancer,Marker3,Hypertension,"BP, HR, Temp",Cholesterol,Surgery,100mg,Daily,3 months,No,Smoker,Improved
+73,F,Caucasian,51,175,Hypertension,None,Marker2,Diabetes,"BP, HR",Cholesterol,Surgery,100mg,Daily,1 year,Yes,Non-smoker,No Change
+72,F,Hispanic,91,178,Arthritis,None,Marker1,Diabetes,"BP, HR, Temp",Cholesterol,Chemotherapy,50mg,Daily,6 months,No,Non-smoker,Improved
+18,M,Asian,51,182,Diabetes,Cancer,Marker2,Hypertension,"BP, HR, Temp",Glucose,Chemotherapy,,,1 year,No,Smoker,Worsened
+39,M,Asian,60,162,Diabetes,Cancer,Marker1,Hypertension,"BP, HR",CBC,Chemotherapy,100mg,Weekly,1 year,Yes,Non-smoker,Improved
+41,M,African American,77,156,Arthritis,None,Marker3,Hypertension,"BP, HR",CBC,Medication,,Weekly,3 months,Yes,Non-smoker,Improved
+61,M,Caucasian,74,193,Hypertension,None,Marker2,Diabetes,"BP, HR, Temp",Cholesterol,Chemotherapy,,,6 months,Yes,Non-smoker,No Change
+53,F,African American,91,195,Hypertension,Cancer,Marker3,Diabetes,"BP, HR, Temp",CBC,Medication,,Daily,6 months,No,Smoker,Worsened
+36,M,Caucasian,53,184,Diabetes,Cancer,Marker3,Hypertension,"BP, HR",CBC,Medication,100mg,Daily,6 months,No,Smoker,No Change
+18,M,African American,74,184,Diabetes,Heart Disease,Marker2,Cancer,"BP, HR",CBC,Medication,100mg,,6 months,Yes,Smoker,Worsened
+62,F,Asian,59,176,None,None,Marker1,Diabetes,"BP, HR, Temp",Cholesterol,Surgery,50mg,,3 months,No,Non-smoker,No Change
+43,M,Hispanic,51,187,Arthritis,Cancer,Marker3,Hypertension,"BP, HR",Glucose,Surgery,100mg,Daily,6 months,Yes,Smoker,Worsened
+38,M,African American,70,191,Arthritis,Cancer,Marker1,Diabetes,"BP, HR",Glucose,Surgery,100mg,,3 months,Yes,Smoker,Improved
+56,M,Hispanic,76,185,Hypertension,Heart Disease,Marker2,Cancer,"BP, HR, Temp",Glucose,Medication,,,6 months,No,Non-smoker,No Change
+66,M,Hispanic,96,158,None,Cancer,Marker2,Cancer,"BP, HR, Temp",Cholesterol,Surgery,,Weekly,6 months,No,Smoker,Improved
+62,M,Hispanic,83,178,Arthritis,None,Marker1,Diabetes,"BP, HR",CBC,Surgery,100mg,Daily,6 months,No,Smoker,Worsened
+66,F,African American,87,188,Arthritis,Cancer,Marker2,Hypertension,"BP, HR",CBC,Surgery,50mg,Weekly,1 year,No,Smoker,No Change
+54,F,Hispanic,81,167,Diabetes,None,Marker2,Diabetes,"BP, HR, Temp",Glucose,Surgery,50mg,Daily,6 months,Yes,Smoker,Improved
+78,F,Hispanic,79,193,Hypertension,Cancer,Marker1,Diabetes,"BP, HR, Temp",Glucose,Medication,100mg,,1 year,No,Smoker,No Change
+77,M,Hispanic,65,151,None,Heart Disease,Marker1,Hypertension,"BP, HR",CBC,Chemotherapy,,Weekly,6 months,Yes,Smoker,Worsened
+53,F,African American,85,171,Arthritis,Heart Disease,Marker3,Hypertension,"BP, HR, Temp",Cholesterol,Surgery,100mg,,6 months,No,Non-smoker,Improved
+53,M,Asian,94,160,None,Heart Disease,Marker1,Diabetes,"BP, HR, Temp",Cholesterol,Chemotherapy,,Daily,3 months,Yes,Smoker,Worsened
+52,M,Hispanic,84,195,Arthritis,None,Marker1,Diabetes,"BP, HR, Temp",CBC,Chemotherapy,100mg,Weekly,1 year,Yes,Non-smoker,No Change
+58,M,African American,54,189,Diabetes,Cancer,Marker1,Hypertension,"BP, HR",Cholesterol,Chemotherapy,50mg,Daily,6 months,No,Non-smoker,Improved
+66,M,Asian,68,195,None,Cancer,Marker1,Diabetes,"BP, HR, Temp",Glucose,Medication,50mg,,1 year,Yes,Non-smoker,No Change
+28,M,Asian,77,172,Arthritis,Heart Disease,Marker3,Diabetes,"BP, HR",Cholesterol,Surgery,,,3 months,Yes,Smoker,Worsened
+71,F,Caucasian,70,176,Arthritis,None,Marker1,Hypertension,"BP, HR",CBC,Medication,100mg,Weekly,3 months,Yes,Non-smoker,Improved
+40,M,African American,64,170,Hypertension,Cancer,Marker2,Diabetes,"BP, HR",Glucose,Chemotherapy,,Daily,3 months,No,Non-smoker,No Change
+18,M,Asian,87,159,Diabetes,None,Marker1,Diabetes,"BP, HR",Cholesterol,Chemotherapy,,Daily,3 months,Yes,Smoker,Worsened
+51,F,Asian,83,195,Arthritis,None,Marker2,Hypertension,"BP, HR",CBC,Surgery,50mg,Weekly,3 months,Yes,Smoker,Improved
+42,F,Hispanic,85,152,Hypertension,Heart Disease,Marker2,Hypertension,"BP, HR",Cholesterol,Medication,50mg,Weekly,3 months,Yes,Non-smoker,Worsened
+74,F,Asian,53,164,Arthritis,Heart Disease,Marker3,Diabetes,"BP, HR",Glucose,Medication,50mg,Daily,6 months,Yes,Non-smoker,Worsened
+25,M,African American,68,184,None,Heart Disease,Marker1,Cancer,"BP, HR",Glucose,Surgery,,,1 year,Yes,Smoker,Improved
+46,M,Asian,78,194,None,None,Marker3,Diabetes,"BP, HR",Cholesterol,Chemotherapy,50mg,,1 year,No,Smoker,Improved
+75,M,Caucasian,68,188,Arthritis,None,Marker1,Cancer,"BP, HR, Temp",Glucose,Chemotherapy,,,1 year,No,Non-smoker,No Change
+40,F,African American,53,166,Arthritis,Cancer,Marker1,Cancer,"BP, HR",Cholesterol,Medication,100mg,Daily,1 year,No,Smoker,Worsened
+66,M,Asian,80,199,Diabetes,None,Marker2,Diabetes,"BP, HR, Temp",Cholesterol,Medication,50mg,,6 months,Yes,Non-smoker,Worsened
+33,M,Caucasian,80,158,Arthritis,Heart Disease,Marker3,Cancer,"BP, HR, Temp",Cholesterol,Medication,,Daily,3 months,No,Non-smoker,Worsened
+45,M,Hispanic,71,190,Diabetes,Cancer,Marker2,Diabetes,"BP, HR",Glucose,Surgery,100mg,Weekly,1 year,No,Smoker,Worsened
+49,M,African American,57,162,Hypertension,Cancer,Marker1,Cancer,"BP, HR",Cholesterol,Chemotherapy,100mg,Daily,1 year,Yes,Smoker,Worsened
+52,M,Asian,61,170,Arthritis,Heart Disease,Marker2,Hypertension,"BP, HR",Glucose,Chemotherapy,100mg,Daily,1 year,Yes,Non-smoker,Worsened
+41,M,African American,93,167,Diabetes,None,Marker2,Diabetes,"BP, HR, Temp",Glucose,Surgery,,Weekly,3 months,Yes,Smoker,Improved
+63,M,African American,89,165,Diabetes,Cancer,Marker3,Hypertension,"BP, HR",CBC,Surgery,50mg,Weekly,1 year,No,Non-smoker,No Change
+19,M,Asian,65,152,None,Cancer,Marker2,Cancer,"BP, HR, Temp",CBC,Chemotherapy,,Weekly,1 year,Yes,Non-smoker,Worsened
+47,F,African American,60,196,Diabetes,Heart Disease,Marker2,Hypertension,"BP, HR, Temp",Cholesterol,Surgery,50mg,,3 months,Yes,Non-smoker,No Change
+34,F,Asian,50,184,Arthritis,Heart Disease,Marker3,Hypertension,"BP, HR",Cholesterol,Medication,50mg,Weekly,6 months,Yes,Smoker,No Change
+70,F,Asian,72,188,Hypertension,Cancer,Marker3,Diabetes,"BP, HR",Cholesterol,Surgery,,Daily,1 year,No,Smoker,No Change
+70,F,Caucasian,74,195,Arthritis,None,Marker2,Diabetes,"BP, HR, Temp",CBC,Chemotherapy,100mg,,1 year,No,Smoker,Worsened
+41,M,Asian,98,192,Hypertension,Cancer,Marker1,Hypertension,"BP, HR, Temp",Glucose,Medication,100mg,Weekly,3 months,Yes,Smoker,Improved
+32,F,African American,61,178,Hypertension,Heart Disease,Marker2,Cancer,"BP, HR, Temp",CBC,Chemotherapy,50mg,Weekly,1 year,Yes,Non-smoker,Improved
+46,F,Hispanic,95,192,Hypertension,Heart Disease,Marker1,Diabetes,"BP, HR",Cholesterol,Medication,100mg,Weekly,1 year,Yes,Smoker,No Change
+48,F,Caucasian,70,158,Hypertension,Cancer,Marker2,Diabetes,"BP, HR",Cholesterol,Medication,100mg,Weekly,1 year,No,Non-smoker,Improved
+67,M,Hispanic,86,183,Diabetes,None,Marker3,Diabetes,"BP, HR",CBC,Chemotherapy,50mg,,3 months,No,Non-smoker,No Change
+18,M,African American,75,157,None,Cancer,Marker1,Diabetes,"BP, HR",Cholesterol,Medication,100mg,Daily,3 months,No,Smoker,Improved
+26,F,Asian,72,174,None,None,Marker3,Cancer,"BP, HR, Temp",Glucose,Medication,100mg,,1 year,No,Smoker,No Change
+19,F,Asian,51,168,Diabetes,Cancer,Marker2,Hypertension,"BP, HR, Temp",Glucose,Chemotherapy,,Daily,6 months,No,Smoker,No Change
+56,M,African American,53,151,Arthritis,None,Marker3,Cancer,"BP, HR",Glucose,Chemotherapy,100mg,Daily,1 year,Yes,Non-smoker,Worsened
+54,M,African American,53,152,Diabetes,Cancer,Marker1,Hypertension,"BP, HR, Temp",Cholesterol,Medication,100mg,Daily,1 year,No,Smoker,Improved
+78,F,Hispanic,55,192,Arthritis,None,Marker1,Diabetes,"BP, HR",CBC,Surgery,100mg,Daily,6 months,No,Smoker,Improved
+21,F,African American,65,154,None,None,Marker3,Cancer,"BP, HR, Temp",Glucose,Surgery,100mg,Weekly,1 year,No,Non-smoker,Worsened
+56,F,Caucasian,64,176,Arthritis,Heart Disease,Marker1,Hypertension,"BP, HR",CBC,Medication,100mg,Weekly,3 months,No,Non-smoker,Improved
+58,F,Asian,77,162,None,Heart Disease,Marker2,Cancer,"BP, HR",Cholesterol,Medication,,,1 year,Yes,Smoker,Improved
+48,F,Asian,91,191,Arthritis,Heart Disease,Marker2,Hypertension,"BP, HR, Temp",Cholesterol,Surgery,100mg,Weekly,1 year,Yes,Non-smoker,Improved
+60,F,Hispanic,80,197,Diabetes,Heart Disease,Marker2,Diabetes,"BP, HR",Cholesterol,Chemotherapy,50mg,Daily,1 year,Yes,Non-smoker,Worsened
+65,F,Asian,54,167,None,Cancer,Marker1,Hypertension,"BP, HR, Temp",Cholesterol,Medication,50mg,Daily,1 year,Yes,Non-smoker,Worsened
+46,M,African American,95,178,Arthritis,Heart Disease,Marker3,Diabetes,"BP, HR, Temp",CBC,Surgery,,Weekly,3 months,No,Non-smoker,No Change
+34,F,Asian,84,182,Diabetes,None,Marker1,Diabetes,"BP, HR, Temp",Cholesterol,Chemotherapy,,Daily,3 months,Yes,Non-smoker,Improved
+30,F,Hispanic,65,195,Diabetes,Cancer,Marker3,Diabetes,"BP, HR, Temp",Cholesterol,Medication,100mg,Daily,6 months,No,Non-smoker,No Change
+35,M,Caucasian,53,186,Hypertension,None,Marker2,Cancer,"BP, HR",Cholesterol,Medication,50mg,,1 year,Yes,Smoker,No Change
+53,M,Caucasian,76,165,Hypertension,None,Marker3,Diabetes,"BP, HR, Temp",Cholesterol,Surgery,50mg,Daily,6 months,Yes,Non-smoker,Improved
+50,F,African American,69,155,Arthritis,Heart Disease,Marker3,Cancer,"BP, HR",CBC,Chemotherapy,,Daily,3 months,Yes,Non-smoker,No Change
+39,M,African American,70,163,Diabetes,Heart Disease,Marker1,Cancer,"BP, HR, Temp",Glucose,Chemotherapy,50mg,Daily,3 months,No,Non-smoker,Worsened
+74,F,Hispanic,52,199,None,None,Marker2,Cancer,"BP, HR, Temp",Glucose,Medication,100mg,Weekly,6 months,No,Smoker,No Change
+79,F,Asian,52,167,Diabetes,None,Marker2,Cancer,"BP, HR",CBC,Surgery,50mg,Weekly,1 year,Yes,Smoker,Improved
+62,M,Hispanic,59,177,None,Cancer,Marker1,Diabetes,"BP, HR, Temp",Cholesterol,Surgery,50mg,,1 year,No,Non-smoker,No Change
+61,F,Hispanic,93,185,Hypertension,Cancer,Marker1,Cancer,"BP, HR",CBC,Medication,,Weekly,3 months,No,Smoker,Improved
+19,M,Caucasian,85,193,Arthritis,Cancer,Marker2,Diabetes,"BP, HR, Temp",Cholesterol,Chemotherapy,,Weekly,3 months,Yes,Non-smoker,Improved
+77,F,Asian,69,162,Hypertension,Cancer,Marker2,Cancer,"BP, HR",Glucose,Chemotherapy,,,1 year,No,Non-smoker,Improved
+77,F,Caucasian,80,171,Hypertension,None,Marker3,Diabetes,"BP, HR",Cholesterol,Medication,100mg,Daily,1 year,Yes,Smoker,Worsened
+20,M,African American,98,182,Arthritis,None,Marker2,Diabetes,"BP, HR",Glucose,Chemotherapy,50mg,Weekly,6 months,No,Smoker,Improved
+44,M,Asian,81,166,Hypertension,Heart Disease,Marker1,Cancer,"BP, HR, Temp",Glucose,Chemotherapy,,,3 months,Yes,Non-smoker,No Change
+66,M,African American,90,196,Diabetes,Heart Disease,Marker1,Hypertension,"BP, HR",Cholesterol,Chemotherapy,50mg,,1 year,No,Non-smoker,Worsened
+66,M,Asian,67,159,Arthritis,None,Marker3,Hypertension,"BP, HR, Temp",CBC,Chemotherapy,,,1 year,No,Non-smoker,Worsened
+48,F,Hispanic,98,151,Hypertension,None,Marker2,Hypertension,"BP, HR, Temp",CBC,Chemotherapy,50mg,Weekly,6 months,No,Non-smoker,Worsened
+40,F,Hispanic,67,178,Diabetes,None,Marker1,Diabetes,"BP, HR, Temp",Glucose,Medication,50mg,Weekly,1 year,Yes,Non-smoker,Worsened
+60,M,Asian,86,160,Arthritis,None,Marker2,Diabetes,"BP, HR",CBC,Chemotherapy,,Weekly,1 year,Yes,Smoker,No Change
+37,M,Asian,99,195,Diabetes,None,Marker1,Cancer,"BP, HR, Temp",CBC,Chemotherapy,50mg,Weekly,6 months,No,Smoker,No Change
+51,M,Caucasian,81,162,Arthritis,Heart Disease,Marker2,Diabetes,"BP, HR, Temp",CBC,Medication,100mg,Weekly,3 months,Yes,Non-smoker,Improved
+48,M,African American,98,156,Arthritis,Heart Disease,Marker2,Diabetes,"BP, HR",Glucose,Medication,50mg,Daily,1 year,Yes,Non-smoker,Improved
+48,F,Caucasian,88,187,Hypertension,Heart Disease,Marker1,Hypertension,"BP, HR, Temp",Cholesterol,Medication,,Weekly,3 months,No,Smoker,No Change
+43,F,Hispanic,74,167,None,Heart Disease,Marker2,Hypertension,"BP, HR",Cholesterol,Medication,,,3 months,No,Non-smoker,Worsened
+39,F,Hispanic,59,196,None,None,Marker1,Cancer,"BP, HR, Temp",Cholesterol,Medication,,,1 year,Yes,Smoker,Worsened
+24,F,Asian,57,162,Hypertension,Heart Disease,Marker1,Cancer,"BP, HR, Temp",Cholesterol,Medication,100mg,Daily,1 year,Yes,Non-smoker,Worsened
+20,F,Hispanic,62,194,Diabetes,Heart Disease,Marker2,Cancer,"BP, HR",Glucose,Medication,,,6 months,Yes,Smoker,No Change
+25,M,Caucasian,84,188,Hypertension,Heart Disease,Marker3,Diabetes,"BP, HR",CBC,Medication,100mg,Weekly,3 months,Yes,Non-smoker,Improved
+26,M,African American,86,157,Hypertension,Cancer,Marker2,Diabetes,"BP, HR",Cholesterol,Surgery,50mg,Weekly,3 months,No,Non-smoker,No Change
+78,M,Caucasian,91,197,Arthritis,Heart Disease,Marker2,Cancer,"BP, HR, Temp",CBC,Medication,50mg,,6 months,No,Smoker,No Change
+34,F,Caucasian,52,189,Diabetes,None,Marker2,Cancer,"BP, HR, Temp",CBC,Surgery,,,6 months,No,Smoker,Worsened
+62,F,African American,82,192,None,Heart Disease,Marker2,Diabetes,"BP, HR, Temp",Cholesterol,Surgery,,,6 months,Yes,Smoker,Worsened
+54,F,Hispanic,75,164,Hypertension,Heart Disease,Marker1,Cancer,"BP, HR",Cholesterol,Chemotherapy,,Daily,1 year,No,Smoker,No Change
+40,F,African American,51,163,Arthritis,Cancer,Marker1,Cancer,"BP, HR",CBC,Chemotherapy,50mg,Weekly,6 months,No,Non-smoker,No Change
+30,M,Asian,90,177,Hypertension,Cancer,Marker1,Hypertension,"BP, HR",Glucose,Chemotherapy,,Daily,3 months,No,Smoker,Worsened
+23,F,African American,72,192,Arthritis,Cancer,Marker3,Cancer,"BP, HR",Glucose,Medication,100mg,,1 year,No,Non-smoker,No Change
+19,M,Caucasian,89,163,Diabetes,None,Marker3,Cancer,"BP, HR, Temp",CBC,Surgery,,,6 months,No,Non-smoker,Worsened
+24,M,Hispanic,74,179,Hypertension,Cancer,Marker3,Cancer,"BP, HR",Glucose,Medication,100mg,Daily,1 year,No,Non-smoker,Improved
+73,M,Hispanic,74,157,Diabetes,Cancer,Marker2,Cancer,"BP, HR",CBC,Chemotherapy,100mg,Weekly,6 months,Yes,Smoker,Worsened
+57,F,Hispanic,92,169,None,None,Marker3,Hypertension,"BP, HR",CBC,Chemotherapy,100mg,Daily,3 months,No,Non-smoker,Worsened
+67,F,African American,57,180,None,Cancer,Marker1,Diabetes,"BP, HR, Temp",Cholesterol,Medication,100mg,Weekly,1 year,No,Smoker,Improved
+54,M,Caucasian,70,163,None,None,Marker3,Cancer,"BP, HR",Cholesterol,Chemotherapy,,Weekly,3 months,No,Non-smoker,Improved
+21,M,Asian,95,153,Arthritis,Heart Disease,Marker3,Diabetes,"BP, HR, Temp",Glucose,Medication,50mg,Daily,6 months,No,Non-smoker,No Change
+23,F,Hispanic,81,190,Hypertension,Cancer,Marker3,Hypertension,"BP, HR, Temp",Glucose,Surgery,50mg,,1 year,No,Smoker,Improved
+40,F,Hispanic,97,189,Diabetes,Heart Disease,Marker1,Hypertension,"BP, HR",Glucose,Chemotherapy,,,3 months,Yes,Smoker,No Change
+48,M,Hispanic,75,150,Diabetes,Heart Disease,Marker1,Hypertension,"BP, HR",Glucose,Medication,100mg,Weekly,3 months,No,Non-smoker,No Change
+53,F,Asian,63,162,Hypertension,Cancer,Marker2,Cancer,"BP, HR, Temp",Glucose,Surgery,,Weekly,6 months,No,Smoker,Worsened
+48,M,Asian,77,174,Hypertension,Cancer,Marker3,Hypertension,"BP, HR, Temp",Cholesterol,Chemotherapy,100mg,Weekly,3 months,No,Smoker,Improved
+66,M,Asian,60,174,Hypertension,Heart Disease,Marker2,Cancer,"BP, HR",Cholesterol,Surgery,50mg,,3 months,Yes,Non-smoker,Improved
+21,F,Asian,55,184,Hypertension,Heart Disease,Marker1,Diabetes,"BP, HR",Cholesterol,Surgery,100mg,Weekly,6 months,Yes,Non-smoker,Improved
+49,F,African American,67,199,Diabetes,None,Marker3,Cancer,"BP, HR",CBC,Chemotherapy,50mg,Weekly,1 year,No,Non-smoker,No Change
+43,F,African American,76,167,Hypertension,None,Marker3,Diabetes,"BP, HR",Glucose,Chemotherapy,,,3 months,Yes,Smoker,Worsened
+30,F,Hispanic,67,164,Hypertension,None,Marker2,Diabetes,"BP, HR",CBC,Medication,50mg,,3 months,Yes,Smoker,Improved
+66,M,African American,94,171,Arthritis,Heart Disease,Marker1,Diabetes,"BP, HR",Cholesterol,Medication,50mg,Daily,1 year,Yes,Smoker,Worsened
+24,F,Asian,56,157,Diabetes,Heart Disease,Marker1,Diabetes,"BP, HR, Temp",Cholesterol,Chemotherapy,,Daily,3 months,Yes,Smoker,Worsened
+58,M,Asian,99,169,Hypertension,Cancer,Marker3,Diabetes,"BP, HR",CBC,Chemotherapy,50mg,Daily,6 months,No,Non-smoker,No Change
+20,F,African American,88,176,None,None,Marker3,Diabetes,"BP, HR, Temp",Glucose,Surgery,100mg,Weekly,6 months,No,Non-smoker,Worsened
+49,M,Hispanic,89,174,Arthritis,None,Marker2,Cancer,"BP, HR",Cholesterol,Medication,100mg,,3 months,Yes,Smoker,No Change
+18,M,African American,51,184,Diabetes,Cancer,Marker3,Hypertension,"BP, HR",CBC,Chemotherapy,50mg,Weekly,6 months,No,Smoker,Improved
+38,M,Caucasian,75,187,Arthritis,Heart Disease,Marker3,Hypertension,"BP, HR, Temp",Glucose,Surgery,100mg,Daily,3 months,Yes,Smoker,No Change
+51,F,Asian,55,164,Diabetes,Cancer,Marker2,Cancer,"BP, HR",Cholesterol,Medication,100mg,Weekly,3 months,No,Smoker,Improved
+49,F,Asian,85,160,Diabetes,Cancer,Marker2,Hypertension,"BP, HR, Temp",Glucose,Chemotherapy,50mg,Weekly,6 months,No,Smoker,Improved
+45,F,Asian,69,164,Hypertension,None,Marker3,Hypertension,"BP, HR",CBC,Medication,100mg,,6 months,Yes,Non-smoker,No Change
+73,M,Asian,59,183,None,None,Marker3,Hypertension,"BP, HR",CBC,Chemotherapy,,Daily,6 months,Yes,Smoker,Worsened
+39,F,Asian,75,174,None,Cancer,Marker3,Hypertension,"BP, HR",Glucose,Chemotherapy,,Weekly,1 year,Yes,Non-smoker,No Change
+42,F,Hispanic,63,185,None,Cancer,Marker1,Diabetes,"BP, HR",Glucose,Surgery,50mg,Daily,3 months,No,Non-smoker,No Change
+32,F,Caucasian,92,159,Diabetes,Heart Disease,Marker1,Diabetes,"BP, HR",Cholesterol,Surgery,50mg,,3 months,Yes,Non-smoker,Worsened
+66,F,Asian,74,165,None,Heart Disease,Marker3,Hypertension,"BP, HR, Temp",Cholesterol,Medication,50mg,Weekly,1 year,No,Smoker,Improved
+79,F,Asian,70,162,Hypertension,Heart Disease,Marker1,Diabetes,"BP, HR",CBC,Medication,,Weekly,1 year,Yes,Non-smoker,Improved
+71,F,Caucasian,70,180,Hypertension,Cancer,Marker1,Diabetes,"BP, HR",Glucose,Surgery,50mg,,6 months,Yes,Smoker,Worsened
+19,M,Caucasian,89,190,None,Heart Disease,Marker1,Cancer,"BP, HR",CBC,Chemotherapy,50mg,Daily,6 months,No,Non-smoker,Worsened
+48,F,Caucasian,78,172,Diabetes,Cancer,Marker3,Cancer,"BP, HR, Temp",Glucose,Chemotherapy,50mg,Daily,1 year,Yes,Non-smoker,No Change
+56,M,Caucasian,84,187,Diabetes,None,Marker1,Diabetes,"BP, HR",Glucose,Medication,50mg,Weekly,6 months,Yes,Smoker,Worsened
+21,M,African American,88,183,Arthritis,Cancer,Marker2,Hypertension,"BP, HR",Glucose,Surgery,100mg,Daily,6 months,Yes,Smoker,No Change
+25,M,Hispanic,94,153,Arthritis,Cancer,Marker2,Diabetes,"BP, HR, Temp",CBC,Surgery,,Weekly,6 months,No,Non-smoker,Improved
+41,F,African American,98,155,Arthritis,Cancer,Marker1,Hypertension,"BP, HR, Temp",Glucose,Chemotherapy,,,6 months,No,Non-smoker,Worsened
+18,M,Asian,50,171,Diabetes,None,Marker3,Hypertension,"BP, HR",Cholesterol,Chemotherapy,100mg,Weekly,1 year,No,Non-smoker,Improved
+60,M,Caucasian,84,155,None,Heart Disease,Marker2,Diabetes,"BP, HR, Temp",CBC,Medication,,Daily,6 months,No,Smoker,Improved
+69,M,Caucasian,59,179,None,None,Marker3,Cancer,"BP, HR, Temp",CBC,Medication,50mg,Weekly,6 months,Yes,Smoker,Improved
+30,M,Asian,93,168,Arthritis,None,Marker1,Diabetes,"BP, HR",CBC,Medication,100mg,Daily,3 months,Yes,Non-smoker,Worsened
+42,M,African American,73,176,None,Heart Disease,Marker2,Diabetes,"BP, HR",Cholesterol,Medication,,Weekly,1 year,No,Non-smoker,No Change
+20,M,Caucasian,99,189,Arthritis,Cancer,Marker1,Hypertension,"BP, HR",Cholesterol,Medication,100mg,,6 months,Yes,Smoker,No Change
+53,M,Hispanic,83,166,Diabetes,Cancer,Marker2,Hypertension,"BP, HR, Temp",CBC,Medication,50mg,Daily,1 year,Yes,Non-smoker,No Change
+43,M,African American,93,186,Arthritis,None,Marker2,Diabetes,"BP, HR, Temp",Cholesterol,Medication,50mg,Daily,1 year,Yes,Smoker,Improved
+54,M,Asian,84,159,Hypertension,Heart Disease,Marker1,Cancer,"BP, HR, Temp",Cholesterol,Medication,100mg,Daily,6 months,No,Smoker,Worsened
+47,F,Asian,84,157,Diabetes,Heart Disease,Marker2,Diabetes,"BP, HR, Temp",Glucose,Medication,50mg,Daily,1 year,No,Non-smoker,No Change
+40,M,Asian,76,199,Arthritis,Heart Disease,Marker1,Diabetes,"BP, HR, Temp",CBC,Surgery,50mg,Weekly,1 year,No,Smoker,No Change
+25,M,African American,88,150,Diabetes,Cancer,Marker2,Hypertension,"BP, HR, Temp",Glucose,Surgery,50mg,Daily,3 months,Yes,Non-smoker,Worsened
+27,F,African American,80,182,Arthritis,Cancer,Marker2,Hypertension,"BP, HR",CBC,Chemotherapy,,Weekly,6 months,Yes,Non-smoker,Worsened
+36,M,African American,77,171,Arthritis,Heart Disease,Marker2,Hypertension,"BP, HR, Temp",CBC,Chemotherapy,,Daily,1 year,Yes,Smoker,Worsened
+19,M,African American,90,188,Diabetes,Cancer,Marker1,Hypertension,"BP, HR, Temp",CBC,Chemotherapy,50mg,,3 months,Yes,Smoker,Improved
+47,M,Caucasian,66,150,None,Heart Disease,Marker3,Diabetes,"BP, HR, Temp",Glucose,Surgery,,Weekly,1 year,No,Non-smoker,Improved
+56,F,African American,74,178,None,None,Marker3,Cancer,"BP, HR, Temp",Glucose,Chemotherapy,50mg,,6 months,Yes,Non-smoker,Worsened
+55,F,Asian,63,186,Arthritis,Cancer,Marker1,Hypertension,"BP, HR, Temp",Cholesterol,Medication,,Weekly,6 months,Yes,Smoker,Improved
+47,F,African American,66,158,Diabetes,Heart Disease,Marker2,Diabetes,"BP, HR",Glucose,Chemotherapy,100mg,Daily,1 year,Yes,Smoker,Improved
+36,M,Hispanic,89,187,Hypertension,Cancer,Marker3,Cancer,"BP, HR, Temp",Cholesterol,Medication,50mg,Daily,6 months,Yes,Non-smoker,Improved
+48,M,Caucasian,52,173,None,None,Marker3,Hypertension,"BP, HR, Temp",Glucose,Chemotherapy,,Weekly,3 months,Yes,Non-smoker,Worsened
+62,F,Caucasian,79,161,None,Cancer,Marker1,Cancer,"BP, HR, Temp",Glucose,Medication,,,1 year,Yes,Smoker,Improved
+63,F,Caucasian,78,193,Hypertension,None,Marker3,Hypertension,"BP, HR",Glucose,Chemotherapy,50mg,Weekly,6 months,Yes,Non-smoker,Worsened
+60,F,Hispanic,58,183,Arthritis,None,Marker1,Cancer,"BP, HR",CBC,Medication,100mg,Weekly,1 year,Yes,Non-smoker,Worsened
+75,M,Caucasian,74,174,Hypertension,Heart Disease,Marker3,Diabetes,"BP, HR, Temp",Glucose,Surgery,,,3 months,No,Smoker,No Change
+78,F,Hispanic,57,158,Arthritis,None,Marker2,Hypertension,"BP, HR, Temp",Glucose,Medication,100mg,,6 months,No,Smoker,No Change
+26,F,Asian,59,178,None,Cancer,Marker1,Diabetes,"BP, HR, Temp",Glucose,Surgery,50mg,Weekly,1 year,No,Smoker,No Change
+33,M,African American,71,196,None,None,Marker3,Hypertension,"BP, HR",Glucose,Medication,50mg,Weekly,6 months,Yes,Non-smoker,No Change
+37,F,Hispanic,73,170,Hypertension,Heart Disease,Marker1,Cancer,"BP, HR, Temp",Glucose,Medication,100mg,Weekly,1 year,Yes,Smoker,Improved
+38,M,Hispanic,56,191,None,None,Marker3,Cancer,"BP, HR",Glucose,Chemotherapy,100mg,,1 year,No,Non-smoker,No Change
+58,F,African American,87,170,Diabetes,Cancer,Marker3,Hypertension,"BP, HR",CBC,Medication,50mg,Weekly,3 months,No,Non-smoker,Worsened
+59,F,Asian,88,190,Diabetes,Heart Disease,Marker3,Cancer,"BP, HR",CBC,Medication,50mg,Weekly,6 months,Yes,Non-smoker,Worsened
+47,F,Caucasian,86,173,None,Cancer,Marker2,Cancer,"BP, HR",Cholesterol,Chemotherapy,50mg,Weekly,3 months,No,Non-smoker,Improved
+25,F,Hispanic,68,168,Arthritis,Cancer,Marker1,Diabetes,"BP, HR",CBC,Medication,,Daily,6 months,Yes,Smoker,No Change
+48,F,Hispanic,94,157,None,Cancer,Marker1,Hypertension,"BP, HR, Temp",CBC,Chemotherapy,100mg,Daily,3 months,No,Smoker,Improved
+29,M,Hispanic,72,168,Hypertension,Heart Disease,Marker1,Cancer,"BP, HR",Glucose,Chemotherapy,100mg,Weekly,3 months,Yes,Non-smoker,No Change
+61,F,Hispanic,96,189,Arthritis,Heart Disease,Marker1,Diabetes,"BP, HR",Glucose,Chemotherapy,100mg,,6 months,No,Non-smoker,Improved
+22,F,Hispanic,72,190,None,Heart Disease,Marker2,Hypertension,"BP, HR, Temp",CBC,Surgery,50mg,,6 months,No,Smoker,Improved
+37,F,Asian,97,173,Arthritis,None,Marker3,Hypertension,"BP, HR",CBC,Medication,100mg,Weekly,6 months,Yes,Smoker,Improved
+51,F,Caucasian,67,179,Hypertension,None,Marker3,Cancer,"BP, HR",Cholesterol,Chemotherapy,100mg,Weekly,1 year,Yes,Smoker,Worsened
+74,F,African American,97,171,Diabetes,Heart Disease,Marker2,Hypertension,"BP, HR",CBC,Surgery,50mg,Weekly,6 months,Yes,Smoker,Improved
+71,F,Caucasian,65,174,Hypertension,Heart Disease,Marker2,Hypertension,"BP, HR",Glucose,Medication,,Weekly,6 months,No,Non-smoker,Improved
+47,F,African American,88,192,Arthritis,None,Marker1,Diabetes,"BP, HR",Cholesterol,Chemotherapy,100mg,Daily,6 months,Yes,Non-smoker,Improved
+31,F,Caucasian,65,160,Hypertension,None,Marker1,Cancer,"BP, HR",Glucose,Chemotherapy,,,1 year,No,Smoker,No Change
+52,M,Asian,59,166,Arthritis,None,Marker2,Hypertension,"BP, HR, Temp",Cholesterol,Chemotherapy,,Daily,3 months,No,Non-smoker,Worsened
+46,M,Hispanic,94,187,None,Cancer,Marker2,Cancer,"BP, HR, Temp",Cholesterol,Chemotherapy,50mg,,1 year,No,Smoker,Improved
+67,F,Caucasian,91,190,Hypertension,None,Marker3,Diabetes,"BP, HR",Glucose,Surgery,50mg,Weekly,6 months,Yes,Smoker,Worsened
+63,F,Asian,99,160,Hypertension,Cancer,Marker2,Hypertension,"BP, HR, Temp",Cholesterol,Chemotherapy,100mg,Weekly,3 months,No,Non-smoker,Worsened
+69,F,African American,95,162,Diabetes,Heart Disease,Marker3,Hypertension,"BP, HR, Temp",CBC,Surgery,100mg,Daily,1 year,No,Non-smoker,Improved
+64,M,Hispanic,62,172,Hypertension,Heart Disease,Marker3,Diabetes,"BP, HR, Temp",CBC,Medication,50mg,,1 year,Yes,Smoker,Improved
+53,M,Caucasian,54,186,None,Cancer,Marker2,Cancer,"BP, HR",CBC,Medication,,Daily,1 year,Yes,Smoker,Worsened
+32,M,Asian,52,184,Diabetes,Cancer,Marker2,Diabetes,"BP, HR, Temp",Cholesterol,Medication,50mg,Daily,1 year,Yes,Non-smoker,No Change
+35,M,Caucasian,59,150,Diabetes,Cancer,Marker2,Diabetes,"BP, HR",Cholesterol,Chemotherapy,100mg,,3 months,No,Non-smoker,No Change
+60,M,African American,68,168,Arthritis,Cancer,Marker2,Diabetes,"BP, HR",CBC,Chemotherapy,100mg,Weekly,6 months,No,Smoker,Improved
+67,F,Asian,86,199,Arthritis,Cancer,Marker1,Diabetes,"BP, HR",Glucose,Chemotherapy,100mg,,6 months,No,Smoker,No Change
+51,M,Hispanic,60,152,Hypertension,None,Marker3,Diabetes,"BP, HR, Temp",Cholesterol,Surgery,,,1 year,No,Smoker,Improved
+56,F,Asian,63,188,Arthritis,Cancer,Marker1,Hypertension,"BP, HR, Temp",Cholesterol,Surgery,,Weekly,1 year,No,Non-smoker,Worsened
+20,M,Hispanic,68,191,None,Heart Disease,Marker1,Cancer,"BP, HR",Cholesterol,Medication,50mg,Weekly,1 year,No,Smoker,No Change
+52,F,Hispanic,86,177,None,Cancer,Marker2,Diabetes,"BP, HR, Temp",Cholesterol,Chemotherapy,50mg,,3 months,Yes,Smoker,No Change
+25,M,African American,80,174,Hypertension,Cancer,Marker2,Hypertension,"BP, HR, Temp",Glucose,Surgery,,Daily,6 months,Yes,Non-smoker,Worsened
+71,F,Asian,99,187,Diabetes,Cancer,Marker2,Diabetes,"BP, HR",CBC,Surgery,,Weekly,3 months,Yes,Smoker,No Change
+26,M,Hispanic,56,169,Hypertension,Cancer,Marker2,Diabetes,"BP, HR",Cholesterol,Medication,100mg,Daily,1 year,Yes,Non-smoker,Improved
+46,M,African American,54,153,None,None,Marker2,Hypertension,"BP, HR",Glucose,Surgery,,,6 months,Yes,Non-smoker,Improved
+55,M,Asian,74,170,Arthritis,Cancer,Marker2,Cancer,"BP, HR",Cholesterol,Surgery,,,1 year,No,Non-smoker,Worsened
+30,M,African American,90,177,Arthritis,Heart Disease,Marker2,Cancer,"BP, HR, Temp",Glucose,Surgery,50mg,Weekly,1 year,Yes,Non-smoker,No Change
+64,F,African American,98,197,Hypertension,Cancer,Marker1,Hypertension,"BP, HR, Temp",Cholesterol,Medication,50mg,Weekly,1 year,No,Smoker,Worsened
+61,F,African American,91,157,Arthritis,Cancer,Marker3,Cancer,"BP, HR, Temp",Glucose,Medication,100mg,Daily,6 months,Yes,Non-smoker,Worsened
+73,F,Asian,80,165,Arthritis,Cancer,Marker1,Hypertension,"BP, HR, Temp",CBC,Surgery,100mg,Daily,6 months,No,Non-smoker,No Change
+48,M,Asian,55,154,Diabetes,None,Marker2,Hypertension,"BP, HR, Temp",CBC,Surgery,,,1 year,No,Non-smoker,No Change
+79,F,African American,81,170,Diabetes,Cancer,Marker3,Hypertension,"BP, HR",Cholesterol,Medication,50mg,,3 months,Yes,Smoker,Worsened
+54,F,African American,70,157,Arthritis,None,Marker3,Hypertension,"BP, HR, Temp",CBC,Chemotherapy,50mg,Weekly,1 year,No,Non-smoker,Improved
+70,F,Hispanic,90,162,None,None,Marker2,Hypertension,"BP, HR",CBC,Surgery,100mg,,6 months,Yes,Smoker,Improved
+67,F,Hispanic,79,150,Diabetes,Heart Disease,Marker1,Cancer,"BP, HR",Cholesterol,Surgery,50mg,Weekly,1 year,No,Non-smoker,Improved
+26,F,Hispanic,94,166,None,Cancer,Marker3,Hypertension,"BP, HR, Temp",Glucose,Medication,,Weekly,1 year,Yes,Non-smoker,Improved
+41,F,Caucasian,50,169,Arthritis,Heart Disease,Marker2,Hypertension,"BP, HR, Temp",CBC,Surgery,50mg,Weekly,1 year,No,Non-smoker,Worsened
+46,M,Caucasian,82,167,Diabetes,Cancer,Marker2,Diabetes,"BP, HR, Temp",Glucose,Surgery,100mg,,3 months,No,Non-smoker,Improved
+50,M,Hispanic,58,162,None,Cancer,Marker2,Diabetes,"BP, HR, Temp",Cholesterol,Chemotherapy,50mg,,6 months,Yes,Smoker,Improved
+24,F,Caucasian,86,197,Diabetes,Cancer,Marker1,Diabetes,"BP, HR",Cholesterol,Surgery,50mg,Daily,6 months,Yes,Smoker,Improved
+69,M,Caucasian,75,177,Hypertension,Cancer,Marker3,Cancer,"BP, HR, Temp",Glucose,Surgery,100mg,Daily,6 months,Yes,Non-smoker,Worsened
+76,M,Caucasian,83,185,Arthritis,Cancer,Marker3,Diabetes,"BP, HR",Cholesterol,Chemotherapy,,,1 year,Yes,Non-smoker,Improved
+32,F,Hispanic,71,194,Diabetes,Cancer,Marker3,Hypertension,"BP, HR, Temp",CBC,Chemotherapy,50mg,Daily,1 year,No,Smoker,Improved
+24,M,Caucasian,78,152,None,Heart Disease,Marker2,Cancer,"BP, HR",Cholesterol,Chemotherapy,100mg,Daily,1 year,No,Non-smoker,Improved
+46,F,Asian,56,153,Diabetes,None,Marker2,Diabetes,"BP, HR",Glucose,Surgery,,Weekly,3 months,Yes,Smoker,No Change
+60,M,African American,73,187,Arthritis,None,Marker3,Diabetes,"BP, HR, Temp",Cholesterol,Surgery,50mg,Daily,3 months,No,Smoker,No Change
+26,M,African American,96,185,Diabetes,Heart Disease,Marker2,Diabetes,"BP, HR, Temp",Glucose,Medication,100mg,Daily,6 months,No,Smoker,No Change
+56,F,Caucasian,82,152,Hypertension,Cancer,Marker3,Diabetes,"BP, HR, Temp",Glucose,Medication,,Weekly,3 months,Yes,Non-smoker,No Change
+75,F,African American,53,190,Diabetes,Heart Disease,Marker3,Diabetes,"BP, HR, Temp",CBC,Surgery,50mg,,6 months,Yes,Smoker,Worsened
+73,F,Caucasian,94,190,Diabetes,Heart Disease,Marker3,Hypertension,"BP, HR",Cholesterol,Surgery,,Weekly,6 months,No,Non-smoker,No Change
+70,F,Caucasian,68,172,None,Cancer,Marker1,Hypertension,"BP, HR, Temp",CBC,Surgery,100mg,Daily,3 months,No,Smoker,Worsened
+65,F,Caucasian,97,161,None,Heart Disease,Marker3,Hypertension,"BP, HR",Glucose,Chemotherapy,100mg,Daily,3 months,No,Smoker,No Change
+37,F,African American,50,187,Diabetes,None,Marker2,Hypertension,"BP, HR, Temp",Cholesterol,Chemotherapy,100mg,Weekly,6 months,No,Smoker,Improved
+31,M,African American,56,156,Diabetes,Heart Disease,Marker3,Diabetes,"BP, HR, Temp",Glucose,Surgery,50mg,Daily,6 months,No,Smoker,Worsened
+64,M,Asian,63,154,Hypertension,Cancer,Marker3,Cancer,"BP, HR, Temp",Cholesterol,Surgery,100mg,,3 months,Yes,Smoker,Worsened
+26,F,Caucasian,65,176,Hypertension,Cancer,Marker3,Cancer,"BP, HR, Temp",CBC,Medication,100mg,Daily,1 year,No,Smoker,Improved
+52,M,Caucasian,64,176,Diabetes,None,Marker3,Diabetes,"BP, HR, Temp",Cholesterol,Medication,,Daily,3 months,No,Non-smoker,Improved
+61,M,Hispanic,80,150,None,None,Marker3,Hypertension,"BP, HR, Temp",Glucose,Chemotherapy,50mg,Weekly,3 months,No,Smoker,Improved
+25,F,Caucasian,64,182,Diabetes,Cancer,Marker2,Hypertension,"BP, HR",Cholesterol,Medication,100mg,Weekly,1 year,No,Non-smoker,Worsened
+38,M,African American,63,189,Hypertension,Heart Disease,Marker1,Diabetes,"BP, HR",CBC,Medication,,Daily,6 months,Yes,Non-smoker,No Change
+19,M,Asian,73,160,Arthritis,Cancer,Marker2,Cancer,"BP, HR, Temp",Cholesterol,Surgery,,Weekly,3 months,No,Non-smoker,Worsened
+35,M,African American,75,191,None,None,Marker3,Diabetes,"BP, HR, Temp",Glucose,Chemotherapy,,,6 months,No,Non-smoker,Worsened
+46,M,Caucasian,82,182,None,Cancer,Marker2,Hypertension,"BP, HR, Temp",CBC,Surgery,100mg,Daily,6 months,No,Non-smoker,Worsened
+60,F,Caucasian,65,157,Diabetes,Cancer,Marker1,Diabetes,"BP, HR, Temp",Glucose,Chemotherapy,100mg,,3 months,Yes,Non-smoker,Improved
+60,M,Hispanic,97,184,Hypertension,Cancer,Marker2,Diabetes,"BP, HR, Temp",CBC,Surgery,50mg,Weekly,3 months,No,Non-smoker,No Change
+43,M,Asian,50,190,Hypertension,Heart Disease,Marker2,Cancer,"BP, HR, Temp",Cholesterol,Surgery,100mg,Weekly,6 months,Yes,Non-smoker,Worsened
+75,F,African American,96,164,Diabetes,None,Marker3,Diabetes,"BP, HR",Glucose,Chemotherapy,50mg,Weekly,1 year,No,Smoker,No Change
+57,F,Caucasian,96,161,Hypertension,None,Marker2,Cancer,"BP, HR",Glucose,Medication,100mg,Weekly,1 year,No,Non-smoker,Improved
+41,F,Hispanic,83,156,Diabetes,Heart Disease,Marker2,Cancer,"BP, HR, Temp",CBC,Chemotherapy,100mg,Weekly,3 months,No,Non-smoker,Improved
+25,F,Hispanic,96,198,Diabetes,Heart Disease,Marker2,Diabetes,"BP, HR",Cholesterol,Medication,,,1 year,No,Smoker,Improved
+28,F,Hispanic,63,159,Arthritis,None,Marker3,Hypertension,"BP, HR",CBC,Medication,50mg,,6 months,No,Smoker,No Change
+56,M,Hispanic,93,187,Arthritis,Cancer,Marker3,Cancer,"BP, HR",Cholesterol,Medication,,Weekly,1 year,No,Non-smoker,Improved
+57,M,African American,53,191,None,None,Marker1,Hypertension,"BP, HR, Temp",CBC,Surgery,50mg,Weekly,1 year,Yes,Non-smoker,Worsened
+40,M,Hispanic,73,197,Hypertension,None,Marker3,Cancer,"BP, HR",Glucose,Chemotherapy,50mg,,3 months,No,Smoker,Worsened
+33,F,Caucasian,82,163,Arthritis,Cancer,Marker3,Diabetes,"BP, HR, Temp",Cholesterol,Chemotherapy,100mg,Daily,3 months,Yes,Non-smoker,Worsened
+23,F,Asian,90,180,Hypertension,Heart Disease,Marker3,Hypertension,"BP, HR",CBC,Medication,100mg,,1 year,Yes,Non-smoker,Worsened
+45,M,Asian,61,192,Hypertension,None,Marker2,Hypertension,"BP, HR",Glucose,Medication,100mg,,6 months,Yes,Smoker,Worsened
+60,M,Hispanic,77,160,None,None,Marker3,Hypertension,"BP, HR",Cholesterol,Medication,100mg,Daily,6 months,No,Smoker,Improved
+70,F,Hispanic,88,197,Hypertension,Heart Disease,Marker1,Cancer,"BP, HR, Temp",CBC,Chemotherapy,,,6 months,Yes,Smoker,No Change
+64,F,African American,85,172,None,Heart Disease,Marker3,Diabetes,"BP, HR, Temp",Cholesterol,Surgery,50mg,Weekly,6 months,No,Smoker,Worsened
+69,F,Asian,93,166,Diabetes,Cancer,Marker3,Cancer,"BP, HR, Temp",CBC,Surgery,100mg,Daily,3 months,Yes,Smoker,No Change
+45,M,Asian,74,178,Diabetes,Cancer,Marker3,Hypertension,"BP, HR",Cholesterol,Surgery,,,3 months,Yes,Smoker,No Change
+43,M,Asian,86,193,Arthritis,None,Marker2,Diabetes,"BP, HR",Glucose,Surgery,100mg,Weekly,1 year,No,Non-smoker,Improved
+30,F,Asian,61,195,None,Cancer,Marker2,Cancer,"BP, HR, Temp",Glucose,Surgery,,,6 months,No,Non-smoker,No Change
+39,F,Asian,82,152,None,None,Marker3,Diabetes,"BP, HR, Temp",Glucose,Surgery,50mg,Daily,6 months,No,Smoker,Improved
+30,F,Caucasian,57,184,None,Cancer,Marker2,Hypertension,"BP, HR, Temp",CBC,Surgery,50mg,,6 months,Yes,Non-smoker,No Change
+70,M,Asian,55,186,Diabetes,None,Marker2,Diabetes,"BP, HR, Temp",CBC,Chemotherapy,100mg,Weekly,6 months,Yes,Smoker,Worsened
+66,F,Asian,81,158,Arthritis,Heart Disease,Marker2,Diabetes,"BP, HR, Temp",Glucose,Surgery,50mg,,6 months,Yes,Smoker,No Change
+56,M,Caucasian,92,168,Arthritis,None,Marker3,Diabetes,"BP, HR, Temp",Glucose,Medication,,Weekly,1 year,Yes,Smoker,No Change
+42,F,African American,82,163,Arthritis,Cancer,Marker2,Diabetes,"BP, HR",CBC,Medication,100mg,,6 months,No,Smoker,Improved
+60,F,Caucasian,72,178,Arthritis,Cancer,Marker1,Cancer,"BP, HR",CBC,Medication,,Daily,1 year,No,Non-smoker,Improved
+50,F,Hispanic,70,192,Arthritis,Heart Disease,Marker2,Hypertension,"BP, HR, Temp",CBC,Medication,,,1 year,Yes,Non-smoker,Improved
+38,M,Hispanic,52,172,Hypertension,Heart Disease,Marker3,Cancer,"BP, HR, Temp",Cholesterol,Chemotherapy,,Weekly,6 months,Yes,Smoker,No Change
+67,F,African American,91,191,None,None,Marker2,Hypertension,"BP, HR",Cholesterol,Chemotherapy,,Weekly,6 months,No,Non-smoker,Worsened
+57,M,Caucasian,56,178,None,None,Marker2,Hypertension,"BP, HR",CBC,Surgery,100mg,Weekly,1 year,Yes,Smoker,Worsened
+46,M,Hispanic,92,169,Hypertension,Cancer,Marker2,Cancer,"BP, HR",CBC,Medication,100mg,,6 months,Yes,Smoker,No Change
+41,F,Asian,96,194,Arthritis,Cancer,Marker3,Hypertension,"BP, HR, Temp",Cholesterol,Medication,,Weekly,3 months,Yes,Smoker,Worsened
+58,M,Hispanic,80,156,Arthritis,Cancer,Marker2,Cancer,"BP, HR",Cholesterol,Chemotherapy,50mg,Weekly,3 months,Yes,Non-smoker,No Change
+46,F,Hispanic,67,166,Diabetes,None,Marker3,Diabetes,"BP, HR, Temp",Cholesterol,Chemotherapy,100mg,Daily,1 year,Yes,Smoker,Improved
+55,M,African American,82,168,None,None,Marker2,Diabetes,"BP, HR, Temp",CBC,Medication,50mg,,1 year,No,Non-smoker,No Change
+18,F,Hispanic,91,198,Arthritis,Heart Disease,Marker1,Hypertension,"BP, HR",Cholesterol,Medication,100mg,Weekly,3 months,Yes,Non-smoker,Worsened
+28,F,African American,94,185,Diabetes,None,Marker1,Diabetes,"BP, HR, Temp",CBC,Chemotherapy,50mg,,1 year,No,Non-smoker,Worsened
+55,F,African American,99,197,Hypertension,None,Marker3,Cancer,"BP, HR, Temp",Glucose,Chemotherapy,50mg,Weekly,6 months,No,Smoker,Improved
+35,M,Hispanic,70,171,None,Heart Disease,Marker2,Hypertension,"BP, HR, Temp",Glucose,Surgery,50mg,Weekly,1 year,Yes,Smoker,No Change
+21,M,Caucasian,69,172,Diabetes,Cancer,Marker3,Diabetes,"BP, HR, Temp",CBC,Surgery,50mg,Weekly,6 months,No,Non-smoker,No Change
+45,F,Caucasian,99,172,Hypertension,Heart Disease,Marker3,Hypertension,"BP, HR, Temp",CBC,Chemotherapy,,,1 year,No,Smoker,No Change
+68,M,Asian,60,166,None,None,Marker2,Cancer,"BP, HR, Temp",Glucose,Medication,,Daily,1 year,No,Non-smoker,Improved
+28,F,African American,97,175,None,Heart Disease,Marker2,Cancer,"BP, HR",Glucose,Medication,100mg,,1 year,Yes,Smoker,Worsened
+37,M,Caucasian,57,166,Hypertension,None,Marker1,Cancer,"BP, HR",CBC,Medication,100mg,Daily,1 year,Yes,Non-smoker,No Change
+65,F,Caucasian,55,183,Arthritis,Heart Disease,Marker1,Cancer,"BP, HR, Temp",Glucose,Medication,,Daily,3 months,No,Smoker,Improved
+35,F,Hispanic,84,171,Arthritis,Heart Disease,Marker2,Hypertension,"BP, HR",CBC,Surgery,100mg,Daily,3 months,No,Smoker,No Change
+79,M,Caucasian,54,153,None,Heart Disease,Marker2,Cancer,"BP, HR, Temp",Cholesterol,Medication,50mg,,3 months,Yes,Smoker,Worsened
+51,M,Hispanic,53,199,Diabetes,Heart Disease,Marker3,Cancer,"BP, HR",Cholesterol,Chemotherapy,,,1 year,Yes,Smoker,Worsened
+73,F,Caucasian,79,179,Diabetes,Heart Disease,Marker3,Cancer,"BP, HR",Glucose,Medication,50mg,Daily,1 year,No,Non-smoker,Improved
+71,F,African American,68,172,Diabetes,Heart Disease,Marker2,Diabetes,"BP, HR, Temp",Glucose,Chemotherapy,100mg,,6 months,No,Non-smoker,Improved
+63,M,Caucasian,70,179,Hypertension,Heart Disease,Marker3,Hypertension,"BP, HR, Temp",CBC,Chemotherapy,50mg,Weekly,1 year,Yes,Smoker,Worsened
+30,M,Hispanic,62,197,None,None,Marker2,Cancer,"BP, HR, Temp",CBC,Medication,,Daily,6 months,No,Non-smoker,Worsened
+24,M,Caucasian,99,157,None,None,Marker3,Cancer,"BP, HR",CBC,Surgery,100mg,Weekly,3 months,No,Smoker,Worsened
+61,F,Caucasian,89,150,Hypertension,Heart Disease,Marker1,Hypertension,"BP, HR, Temp",Glucose,Chemotherapy,,Weekly,3 months,Yes,Non-smoker,Worsened
+30,F,Hispanic,56,196,Diabetes,Cancer,Marker3,Hypertension,"BP, HR",Glucose,Surgery,50mg,,3 months,Yes,Smoker,No Change
+31,F,Caucasian,52,182,None,Cancer,Marker2,Diabetes,"BP, HR",Cholesterol,Chemotherapy,,,3 months,No,Smoker,Worsened
+59,M,Caucasian,85,185,Hypertension,Heart Disease,Marker1,Cancer,"BP, HR",CBC,Chemotherapy,,,1 year,Yes,Smoker,Improved
+30,M,African American,99,183,Diabetes,Heart Disease,Marker2,Diabetes,"BP, HR, Temp",Cholesterol,Medication,100mg,Weekly,3 months,Yes,Non-smoker,No Change
+55,F,Asian,98,194,Hypertension,Cancer,Marker2,Diabetes,"BP, HR",CBC,Chemotherapy,50mg,,1 year,No,Smoker,Improved
+79,M,Hispanic,70,154,Hypertension,Cancer,Marker2,Diabetes,"BP, HR, Temp",CBC,Chemotherapy,100mg,,6 months,No,Non-smoker,No Change
+77,F,Hispanic,61,160,Diabetes,None,Marker2,Cancer,"BP, HR",CBC,Medication,50mg,Weekly,1 year,No,Non-smoker,No Change
+27,M,Asian,54,166,Hypertension,Heart Disease,Marker3,Hypertension,"BP, HR, Temp",CBC,Chemotherapy,,,6 months,No,Non-smoker,No Change
+20,F,Asian,95,158,Diabetes,None,Marker1,Diabetes,"BP, HR, Temp",Cholesterol,Chemotherapy,,Weekly,1 year,No,Smoker,No Change
+51,M,Hispanic,67,177,Hypertension,Cancer,Marker3,Hypertension,"BP, HR, Temp",Glucose,Medication,100mg,Daily,3 months,No,Non-smoker,Improved
+79,F,Asian,93,160,Hypertension,None,Marker1,Diabetes,"BP, HR",Glucose,Surgery,100mg,Weekly,3 months,No,Non-smoker,Improved
+27,F,Hispanic,84,189,Arthritis,Heart Disease,Marker3,Hypertension,"BP, HR",Glucose,Surgery,,Daily,1 year,Yes,Smoker,No Change
+72,F,Hispanic,66,194,Diabetes,Cancer,Marker2,Diabetes,"BP, HR",Glucose,Chemotherapy,50mg,,3 months,No,Smoker,Worsened
+76,F,African American,91,165,Diabetes,Cancer,Marker3,Cancer,"BP, HR",Cholesterol,Surgery,,,6 months,Yes,Smoker,No Change
+70,F,Caucasian,95,198,Hypertension,Cancer,Marker1,Cancer,"BP, HR, Temp",Cholesterol,Medication,,Weekly,3 months,No,Non-smoker,No Change
+20,M,Caucasian,86,188,Arthritis,None,Marker3,Hypertension,"BP, HR",Cholesterol,Medication,,,3 months,No,Smoker,No Change
+45,M,Asian,59,182,Arthritis,Cancer,Marker1,Cancer,"BP, HR",Glucose,Medication,,Daily,6 months,Yes,Smoker,Worsened
+30,F,Hispanic,91,184,Diabetes,None,Marker1,Diabetes,"BP, HR, Temp",Cholesterol,Chemotherapy,,Daily,1 year,No,Non-smoker,Improved
+28,F,Hispanic,80,157,Arthritis,None,Marker2,Hypertension,"BP, HR",CBC,Chemotherapy,50mg,Daily,3 months,Yes,Smoker,Worsened
+49,M,Hispanic,55,181,Diabetes,None,Marker3,Diabetes,"BP, HR",Cholesterol,Surgery,100mg,Daily,3 months,No,Smoker,Worsened
+63,F,Hispanic,55,167,Hypertension,Cancer,Marker2,Cancer,"BP, HR, Temp",CBC,Surgery,50mg,Daily,6 months,Yes,Smoker,Improved
+58,M,Caucasian,73,158,Hypertension,None,Marker1,Diabetes,"BP, HR, Temp",Cholesterol,Medication,50mg,Weekly,3 months,No,Non-smoker,No Change
+75,F,Asian,65,166,Hypertension,Cancer,Marker2,Diabetes,"BP, HR, Temp",CBC,Medication,50mg,Weekly,3 months,Yes,Smoker,No Change
+76,F,Hispanic,58,166,Diabetes,Cancer,Marker3,Cancer,"BP, HR",Cholesterol,Medication,50mg,,3 months,Yes,Smoker,Worsened
+38,F,Asian,73,182,Arthritis,None,Marker1,Diabetes,"BP, HR, Temp",Glucose,Surgery,100mg,Daily,3 months,Yes,Non-smoker,Worsened
+68,F,Caucasian,53,160,Arthritis,None,Marker2,Diabetes,"BP, HR, Temp",CBC,Surgery,50mg,Daily,6 months,Yes,Non-smoker,No Change
+49,F,Asian,73,190,None,None,Marker3,Hypertension,"BP, HR, Temp",CBC,Chemotherapy,50mg,Weekly,6 months,Yes,Non-smoker,Worsened
+20,F,Hispanic,54,185,Arthritis,None,Marker2,Cancer,"BP, HR, Temp",CBC,Medication,50mg,Weekly,3 months,Yes,Non-smoker,Worsened
+67,M,Hispanic,60,153,Arthritis,Cancer,Marker1,Cancer,"BP, HR, Temp",CBC,Surgery,50mg,Weekly,3 months,No,Smoker,No Change
+68,M,Asian,59,150,Hypertension,None,Marker2,Diabetes,"BP, HR, Temp",Glucose,Medication,50mg,Weekly,6 months,No,Smoker,Improved
+79,F,African American,72,186,None,Cancer,Marker2,Hypertension,"BP, HR",CBC,Medication,100mg,,1 year,No,Non-smoker,Improved
+51,M,Asian,90,176,None,None,Marker3,Hypertension,"BP, HR",Cholesterol,Surgery,50mg,Daily,3 months,No,Non-smoker,Improved
+61,M,Asian,78,187,Hypertension,None,Marker2,Diabetes,"BP, HR",Cholesterol,Surgery,50mg,,6 months,No,Non-smoker,No Change
+21,M,African American,68,193,Diabetes,None,Marker2,Diabetes,"BP, HR",Cholesterol,Medication,50mg,Weekly,6 months,Yes,Non-smoker,Worsened
+26,M,Asian,97,152,Arthritis,Cancer,Marker2,Diabetes,"BP, HR, Temp",CBC,Surgery,50mg,,6 months,No,Non-smoker,Improved
+50,F,African American,81,178,Hypertension,Cancer,Marker2,Hypertension,"BP, HR, Temp",Cholesterol,Medication,50mg,,3 months,Yes,Non-smoker,Improved
+68,F,Caucasian,51,196,Arthritis,None,Marker1,Cancer,"BP, HR, Temp",CBC,Chemotherapy,50mg,Daily,6 months,Yes,Non-smoker,No Change
+73,M,Asian,86,169,Arthritis,Heart Disease,Marker3,Hypertension,"BP, HR, Temp",Cholesterol,Surgery,,Daily,6 months,Yes,Non-smoker,Worsened
+47,F,Hispanic,78,196,Hypertension,None,Marker3,Hypertension,"BP, HR, Temp",Cholesterol,Surgery,50mg,Weekly,1 year,No,Non-smoker,Improved
+43,M,Asian,75,156,Hypertension,Heart Disease,Marker3,Diabetes,"BP, HR",Cholesterol,Medication,,,1 year,No,Non-smoker,No Change
+34,M,Hispanic,98,197,Arthritis,Heart Disease,Marker1,Hypertension,"BP, HR, Temp",CBC,Surgery,,Daily,1 year,Yes,Non-smoker,Worsened
+44,M,Asian,60,162,None,Cancer,Marker3,Diabetes,"BP, HR, Temp",CBC,Chemotherapy,,Weekly,6 months,Yes,Smoker,No Change
+33,F,Hispanic,69,190,Diabetes,None,Marker3,Cancer,"BP, HR",CBC,Medication,100mg,,6 months,No,Smoker,Improved
+67,F,Caucasian,95,162,None,Heart Disease,Marker1,Hypertension,"BP, HR",Cholesterol,Medication,,,6 months,No,Smoker,No Change
+29,F,Asian,82,181,Diabetes,None,Marker2,Hypertension,"BP, HR",CBC,Chemotherapy,50mg,,6 months,Yes,Non-smoker,No Change
+38,F,Asian,54,154,Diabetes,Heart Disease,Marker3,Diabetes,"BP, HR, Temp",Glucose,Medication,,,6 months,No,Smoker,Improved
+43,M,Hispanic,61,166,Hypertension,Cancer,Marker2,Diabetes,"BP, HR, Temp",CBC,Surgery,,Weekly,1 year,No,Non-smoker,Worsened
+72,M,Hispanic,99,152,Arthritis,None,Marker2,Diabetes,"BP, HR",Cholesterol,Chemotherapy,50mg,Weekly,3 months,Yes,Non-smoker,Worsened
+69,M,Caucasian,73,190,Diabetes,Heart Disease,Marker2,Hypertension,"BP, HR",Glucose,Surgery,100mg,Weekly,6 months,No,Smoker,Improved
+34,M,Hispanic,60,175,Hypertension,None,Marker2,Diabetes,"BP, HR, Temp",Glucose,Surgery,50mg,Daily,6 months,No,Smoker,Improved
+50,F,Asian,58,199,Diabetes,Heart Disease,Marker1,Hypertension,"BP, HR",Glucose,Surgery,,,1 year,Yes,Non-smoker,No Change
+56,M,African American,61,186,Diabetes,Heart Disease,Marker1,Cancer,"BP, HR, Temp",Cholesterol,Chemotherapy,50mg,,1 year,Yes,Non-smoker,Improved
+26,F,Asian,72,185,Diabetes,None,Marker1,Cancer,"BP, HR",Cholesterol,Medication,50mg,Weekly,1 year,Yes,Smoker,Improved
+40,M,Asian,69,159,Diabetes,None,Marker1,Hypertension,"BP, HR, Temp",CBC,Chemotherapy,50mg,Daily,3 months,Yes,Non-smoker,Improved
+37,F,Caucasian,81,191,Arthritis,None,Marker1,Cancer,"BP, HR, Temp",Glucose,Medication,,Daily,6 months,No,Non-smoker,Worsened
+22,F,Caucasian,79,184,Hypertension,Heart Disease,Marker1,Cancer,"BP, HR",Glucose,Chemotherapy,,Daily,6 months,Yes,Non-smoker,Worsened
+23,M,Caucasian,83,153,None,Cancer,Marker3,Diabetes,"BP, HR",Cholesterol,Chemotherapy,50mg,,1 year,Yes,Non-smoker,No Change
+38,M,Hispanic,87,186,None,Cancer,Marker3,Cancer,"BP, HR",Glucose,Surgery,50mg,,3 months,Yes,Smoker,Worsened
+28,M,Hispanic,58,191,Hypertension,Heart Disease,Marker2,Cancer,"BP, HR",CBC,Medication,100mg,Daily,6 months,Yes,Smoker,Worsened
+73,M,African American,58,160,Arthritis,None,Marker3,Hypertension,"BP, HR, Temp",CBC,Chemotherapy,50mg,Daily,3 months,No,Non-smoker,Improved
+27,F,Hispanic,94,161,Arthritis,Heart Disease,Marker1,Hypertension,"BP, HR",Cholesterol,Chemotherapy,,Weekly,6 months,Yes,Smoker,Worsened
+70,F,Hispanic,71,174,None,Cancer,Marker3,Hypertension,"BP, HR, Temp",Cholesterol,Medication,,Daily,3 months,Yes,Smoker,Improved
+22,F,Asian,87,163,None,None,Marker3,Hypertension,"BP, HR",CBC,Medication,,Weekly,6 months,No,Non-smoker,Improved
+68,M,African American,58,195,Arthritis,Cancer,Marker1,Diabetes,"BP, HR",CBC,Medication,,Daily,6 months,No,Smoker,Worsened
+59,F,Asian,94,174,Diabetes,None,Marker1,Cancer,"BP, HR, Temp",CBC,Chemotherapy,50mg,Daily,6 months,Yes,Non-smoker,No Change
+48,M,Caucasian,83,193,None,Heart Disease,Marker3,Hypertension,"BP, HR",Cholesterol,Chemotherapy,100mg,Weekly,6 months,Yes,Non-smoker,No Change
+25,F,Hispanic,56,166,Arthritis,Heart Disease,Marker2,Cancer,"BP, HR, Temp",Cholesterol,Medication,,Daily,6 months,No,Non-smoker,Worsened
+59,F,Asian,99,197,Arthritis,None,Marker1,Cancer,"BP, HR, Temp",Cholesterol,Chemotherapy,,Daily,3 months,Yes,Smoker,No Change
+70,F,African American,65,186,Diabetes,Heart Disease,Marker1,Hypertension,"BP, HR",CBC,Chemotherapy,100mg,Weekly,6 months,No,Non-smoker,No Change
+49,F,Hispanic,70,179,Diabetes,None,Marker1,Diabetes,"BP, HR, Temp",Cholesterol,Surgery,50mg,,1 year,No,Non-smoker,Improved
+23,F,African American,90,186,Hypertension,Cancer,Marker1,Diabetes,"BP, HR",Glucose,Surgery,100mg,Weekly,3 months,Yes,Smoker,Improved
+66,M,Caucasian,91,153,None,None,Marker3,Hypertension,"BP, HR",Cholesterol,Chemotherapy,,,1 year,Yes,Smoker,No Change
+37,F,Asian,53,176,Diabetes,None,Marker1,Diabetes,"BP, HR",Cholesterol,Chemotherapy,,Daily,3 months,Yes,Smoker,Improved
+20,F,African American,81,182,Hypertension,Cancer,Marker3,Hypertension,"BP, HR, Temp",CBC,Chemotherapy,50mg,Weekly,3 months,No,Non-smoker,Worsened
+48,M,African American,99,188,Arthritis,Heart Disease,Marker3,Hypertension,"BP, HR, Temp",Glucose,Surgery,100mg,Daily,3 months,Yes,Non-smoker,No Change
+42,F,Caucasian,62,190,Diabetes,Heart Disease,Marker3,Cancer,"BP, HR, Temp",Glucose,Medication,,,1 year,No,Smoker,No Change
+70,F,Caucasian,58,182,None,Cancer,Marker2,Cancer,"BP, HR, Temp",Glucose,Surgery,100mg,,1 year,Yes,Smoker,Improved
+75,F,African American,55,179,Arthritis,Heart Disease,Marker3,Diabetes,"BP, HR, Temp",Cholesterol,Chemotherapy,50mg,Daily,1 year,No,Non-smoker,Improved
+67,F,African American,71,196,Diabetes,None,Marker3,Cancer,"BP, HR, Temp",CBC,Medication,50mg,Weekly,6 months,Yes,Non-smoker,No Change
+60,M,Asian,53,171,Hypertension,Heart Disease,Marker1,Cancer,"BP, HR",CBC,Medication,50mg,Daily,1 year,No,Non-smoker,Improved
+36,M,Hispanic,88,175,Arthritis,None,Marker2,Cancer,"BP, HR",Glucose,Surgery,100mg,Daily,1 year,Yes,Non-smoker,No Change
+40,F,African American,51,168,Diabetes,Cancer,Marker3,Cancer,"BP, HR, Temp",Glucose,Medication,50mg,Weekly,6 months,No,Smoker,No Change
+56,M,Caucasian,78,179,Arthritis,Heart Disease,Marker3,Hypertension,"BP, HR",Glucose,Chemotherapy,50mg,,6 months,Yes,Smoker,No Change
+78,F,Asian,84,177,Arthritis,Cancer,Marker2,Cancer,"BP, HR",Cholesterol,Medication,100mg,Weekly,6 months,Yes,Smoker,Worsened
+26,M,Caucasian,92,199,Hypertension,Cancer,Marker1,Diabetes,"BP, HR, Temp",Glucose,Surgery,100mg,Weekly,3 months,Yes,Smoker,No Change
+67,M,Hispanic,82,162,Hypertension,Heart Disease,Marker3,Cancer,"BP, HR",Cholesterol,Chemotherapy,100mg,Weekly,6 months,No,Smoker,Improved
+76,M,Caucasian,54,185,Diabetes,Cancer,Marker2,Hypertension,"BP, HR, Temp",CBC,Surgery,100mg,,6 months,No,Smoker,Improved
+74,M,Hispanic,56,166,None,Heart Disease,Marker3,Hypertension,"BP, HR",CBC,Chemotherapy,,Daily,6 months,Yes,Non-smoker,No Change
+70,F,African American,55,195,Hypertension,Cancer,Marker2,Cancer,"BP, HR",Cholesterol,Medication,50mg,Daily,1 year,Yes,Smoker,Worsened
+51,F,Hispanic,59,151,None,Heart Disease,Marker3,Hypertension,"BP, HR, Temp",Glucose,Medication,100mg,Weekly,6 months,Yes,Non-smoker,No Change
+23,M,Caucasian,72,174,Hypertension,Heart Disease,Marker1,Cancer,"BP, HR, Temp",Glucose,Surgery,,Daily,3 months,No,Non-smoker,Improved
+47,M,Asian,54,192,Diabetes,Heart Disease,Marker1,Cancer,"BP, HR, Temp",Cholesterol,Surgery,,,1 year,Yes,Non-smoker,No Change
+29,M,Asian,78,160,Arthritis,None,Marker2,Hypertension,"BP, HR",CBC,Medication,,Daily,6 months,Yes,Smoker,Improved
+53,M,African American,51,181,Arthritis,Heart Disease,Marker2,Diabetes,"BP, HR, Temp",Cholesterol,Surgery,100mg,Daily,6 months,Yes,Non-smoker,No Change
+66,F,Asian,91,159,Arthritis,Heart Disease,Marker3,Diabetes,"BP, HR",Glucose,Medication,50mg,,1 year,Yes,Smoker,Worsened
+28,F,African American,99,191,Hypertension,Cancer,Marker2,Cancer,"BP, HR",Glucose,Medication,50mg,Weekly,1 year,No,Non-smoker,Worsened
+27,M,African American,80,167,None,None,Marker2,Hypertension,"BP, HR",Glucose,Medication,,Daily,3 months,No,Non-smoker,No Change
+50,F,Hispanic,71,190,None,Heart Disease,Marker2,Diabetes,"BP, HR",Cholesterol,Chemotherapy,50mg,Daily,1 year,Yes,Non-smoker,No Change
+47,M,African American,77,164,Arthritis,Cancer,Marker1,Diabetes,"BP, HR, Temp",Cholesterol,Chemotherapy,100mg,Weekly,3 months,No,Smoker,Improved
+52,F,Caucasian,95,169,Diabetes,Cancer,Marker1,Cancer,"BP, HR, Temp",Cholesterol,Chemotherapy,,,1 year,No,Smoker,Worsened
+41,M,Hispanic,76,157,Arthritis,None,Marker3,Diabetes,"BP, HR, Temp",Cholesterol,Surgery,100mg,Weekly,3 months,No,Smoker,Improved
+74,M,Caucasian,99,161,Diabetes,None,Marker2,Hypertension,"BP, HR, Temp",Cholesterol,Medication,100mg,,1 year,No,Non-smoker,No Change
+22,M,African American,82,174,Hypertension,Cancer,Marker3,Hypertension,"BP, HR, Temp",Cholesterol,Chemotherapy,,Daily,6 months,Yes,Smoker,Worsened
+59,M,African American,67,162,Hypertension,None,Marker3,Hypertension,"BP, HR, Temp",Cholesterol,Surgery,,Weekly,3 months,Yes,Smoker,Improved
+62,F,African American,54,193,Hypertension,None,Marker2,Cancer,"BP, HR, Temp",Cholesterol,Chemotherapy,,,3 months,Yes,Smoker,Worsened
+36,F,Hispanic,78,199,None,Cancer,Marker3,Hypertension,"BP, HR",Glucose,Surgery,50mg,,6 months,No,Non-smoker,No Change
+78,M,Hispanic,77,189,None,Heart Disease,Marker2,Hypertension,"BP, HR",CBC,Surgery,50mg,Weekly,1 year,No,Smoker,Worsened
+41,F,Caucasian,98,192,Hypertension,None,Marker2,Hypertension,"BP, HR",CBC,Medication,100mg,,6 months,Yes,Smoker,Worsened
+52,M,Caucasian,59,162,Arthritis,Cancer,Marker2,Hypertension,"BP, HR, Temp",Glucose,Chemotherapy,100mg,,3 months,No,Smoker,Worsened
+78,M,African American,98,191,Arthritis,None,Marker3,Hypertension,"BP, HR",CBC,Surgery,,,1 year,No,Non-smoker,Improved
+32,F,African American,87,173,None,Heart Disease,Marker2,Hypertension,"BP, HR",Cholesterol,Chemotherapy,,,6 months,Yes,Smoker,No Change
+40,M,African American,65,190,Arthritis,Heart Disease,Marker1,Cancer,"BP, HR",Cholesterol,Chemotherapy,100mg,Weekly,3 months,No,Smoker,No Change
+21,F,Asian,91,190,Hypertension,None,Marker3,Hypertension,"BP, HR",CBC,Surgery,100mg,,3 months,Yes,Smoker,Improved
+54,M,Hispanic,86,176,None,Cancer,Marker3,Hypertension,"BP, HR",Cholesterol,Medication,50mg,,6 months,No,Non-smoker,No Change
+27,M,African American,60,157,Diabetes,Heart Disease,Marker2,Diabetes,"BP, HR",CBC,Medication,100mg,Daily,6 months,No,Smoker,Improved
+31,M,Asian,95,186,Diabetes,Cancer,Marker2,Diabetes,"BP, HR",Cholesterol,Medication,100mg,,3 months,No,Smoker,No Change
+45,M,Caucasian,78,159,None,None,Marker3,Hypertension,"BP, HR",Cholesterol,Medication,,,3 months,Yes,Non-smoker,Improved
+53,M,Asian,79,174,Arthritis,None,Marker3,Diabetes,"BP, HR",Cholesterol,Surgery,100mg,,1 year,Yes,Smoker,Worsened
+74,F,Caucasian,58,179,Diabetes,Cancer,Marker2,Diabetes,"BP, HR, Temp",Cholesterol,Surgery,100mg,Daily,6 months,Yes,Smoker,Worsened
+69,M,African American,57,175,None,Cancer,Marker3,Diabetes,"BP, HR",CBC,Surgery,100mg,Daily,3 months,No,Smoker,No Change
+63,F,Asian,50,177,Hypertension,Cancer,Marker3,Cancer,"BP, HR, Temp",Cholesterol,Medication,,,6 months,Yes,Smoker,Worsened
+75,M,Asian,78,157,None,None,Marker1,Diabetes,"BP, HR, Temp",Glucose,Chemotherapy,,,6 months,No,Smoker,Worsened
+30,F,African American,65,168,Arthritis,Cancer,Marker2,Hypertension,"BP, HR, Temp",CBC,Surgery,50mg,,3 months,Yes,Smoker,Worsened
+75,F,African American,72,188,None,Cancer,Marker1,Cancer,"BP, HR, Temp",CBC,Chemotherapy,,,6 months,Yes,Smoker,No Change
+63,M,African American,64,170,None,Cancer,Marker1,Hypertension,"BP, HR",Glucose,Surgery,,,3 months,No,Non-smoker,Worsened
+21,M,African American,98,150,None,Cancer,Marker1,Cancer,"BP, HR, Temp",Cholesterol,Surgery,50mg,,3 months,Yes,Smoker,No Change
+53,F,Asian,99,183,Arthritis,None,Marker3,Hypertension,"BP, HR",Glucose,Medication,,,1 year,No,Smoker,No Change
+25,F,Asian,50,192,Diabetes,Heart Disease,Marker1,Cancer,"BP, HR, Temp",Cholesterol,Medication,,,1 year,Yes,Non-smoker,Worsened
+65,F,African American,93,154,Hypertension,None,Marker2,Hypertension,"BP, HR, Temp",CBC,Chemotherapy,100mg,Daily,1 year,Yes,Smoker,Worsened
+18,F,Caucasian,52,196,Hypertension,Cancer,Marker1,Hypertension,"BP, HR",Cholesterol,Medication,100mg,Weekly,3 months,No,Non-smoker,Worsened
+40,M,Hispanic,97,175,Diabetes,Heart Disease,Marker2,Hypertension,"BP, HR, Temp",Glucose,Chemotherapy,50mg,,1 year,Yes,Smoker,Improved
+47,F,African American,50,196,None,Heart Disease,Marker2,Hypertension,"BP, HR, Temp",Glucose,Medication,100mg,,1 year,No,Non-smoker,Improved
+34,M,Asian,51,182,None,None,Marker2,Diabetes,"BP, HR, Temp",Glucose,Medication,50mg,,6 months,Yes,Non-smoker,Improved
+30,M,Hispanic,93,169,Arthritis,Cancer,Marker1,Diabetes,"BP, HR",Cholesterol,Medication,50mg,,1 year,No,Smoker,Worsened
+40,M,Asian,50,169,Arthritis,Cancer,Marker1,Cancer,"BP, HR, Temp",CBC,Surgery,50mg,Weekly,6 months,Yes,Smoker,Improved
+23,F,Asian,72,166,None,Cancer,Marker3,Cancer,"BP, HR",CBC,Medication,50mg,Daily,3 months,Yes,Non-smoker,Worsened
+74,M,African American,84,153,None,Cancer,Marker2,Cancer,"BP, HR",Glucose,Surgery,100mg,Weekly,1 year,No,Non-smoker,No Change
+26,F,Caucasian,90,152,Diabetes,Cancer,Marker1,Hypertension,"BP, HR",Glucose,Chemotherapy,,Weekly,3 months,Yes,Smoker,No Change
+45,M,Caucasian,77,192,None,Cancer,Marker3,Diabetes,"BP, HR",Cholesterol,Chemotherapy,100mg,Weekly,1 year,No,Non-smoker,No Change
+21,F,Hispanic,93,161,Hypertension,None,Marker1,Diabetes,"BP, HR, Temp",Cholesterol,Chemotherapy,,Daily,6 months,No,Smoker,No Change
+73,M,African American,89,166,Hypertension,Heart Disease,Marker2,Hypertension,"BP, HR, Temp",Glucose,Chemotherapy,,Weekly,1 year,No,Smoker,Improved
+56,F,Caucasian,89,181,Arthritis,None,Marker1,Hypertension,"BP, HR",Glucose,Medication,,Weekly,6 months,No,Smoker,Improved
+57,F,Hispanic,59,198,Diabetes,Heart Disease,Marker3,Hypertension,"BP, HR, Temp",CBC,Surgery,,Daily,6 months,No,Smoker,Improved
+72,F,Caucasian,73,180,Arthritis,Cancer,Marker1,Diabetes,"BP, HR",CBC,Medication,50mg,Daily,3 months,No,Non-smoker,Worsened
+26,F,Asian,70,176,Hypertension,Cancer,Marker2,Diabetes,"BP, HR, Temp",Cholesterol,Chemotherapy,,Daily,3 months,Yes,Smoker,No Change
+62,M,African American,59,197,Hypertension,Heart Disease,Marker3,Diabetes,"BP, HR",CBC,Chemotherapy,100mg,,6 months,No,Non-smoker,Improved
+51,M,African American,51,178,Hypertension,Cancer,Marker2,Diabetes,"BP, HR",Glucose,Chemotherapy,100mg,,3 months,Yes,Non-smoker,No Change
+35,M,African American,63,161,Diabetes,None,Marker3,Diabetes,"BP, HR, Temp",CBC,Surgery,50mg,Weekly,3 months,No,Non-smoker,No Change
+78,F,Hispanic,60,167,Arthritis,Cancer,Marker1,Diabetes,"BP, HR, Temp",CBC,Surgery,100mg,,6 months,Yes,Smoker,Improved
+51,F,Hispanic,94,195,Diabetes,None,Marker2,Cancer,"BP, HR, Temp",CBC,Surgery,,,6 months,No,Smoker,Worsened
+63,F,African American,94,161,Arthritis,Heart Disease,Marker1,Cancer,"BP, HR",Cholesterol,Surgery,,Weekly,1 year,Yes,Smoker,No Change
+57,F,Caucasian,63,173,Arthritis,None,Marker3,Cancer,"BP, HR, Temp",Cholesterol,Surgery,,Daily,1 year,No,Smoker,Improved
+18,M,Hispanic,92,151,Arthritis,None,Marker3,Cancer,"BP, HR, Temp",CBC,Surgery,50mg,Daily,3 months,No,Non-smoker,Improved
+22,M,Caucasian,54,184,Diabetes,Cancer,Marker2,Cancer,"BP, HR",CBC,Medication,,Daily,3 months,Yes,Smoker,Improved
+64,F,Asian,69,198,Diabetes,Heart Disease,Marker2,Hypertension,"BP, HR, Temp",Glucose,Medication,,Daily,3 months,Yes,Smoker,No Change
+28,F,Hispanic,66,199,Hypertension,Cancer,Marker2,Hypertension,"BP, HR",Cholesterol,Medication,100mg,Daily,3 months,Yes,Smoker,Improved
+33,M,African American,72,156,Arthritis,Cancer,Marker3,Diabetes,"BP, HR, Temp",CBC,Medication,,Daily,3 months,No,Non-smoker,Improved
+28,F,Caucasian,73,167,None,None,Marker3,Diabetes,"BP, HR, Temp",Glucose,Medication,,Daily,1 year,No,Smoker,Worsened
+79,F,Caucasian,88,183,None,None,Marker3,Cancer,"BP, HR",Cholesterol,Chemotherapy,50mg,Daily,1 year,Yes,Smoker,Improved
+21,M,Asian,70,173,None,None,Marker1,Cancer,"BP, HR, Temp",Glucose,Chemotherapy,,Weekly,1 year,No,Non-smoker,No Change
+58,M,African American,92,199,Hypertension,Heart Disease,Marker2,Hypertension,"BP, HR",Glucose,Medication,100mg,Daily,6 months,No,Smoker,Improved
+64,F,Hispanic,56,165,Diabetes,Heart Disease,Marker2,Diabetes,"BP, HR, Temp",Cholesterol,Medication,100mg,Weekly,6 months,Yes,Smoker,Improved
+44,M,Caucasian,94,188,Arthritis,None,Marker3,Cancer,"BP, HR, Temp",Glucose,Medication,50mg,Daily,6 months,No,Non-smoker,No Change
+47,M,Hispanic,95,183,None,None,Marker3,Hypertension,"BP, HR",Glucose,Chemotherapy,100mg,Weekly,6 months,Yes,Non-smoker,Worsened
+75,F,Caucasian,86,179,Diabetes,None,Marker2,Cancer,"BP, HR, Temp",Glucose,Surgery,,Weekly,6 months,No,Smoker,Worsened
+57,M,Asian,61,195,None,Cancer,Marker3,Diabetes,"BP, HR, Temp",Cholesterol,Surgery,,Weekly,1 year,Yes,Smoker,Improved
+65,F,Hispanic,87,178,Diabetes,Cancer,Marker3,Diabetes,"BP, HR, Temp",CBC,Surgery,50mg,Daily,1 year,No,Non-smoker,Worsened
+68,M,Hispanic,86,173,None,Cancer,Marker2,Hypertension,"BP, HR, Temp",Glucose,Chemotherapy,100mg,Weekly,6 months,Yes,Smoker,Worsened
+61,F,Hispanic,53,177,None,None,Marker1,Diabetes,"BP, HR",Cholesterol,Medication,50mg,,6 months,No,Non-smoker,Worsened
+42,M,Hispanic,57,186,None,Heart Disease,Marker2,Diabetes,"BP, HR, Temp",CBC,Chemotherapy,100mg,Daily,1 year,No,Non-smoker,Improved
+46,F,Hispanic,82,196,None,Cancer,Marker2,Cancer,"BP, HR",Glucose,Medication,100mg,,3 months,No,Non-smoker,Worsened
+67,F,Caucasian,54,199,Arthritis,Cancer,Marker2,Hypertension,"BP, HR, Temp",CBC,Medication,50mg,Daily,6 months,No,Smoker,Worsened
+62,M,Asian,73,188,Hypertension,None,Marker3,Cancer,"BP, HR, Temp",Cholesterol,Chemotherapy,,Weekly,1 year,Yes,Smoker,Improved
+76,F,Hispanic,88,176,Diabetes,None,Marker2,Cancer,"BP, HR",Cholesterol,Chemotherapy,100mg,,1 year,Yes,Smoker,Worsened
+24,M,Asian,75,159,Arthritis,Cancer,Marker2,Hypertension,"BP, HR, Temp",Cholesterol,Surgery,50mg,Daily,1 year,No,Non-smoker,Improved
+51,M,Asian,78,170,Diabetes,Cancer,Marker1,Hypertension,"BP, HR",CBC,Chemotherapy,100mg,Weekly,6 months,Yes,Non-smoker,No Change
+24,F,Hispanic,63,179,Diabetes,Heart Disease,Marker1,Cancer,"BP, HR",Glucose,Chemotherapy,100mg,Weekly,6 months,Yes,Smoker,No Change
+71,F,Hispanic,85,184,None,Cancer,Marker2,Cancer,"BP, HR",Glucose,Surgery,50mg,Daily,3 months,Yes,Smoker,Worsened
+50,F,Caucasian,73,155,Arthritis,Cancer,Marker3,Cancer,"BP, HR",Glucose,Chemotherapy,,,6 months,No,Smoker,Worsened
+35,F,Hispanic,93,183,Hypertension,Cancer,Marker3,Diabetes,"BP, HR",CBC,Medication,,Weekly,3 months,No,Smoker,Worsened
+32,M,Asian,50,159,Diabetes,Heart Disease,Marker3,Hypertension,"BP, HR, Temp",Glucose,Surgery,,Weekly,6 months,Yes,Smoker,Improved
+40,F,African American,75,187,None,Heart Disease,Marker3,Diabetes,"BP, HR",CBC,Medication,100mg,Daily,6 months,No,Non-smoker,Worsened
+75,M,African American,50,178,None,None,Marker1,Diabetes,"BP, HR",CBC,Chemotherapy,,Daily,6 months,Yes,Smoker,No Change
+64,M,Hispanic,81,152,Hypertension,None,Marker2,Cancer,"BP, HR",CBC,Medication,100mg,,6 months,Yes,Non-smoker,Worsened
+22,F,Asian,59,154,Arthritis,Heart Disease,Marker2,Hypertension,"BP, HR, Temp",CBC,Surgery,,,3 months,Yes,Smoker,Improved
+57,F,Hispanic,98,191,None,Cancer,Marker1,Cancer,"BP, HR, Temp",CBC,Surgery,,Daily,3 months,No,Smoker,No Change
+27,M,Caucasian,82,190,Hypertension,None,Marker1,Hypertension,"BP, HR",CBC,Chemotherapy,,Weekly,3 months,Yes,Non-smoker,No Change
+63,M,Hispanic,61,198,Hypertension,None,Marker3,Cancer,"BP, HR",Glucose,Medication,,Daily,3 months,Yes,Non-smoker,No Change
+75,M,Caucasian,82,155,None,Heart Disease,Marker3,Hypertension,"BP, HR",Glucose,Medication,50mg,Weekly,6 months,Yes,Non-smoker,Improved
+76,M,Caucasian,73,191,Arthritis,None,Marker3,Diabetes,"BP, HR, Temp",Cholesterol,Medication,50mg,,3 months,No,Non-smoker,Improved
+28,F,Asian,98,164,Diabetes,Cancer,Marker2,Cancer,"BP, HR",Cholesterol,Surgery,50mg,,1 year,Yes,Smoker,Worsened
+52,F,Asian,98,151,Hypertension,Heart Disease,Marker1,Diabetes,"BP, HR, Temp",Glucose,Surgery,,Weekly,6 months,Yes,Non-smoker,Worsened
+55,M,Hispanic,78,195,Diabetes,Heart Disease,Marker2,Cancer,"BP, HR",Glucose,Medication,,Weekly,3 months,No,Smoker,No Change
+55,F,African American,51,157,Diabetes,Heart Disease,Marker1,Cancer,"BP, HR, Temp",Cholesterol,Surgery,100mg,Weekly,3 months,No,Non-smoker,No Change
+49,M,Caucasian,72,175,None,None,Marker2,Cancer,"BP, HR, Temp",Glucose,Chemotherapy,100mg,Weekly,1 year,No,Smoker,Worsened
+22,F,Caucasian,78,176,Arthritis,Cancer,Marker3,Diabetes,"BP, HR, Temp",CBC,Surgery,100mg,,3 months,No,Smoker,No Change
+49,M,Hispanic,85,198,Arthritis,Heart Disease,Marker1,Cancer,"BP, HR, Temp",Cholesterol,Medication,100mg,Daily,3 months,Yes,Smoker,Improved
+26,F,Asian,58,195,Arthritis,Cancer,Marker2,Hypertension,"BP, HR",CBC,Chemotherapy,50mg,Weekly,1 year,Yes,Non-smoker,Worsened
+25,M,Asian,60,170,Hypertension,Cancer,Marker2,Hypertension,"BP, HR",Cholesterol,Chemotherapy,50mg,,1 year,No,Non-smoker,No Change
+43,M,Caucasian,96,166,Hypertension,None,Marker2,Hypertension,"BP, HR, Temp",CBC,Surgery,,,6 months,Yes,Smoker,Worsened
+54,M,Asian,74,194,Arthritis,None,Marker1,Hypertension,"BP, HR, Temp",CBC,Chemotherapy,,Weekly,1 year,Yes,Smoker,No Change
+41,F,Hispanic,98,179,Hypertension,None,Marker2,Cancer,"BP, HR, Temp",Glucose,Chemotherapy,50mg,,6 months,No,Non-smoker,Worsened
+75,F,Hispanic,73,198,Hypertension,None,Marker3,Cancer,"BP, HR",Cholesterol,Chemotherapy,,Daily,6 months,Yes,Non-smoker,Worsened
+24,M,African American,95,183,Hypertension,Cancer,Marker3,Cancer,"BP, HR",Cholesterol,Medication,100mg,Daily,1 year,No,Non-smoker,Improved
+62,M,Asian,53,193,Diabetes,None,Marker2,Cancer,"BP, HR, Temp",CBC,Chemotherapy,100mg,Daily,6 months,Yes,Non-smoker,Improved
+18,F,Hispanic,79,183,Arthritis,Cancer,Marker1,Hypertension,"BP, HR",Cholesterol,Surgery,100mg,,6 months,Yes,Non-smoker,No Change
+21,F,Caucasian,94,196,Diabetes,Heart Disease,Marker1,Hypertension,"BP, HR",Cholesterol,Chemotherapy,50mg,,3 months,No,Smoker,Worsened
+54,M,Hispanic,63,152,Arthritis,Cancer,Marker2,Hypertension,"BP, HR",CBC,Medication,,Daily,3 months,Yes,Smoker,Worsened
+26,M,African American,74,194,Diabetes,Heart Disease,Marker3,Hypertension,"BP, HR, Temp",Glucose,Chemotherapy,,Weekly,6 months,No,Smoker,No Change
+26,M,Hispanic,57,169,Diabetes,Cancer,Marker3,Cancer,"BP, HR",CBC,Medication,,Daily,6 months,No,Smoker,Improved
+28,M,African American,61,163,Hypertension,Cancer,Marker1,Diabetes,"BP, HR",CBC,Medication,50mg,,6 months,Yes,Smoker,Improved
+47,M,African American,98,151,Hypertension,Heart Disease,Marker1,Diabetes,"BP, HR, Temp",Glucose,Chemotherapy,50mg,Daily,6 months,No,Non-smoker,No Change
+32,M,African American,82,171,Hypertension,Cancer,Marker2,Cancer,"BP, HR",CBC,Surgery,,Weekly,1 year,No,Smoker,No Change
+26,M,Hispanic,68,186,Diabetes,Heart Disease,Marker2,Diabetes,"BP, HR, Temp",Glucose,Chemotherapy,100mg,Weekly,6 months,No,Smoker,Improved
+25,M,African American,67,192,Arthritis,Cancer,Marker3,Diabetes,"BP, HR",Cholesterol,Surgery,50mg,Weekly,6 months,No,Smoker,Worsened
+54,M,Asian,73,168,None,None,Marker1,Hypertension,"BP, HR, Temp",CBC,Medication,50mg,,3 months,No,Non-smoker,No Change
+58,M,Caucasian,78,156,Arthritis,None,Marker1,Diabetes,"BP, HR, Temp",CBC,Surgery,100mg,Daily,1 year,No,Smoker,Worsened
+59,M,African American,63,178,Diabetes,None,Marker2,Hypertension,"BP, HR",Glucose,Surgery,50mg,,3 months,No,Non-smoker,No Change
+32,M,Asian,59,180,None,None,Marker1,Cancer,"BP, HR",Glucose,Chemotherapy,,,3 months,No,Smoker,Improved
+51,F,Caucasian,82,187,Hypertension,Heart Disease,Marker1,Cancer,"BP, HR",Glucose,Surgery,,,1 year,No,Non-smoker,Improved
+30,M,Hispanic,64,198,Arthritis,Cancer,Marker3,Diabetes,"BP, HR",Cholesterol,Chemotherapy,100mg,,6 months,No,Non-smoker,No Change
+59,F,Caucasian,65,163,None,Cancer,Marker1,Diabetes,"BP, HR, Temp",CBC,Surgery,,Weekly,1 year,Yes,Non-smoker,No Change
+33,F,Asian,53,185,Arthritis,None,Marker1,Hypertension,"BP, HR, Temp",CBC,Medication,50mg,Daily,3 months,Yes,Smoker,Worsened
+31,F,African American,70,183,None,Heart Disease,Marker3,Hypertension,"BP, HR",CBC,Surgery,,,1 year,Yes,Smoker,Improved
+53,M,Asian,83,170,Hypertension,None,Marker1,Cancer,"BP, HR",CBC,Surgery,,Daily,1 year,Yes,Smoker,Improved
+23,F,African American,73,157,Arthritis,Heart Disease,Marker2,Cancer,"BP, HR",Cholesterol,Surgery,50mg,Daily,3 months,No,Non-smoker,Improved
+60,F,Hispanic,68,193,Diabetes,Cancer,Marker1,Hypertension,"BP, HR",Glucose,Medication,50mg,Daily,6 months,No,Non-smoker,Worsened
+49,F,Asian,98,171,Hypertension,Heart Disease,Marker1,Diabetes,"BP, HR, Temp",CBC,Chemotherapy,100mg,,6 months,Yes,Non-smoker,No Change
+72,F,African American,51,174,Arthritis,Cancer,Marker2,Diabetes,"BP, HR, Temp",Glucose,Surgery,50mg,Weekly,3 months,Yes,Non-smoker,Improved
+23,F,African American,86,180,None,Cancer,Marker3,Cancer,"BP, HR",Cholesterol,Surgery,,Weekly,1 year,Yes,Non-smoker,No Change
+77,F,African American,76,152,Diabetes,Heart Disease,Marker3,Cancer,"BP, HR, Temp",Cholesterol,Medication,100mg,Weekly,3 months,No,Smoker,No Change
+28,M,Hispanic,51,154,Hypertension,Cancer,Marker2,Cancer,"BP, HR",Glucose,Medication,50mg,Daily,1 year,No,Non-smoker,Improved
+57,M,African American,74,175,Hypertension,None,Marker2,Diabetes,"BP, HR, Temp",Cholesterol,Medication,50mg,Weekly,1 year,Yes,Non-smoker,Improved
+27,F,Hispanic,76,187,Hypertension,Cancer,Marker3,Hypertension,"BP, HR",CBC,Medication,100mg,Weekly,1 year,No,Non-smoker,Improved
+61,M,Asian,94,157,None,Cancer,Marker3,Hypertension,"BP, HR",Glucose,Medication,50mg,Daily,1 year,No,Smoker,Improved
+22,F,Asian,50,199,Diabetes,Cancer,Marker2,Hypertension,"BP, HR",Glucose,Medication,,Weekly,1 year,Yes,Smoker,No Change
+44,M,Hispanic,93,161,Arthritis,Cancer,Marker3,Hypertension,"BP, HR",Cholesterol,Surgery,,,1 year,No,Smoker,No Change
+40,F,African American,61,174,Diabetes,None,Marker1,Cancer,"BP, HR",CBC,Surgery,,Weekly,3 months,No,Smoker,No Change
+37,F,African American,75,153,None,Heart Disease,Marker2,Hypertension,"BP, HR, Temp",CBC,Medication,,Daily,1 year,Yes,Non-smoker,Worsened
+59,M,African American,93,175,None,Cancer,Marker1,Cancer,"BP, HR",CBC,Chemotherapy,50mg,,1 year,Yes,Non-smoker,Worsened
+37,M,Hispanic,88,183,Hypertension,Heart Disease,Marker2,Hypertension,"BP, HR, Temp",CBC,Medication,50mg,Weekly,6 months,Yes,Smoker,Improved
+55,F,African American,95,175,Hypertension,Heart Disease,Marker1,Hypertension,"BP, HR, Temp",Cholesterol,Surgery,,Weekly,6 months,No,Non-smoker,No Change
+51,F,Hispanic,81,192,None,Cancer,Marker3,Hypertension,"BP, HR, Temp",Glucose,Chemotherapy,100mg,Weekly,6 months,Yes,Smoker,Worsened
+54,M,Hispanic,65,172,Hypertension,Cancer,Marker3,Diabetes,"BP, HR, Temp",CBC,Surgery,,Daily,6 months,No,Smoker,Worsened
+55,F,Hispanic,72,169,Arthritis,Heart Disease,Marker3,Diabetes,"BP, HR, Temp",CBC,Medication,100mg,Weekly,3 months,No,Non-smoker,Improved
+73,M,Hispanic,57,179,Diabetes,Cancer,Marker1,Hypertension,"BP, HR, Temp",Glucose,Chemotherapy,50mg,Weekly,3 months,Yes,Smoker,Worsened
+54,M,Asian,98,197,Diabetes,Heart Disease,Marker3,Hypertension,"BP, HR",Glucose,Surgery,,Daily,1 year,No,Non-smoker,Improved
+24,M,Hispanic,79,195,Arthritis,Heart Disease,Marker2,Diabetes,"BP, HR, Temp",CBC,Surgery,100mg,Weekly,3 months,Yes,Smoker,No Change
+35,F,African American,82,150,Hypertension,Heart Disease,Marker1,Hypertension,"BP, HR",Cholesterol,Medication,100mg,Weekly,6 months,No,Smoker,Improved
+69,F,African American,92,170,Arthritis,Cancer,Marker3,Hypertension,"BP, HR, Temp",CBC,Surgery,,Daily,1 year,No,Non-smoker,No Change
+31,M,African American,94,194,Diabetes,Heart Disease,Marker1,Diabetes,"BP, HR",CBC,Medication,100mg,Weekly,1 year,No,Smoker,Worsened
+63,M,African American,50,183,Hypertension,Cancer,Marker3,Cancer,"BP, HR, Temp",Cholesterol,Chemotherapy,50mg,Weekly,6 months,Yes,Smoker,Worsened
+79,F,Caucasian,72,177,Diabetes,None,Marker3,Hypertension,"BP, HR",CBC,Surgery,,Weekly,6 months,No,Non-smoker,Improved
+37,F,Caucasian,98,153,Hypertension,Heart Disease,Marker2,Cancer,"BP, HR",Glucose,Medication,,Daily,6 months,Yes,Non-smoker,Worsened
+77,M,Caucasian,76,167,Arthritis,None,Marker3,Cancer,"BP, HR",CBC,Medication,,,3 months,No,Smoker,Improved
+63,M,Caucasian,84,187,Hypertension,Heart Disease,Marker2,Hypertension,"BP, HR, Temp",Cholesterol,Medication,50mg,Weekly,3 months,No,Non-smoker,Worsened
+41,F,Asian,64,159,Hypertension,Heart Disease,Marker3,Hypertension,"BP, HR, Temp",Glucose,Surgery,,,3 months,Yes,Non-smoker,No Change
+35,F,Asian,52,197,Hypertension,Heart Disease,Marker3,Hypertension,"BP, HR, Temp",CBC,Chemotherapy,100mg,,1 year,Yes,Non-smoker,Improved
+74,M,Hispanic,66,192,None,Heart Disease,Marker3,Cancer,"BP, HR",Glucose,Chemotherapy,100mg,Weekly,6 months,Yes,Non-smoker,Worsened
+47,M,Caucasian,76,161,Hypertension,None,Marker3,Diabetes,"BP, HR, Temp",CBC,Surgery,50mg,,1 year,No,Smoker,Worsened
+53,F,Caucasian,78,196,Diabetes,Heart Disease,Marker1,Cancer,"BP, HR",CBC,Medication,100mg,Weekly,3 months,Yes,Smoker,No Change
+61,F,Caucasian,88,197,None,Cancer,Marker2,Hypertension,"BP, HR, Temp",Cholesterol,Medication,,Weekly,6 months,Yes,Smoker,No Change
+46,F,Hispanic,95,198,Arthritis,None,Marker1,Hypertension,"BP, HR, Temp",CBC,Chemotherapy,,,3 months,Yes,Non-smoker,Improved
+27,M,Asian,69,198,Diabetes,Cancer,Marker1,Diabetes,"BP, HR, Temp",CBC,Chemotherapy,100mg,,6 months,Yes,Non-smoker,Worsened

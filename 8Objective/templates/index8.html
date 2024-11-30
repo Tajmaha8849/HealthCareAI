@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Disease Recommendations</title>
+    
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+        }
+        h1 {
+            text-align: center;
+        }
+        form {
+            display: flex;
+            flex-direction: column;
+        }
+        label {
+            margin: 10px 0 5px;
+        }
+        input[type="text"], input[type="submit"] {
+            padding: 10px;
+            margin: 10px 0;
+        }
+        .result {
+            margin-top: 20px;
+            padding: 10px;
+            border: 1px solid #ccc;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Disease Recommendations</h1>
+        <form id="diseaseForm">
+            <label for="disease">Enter Disease:</label>
+            <input type="text" id="disease" name="disease" required>
+            <input type="submit" value="Get Recommendations">
+        </form>
+        <div class="result" id="result" style="display: none;">
+            <h2>Recommendations:</h2>
+            <p><strong>Health Precautions:</strong> <span id="precautions"></span></p>
+            <p><strong>Dietary Recommendations:</strong> <span id="dietary"></span></p>
+            <p><strong>Exercise Recommendations:</strong> <span id="exercise"></span></p>
+        </div>
+    </div>
+
+    <script>
+        document.getElementById('diseaseForm').addEventListener('submit', function(e) {
+            e.preventDefault();
+            const disease = document.getElementById('disease').value;
+            fetch('/predict_hp8', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                }, 
+                body: JSON.stringify({ disease: disease })
+            })
+            .then(response => response.json())
+            .then(data => {
+                document.getElementById('result').style.display = 'block';
+                document.getElementById('precautions').textContent = data['Health Precautions'];
+                document.getElementById('dietary').textContent = data['Dietary Recommendations'];
+                document.getElementById('exercise').textContent = data['Exercise Recommendations'];
+            })
+            .catch(error => console.error('Error:', error));
+        });
+    </script>
+</body>
+</html>

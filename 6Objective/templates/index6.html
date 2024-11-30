@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Machine Learning Prediction</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            padding: 20px;
+        }
+
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+
+        form {
+            max-width: 600px;
+            margin: 0 auto;
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        form label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: bold;
+        }
+
+        form input[type="number"],
+        form input[type="text"],
+        form select {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 15px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            box-sizing: border-box;
+        }
+
+        form input[type="submit"] {
+            width: 100%;
+            background-color: #4CAF50;
+            color: white;
+            padding: 14px 20px;
+            margin: 8px 0;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+
+        form input[type="submit"]:hover {
+            background-color: #45a049;
+        }
+
+        #result {
+            margin-top: 20px;
+            padding: 20px;
+            background-color: #f9f9f9;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+        }
+
+        #result h2 {
+            color: #333;
+            font-size: 18px;
+            margin-top: 0;
+        }
+    </style>
+</head>
+<body>
+    <h1>HealthOutcome Predictor</h1>
+    
+    <form id="predictionForm">
+        <label for="age">Age:</label>
+        <input type="number" id="age" name="Age" required><br><br>
+        
+        <label for="gender">Gender:</label>
+        <select id="gender" name="Gender" required>
+            <option value="M">Male</option>
+            <option value="F">Female</option>
+        </select><br><br>
+        
+        <label for="ethnicity">Ethnicity:</label>
+        <input type="text" id="ethnicity" name="Ethnicity" required><br><br>
+        
+        <label for="chronicCondition1">Chronic Condition 1:</label>
+        <input type="text" id="chronicCondition1" name="ChronicCondition1" required><br><br>
+        
+        <label for="chronicCondition2">Chronic Condition 2:</label>
+        <input type="text" id="chronicCondition2" name="ChronicCondition2"><br><br>
+        
+        <label for="bpSystolic">Blood Pressure Systolic:</label>
+        <input type="number" id="bpSystolic" name="BP_Systolic"><br><br>
+        
+        <label for="bpDiastolic">Blood Pressure Diastolic:</label>
+        <input type="number" id="bpDiastolic" name="BP_Diastolic"><br><br>
+        
+        <label for="glucose">Glucose Level:</label>
+        <input type="number" id="glucose" name="Glucose" required><br><br>
+        
+        <label for="bmi">BMI:</label>
+        <input type="number" id="bmi" name="BMI" required><br><br>
+        
+        <label for="medication1">Medication 1:</label>
+        <input type="text" id="medication1" name="Medication1" required><br><br>
+        
+        <label for="medication2">Medication 2:</label>
+        <input type="text" id="medication2" name="Medication2"><br><br>
+        
+        <label for="hospitalAdmissions">Hospital Admissions:</label>
+        <input type="number" id="hospitalAdmissions" name="HospitalAdmissions" required><br><br>
+        
+        <input type="submit" value="Predict">
+    </form>
+
+    <div id="result"></div>
+
+    <script>
+        document.getElementById("predictionForm").addEventListener("submit", function(event) {
+            event.preventDefault();
+            
+            var formData = new FormData(this);
+            var jsonData = {};
+            
+            formData.forEach(function(value, key){
+                jsonData[key] = value;
+            });
+            
+            fetch('/predict6', {
+                method: 'POST',
+                body: JSON.stringify(jsonData),
+                headers: {
+                    'Content-Type': 'application/json'
+                }
+            })
+            .then(response => response.json())
+            .then(data => {
+                console.log(data);  // Check response data in console
+                document.getElementById("result").innerHTML = "<h2>Prediction: " + data.prediction + "</h2>";
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                document.getElementById("result").innerHTML = "<h2>Error: " + error + "</h2>";
+            });
+        });
+    </script>
+</body>
+</html>
